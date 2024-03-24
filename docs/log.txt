@@ -1,1 +1,2176 @@
 
+Name: Ekmelos, Ekmelos
+Ver:  1.13
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+
+Name: Ekmelos, Ekmelos
+Ver:  1.14
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+
+Name: Ekmelos, Ekmelos
+Ver:  1.14
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+
+Name: Ekmelos, Ekmelos
+Ver:  2.0
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+
+Name: Ekmelos, Ekmelos
+Ver:  2.1
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+
+Name: Ekmelos, Ekmelos
+Ver:  2.2
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+
+Name: Ekmelos, Ekmelos
+Ver:  2.3
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+Glyphs:               724
+  SMuFL:              583
+    Recommended:      573
+      Accidentals:    420
+      Other:          153
+    Optional:         10
+  Unicode:            141
+    Latin/ASCII:      74
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  58
+
+Name: Ekmelos, Ekmelos
+Ver:  2.4
+Path: /Ekmelik/Software/Ekmelos/Ekmelos.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+Glyphs:               744
+  SMuFL:              583
+    Recommended:      573
+      Accidentals:    420
+      Other:          153
+    Optional:         10
+  Unicode:            161
+    Latin/ASCII:      94
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  58
+
+Name: Ekmelos, Ekmelos
+Ver:  2.5
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+Glyphs:               829
+  SMuFL:              637
+    Recommended:      627
+      Accidentals:    426
+      Other:          201
+    Optional:         10
+  Unicode:            192
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  87
+
+Name: Ekmelos, Ekmelos
+Ver:  2.6
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteheadTick: Missing description.
+Glyphs:               1059
+  SMuFL:              839
+    Recommended:      828
+      Accidentals:    426
+      Other:          402
+    Optional:         11
+  Unicode:            220
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  115
+
+Name: Ekmelos, Ekmelos
+Ver:  2.7
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteheadTick: Missing description.
+Glyphs:               1129
+  SMuFL:              907
+    Recommended:      896
+      Accidentals:    426
+      Other:          470
+    Optional:         11
+  Unicode:            222
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  117
+
+Name: Ekmelos, Ekmelos
+Ver:  2.8
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteheadTick: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+Glyphs:               1140
+  SMuFL:              918
+    Recommended:      903
+      Accidentals:    433
+      Other:          470
+    Optional:         15
+  Unicode:            222
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  117
+
+Name: Ekmelos, Ekmelos
+Ver:  2.9
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+Glyphs:               1311
+  SMuFL:              1062
+    Recommended:      1047
+      Accidentals:    433
+      Other:          614
+    Optional:         15
+  Unicode:            249
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  144
+
+Name: Ekmelos, Ekmelos
+Ver:  2.10
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+Glyphs:               1356
+  SMuFL:              1107
+    Recommended:      1063
+      Accidentals:    433
+      Other:          630
+    Optional:         44
+  Unicode:            249
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  144
+
+Name: Ekmelos, Ekmelos
+Ver:  2.11
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+Glyphs:               1473
+  SMuFL:              1212
+    Recommended:      1165
+      Accidentals:    433
+      Other:          732
+    Optional:         47
+  Unicode:            261
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  156
+
+Name: Ekmelos, Ekmelos
+Ver:  2.12
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+Glyphs:               1597
+  SMuFL:              1326
+    Recommended:      1277
+      Accidentals:    433
+      Other:          844
+    Optional:         49
+  Unicode:            271
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  166
+
+Name: Ekmelos, Ekmelos
+Ver:  2.13
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+Glyphs:               1653
+  SMuFL:              1382
+    Recommended:      1333
+      Accidentals:    433
+      Other:          900
+    Optional:         49
+  Unicode:            271
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  166
+
+Name: Ekmelos, Ekmelos
+Ver:  2.14
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+Glyphs:               1729
+  SMuFL:              1458
+    Recommended:      1409
+      Accidentals:    433
+      Other:          976
+    Optional:         49
+  Unicode:            271
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  166
+
+Name: Ekmelos, Ekmelos
+Ver:  2.15
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+Glyphs:               1737
+  SMuFL:              1466
+    Recommended:      1417
+      Accidentals:    433
+      Other:          984
+    Optional:         49
+  Unicode:            271
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  166
+
+Name: Ekmelos, Ekmelos
+Ver:  2.16
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+Glyphs:               1920
+  SMuFL:              1643
+    Recommended:      1579
+      Accidentals:    433
+      Other:          1146
+    Optional:         64
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.17
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+articPortatoAbove: Missing description.
+articPortatoBelow: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+Glyphs:               1920
+  SMuFL:              1643
+    Recommended:      1579
+      Accidentals:    433
+      Other:          1146
+    Optional:         64
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.18
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               1946
+  SMuFL:              1669
+    Recommended:      1579
+      Accidentals:    433
+      Other:          1146
+    Optional:         90
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.19
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+pictTambourineStockhausen: Missing description.
+pictXylBassPeinkofer: Missing description.
+pictXylTenorPeinkofer: Missing description.
+pictVibPeinkofer: Missing description.
+pictVibMotorOffPeinkofer: Missing description.
+pictLithophonePeinkofer: Missing description.
+pictTubaphonePeinkofer: Missing description.
+pictXylPeinkofer: Missing description.
+pictGlspPeinkofer: Missing description.
+pictMarPeinkofer: Missing description.
+pictTomTomChinesePeinkofer: Missing description.
+pictTimpaniPeinkofer: Missing description.
+pictBassDrumPeinkofer: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               2138
+  SMuFL:              1861
+    Recommended:      1758
+      Accidentals:    433
+      Other:          1325
+    Optional:         103
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.20
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+pictTambourineStockhausen: Missing description.
+pictXylBassPeinkofer: Missing description.
+pictXylTenorPeinkofer: Missing description.
+pictVibPeinkofer: Missing description.
+pictVibMotorOffPeinkofer: Missing description.
+pictLithophonePeinkofer: Missing description.
+pictTubaphonePeinkofer: Missing description.
+pictXylPeinkofer: Missing description.
+pictGlspPeinkofer: Missing description.
+pictMarPeinkofer: Missing description.
+pictTomTomChinesePeinkofer: Missing description.
+pictTimpaniPeinkofer: Missing description.
+pictBassDrumPeinkofer: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               2138
+  SMuFL:              1861
+    Recommended:      1758
+      Accidentals:    433
+      Other:          1325
+    Optional:         103
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.21
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+pictTambourineStockhausen: Missing description.
+pictXylBassPeinkofer: Missing description.
+pictXylTenorPeinkofer: Missing description.
+pictVibPeinkofer: Missing description.
+pictVibMotorOffPeinkofer: Missing description.
+pictLithophonePeinkofer: Missing description.
+pictTubaphonePeinkofer: Missing description.
+pictXylPeinkofer: Missing description.
+pictGlspPeinkofer: Missing description.
+pictMarPeinkofer: Missing description.
+pictTomTomChinesePeinkofer: Missing description.
+pictTimpaniPeinkofer: Missing description.
+pictBassDrumPeinkofer: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+noteheadDiamondClusterHalf2nd: Missing description.
+noteheadDiamondClusterHalf3rd: Missing description.
+noteheadDiamondClusterHalfTop: Missing description.
+noteheadDiamondClusterHalfMiddle: Missing description.
+noteheadDiamondClusterHalfBottom: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               2186
+  SMuFL:              1909
+    Recommended:      1801
+      Accidentals:    433
+      Other:          1368
+    Optional:         108
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.22
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+pictTambourineStockhausen: Missing description.
+pictXylBassPeinkofer: Missing description.
+pictXylTenorPeinkofer: Missing description.
+pictVibPeinkofer: Missing description.
+pictVibMotorOffPeinkofer: Missing description.
+pictLithophonePeinkofer: Missing description.
+pictTubaphonePeinkofer: Missing description.
+pictXylPeinkofer: Missing description.
+pictGlspPeinkofer: Missing description.
+pictMarPeinkofer: Missing description.
+pictTomTomChinesePeinkofer: Missing description.
+pictTimpaniPeinkofer: Missing description.
+pictBassDrumPeinkofer: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+noteheadDiamondClusterHalf2nd: Missing description.
+noteheadDiamondClusterHalf3rd: Missing description.
+noteheadDiamondClusterHalfTop: Missing description.
+noteheadDiamondClusterHalfMiddle: Missing description.
+noteheadDiamondClusterHalfBottom: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               2200
+  SMuFL:              1923
+    Recommended:      1815
+      Accidentals:    433
+      Other:          1382
+    Optional:         108
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.23
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+wiggleVibratoMediumSlower: Missing description.
+wiggleVibratoLargestSlower: Missing description.
+keyboardPedalPedNoDot: Missing description.
+keyboardPedalSostNoDot: Missing description.
+pictTambourineStockhausen: Missing description.
+pictXylBassPeinkofer: Missing description.
+pictXylTenorPeinkofer: Missing description.
+pictVibPeinkofer: Missing description.
+pictVibMotorOffPeinkofer: Missing description.
+pictLithophonePeinkofer: Missing description.
+pictTubaphonePeinkofer: Missing description.
+pictXylPeinkofer: Missing description.
+pictGlspPeinkofer: Missing description.
+pictMarPeinkofer: Missing description.
+pictLotusFlutePeinkofer: Missing description.
+pictTomTomChinesePeinkofer: Missing description.
+pictTimpaniPeinkofer: Missing description.
+pictBassDrumPeinkofer: Missing description.
+accidentalRingArrowDown: Missing description.
+accidentalRingArrowUp: Missing description.
+accidentalHalfFlat: Missing description.
+accidentalHalfDoubleFlat: Missing description.
+noteTick: Missing description.
+accidentalFlatArrowBoth: Missing description.
+accidentalNaturalArrowBoth: Missing description.
+accidentalSharpArrowBoth: Missing description.
+accidentalReversedFlatSlash: Missing description.
+accidentalNarrowReversedFlatSlash: Missing description.
+accidentalDoubleFlatSlash: Missing description.
+accidentalSharpSlash: Missing description.
+accidentalHalfSharpSlash: Missing description.
+accidentalQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterFlatEqualTempered: Missing description.
+accidentalThreeQuarterFlatFilledEqualTempered: Missing description.
+accidentalThreeQuarterSharpEqualTempered: Missing description.
+gClef8vbOldChange: Missing description.
+gClef8vbCClefChange: Missing description.
+cClefSquareChange: Missing description.
+cClefFrench20C: Missing description.
+cClefFrench20CChange: Missing description.
+unpitchedPercussionClef1Change: Missing description.
+unpitchedPercussionClef2Change: Missing description.
+noteheadLongaUp: Missing description.
+noteheadLongaDown: Missing description.
+noteheadDoubleWholeAlt: Missing description.
+stringsOpen: Missing description.
+stringsHalfOpen: Missing description.
+stringsHalfOpenVertical: Missing description.
+breathMarkCommaTurned: Missing description.
+breathMarkCommaWedge: Missing description.
+breathMarkCommaWedgeTurned: Missing description.
+arpeggioSegment: Missing description.
+arpeggioArrowUp: Missing description.
+arpeggioArrowDown: Missing description.
+dynamicSforzandoFF: Missing description.
+dynamicSP: Missing description.
+dynamicSPP: Missing description.
+harpPedalRaisedChange: Missing description.
+harpPedalCenteredChange: Missing description.
+harpPedalLoweredChange: Missing description.
+noteheadDiamondClusterHalf2nd: Missing description.
+noteheadDiamondClusterHalf3rd: Missing description.
+noteheadDiamondClusterHalfTop: Missing description.
+noteheadDiamondClusterHalfMiddle: Missing description.
+noteheadDiamondClusterHalfBottom: Missing description.
+accdnRH4Ranks4ReedTenor: Missing description.
+accdnRH4Ranks4ReedMaster: Missing description.
+accdnRH4Ranks45ReedSoftBass: Missing description.
+accdnRH4RanksSoftBassAlto: Missing description.
+accdnRH4Ranks5ReedAlto: Missing description.
+accdnRH4Ranks5ReedTenor: Missing description.
+accdnRH4Ranks5ReedMaster: Missing description.
+accdnRH4RanksSopranos: Missing description.
+accdnRH4RanksSoloBass: Missing description.
+accdnRH4RanksSoloAlto: Missing description.
+accdnRH4RanksAltoSoprano: Missing description.
+accdnRH3RanksCeleste: Missing description.
+accidentalHaba1TwelfthsSharp: Missing description.
+accidentalHaba2TwelfthsSharp: Missing description.
+accidentalHaba3TwelfthsSharp: Missing description.
+accidentalHaba4TwelfthsSharp: Missing description.
+accidentalHaba5TwelfthsSharp: Missing description.
+accidentalHaba6TwelfthsSharp: Missing description.
+accidentalHaba7TwelfthsSharp: Missing description.
+accidentalHaba8TwelfthsSharp: Missing description.
+accidentalHaba9TwelfthsSharp: Missing description.
+accidentalHaba10TwelfthsSharp: Missing description.
+accidentalHaba11TwelfthsSharp: Missing description.
+accidentalHaba1TwelfthsFlat: Missing description.
+accidentalHaba2TwelfthsFlat: Missing description.
+accidentalHaba3TwelfthsFlat: Missing description.
+accidentalHaba4TwelfthsFlat: Missing description.
+accidentalHaba5TwelfthsFlat: Missing description.
+accidentalHaba6TwelfthsFlat: Missing description.
+accidentalHaba1TwelfthsSharpAlt: Missing description.
+accidentalOneQuarterToneSharpHaba: Missing description.
+accidentalOneQuarterToneFlatHaba: Missing description.
+accidentalThreeQuarterTonesSharpHaba: Missing description.
+accidentalThreeQuarterTonesFlatHaba: Missing description.
+accidentalFlatRaisedHaba: Missing description.
+accidentalSharpLoweredHaba: Missing description.
+accidentalOneFifthToneSharpFerneyhough: Missing description.
+accidentalTwoFifthTonesSharpFerneyhough: Missing description.
+accidentalThreeFifthTonesSharpFerneyhough: Missing description.
+accidentalFourFifthTonesSharpFerneyhough: Missing description.
+Glyphs:               2239
+  SMuFL:              1962
+    Recommended:      1853
+      Accidentals:    433
+      Other:          1420
+    Optional:         109
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.24
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2312
+  SMuFL:              2035
+    Recommended:      1926
+      Accidentals:    443
+      Other:          1483
+    Optional:         109
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.25
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2353
+  SMuFL:              2076
+    Recommended:      1967
+      Accidentals:    443
+      Other:          1524
+    Optional:         109
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.26
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2427
+  SMuFL:              2150
+    Recommended:      2041
+      Accidentals:    443
+      Other:          1598
+    Optional:         109
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.27
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2449
+  SMuFL:              2172
+    Recommended:      2063
+      Accidentals:    443
+      Other:          1620
+    Optional:         109
+  Unicode:            277
+    Latin/ASCII:      96
+    Punctuation:      4
+    Miscellaneous:    5
+    Musical Symbols:  172
+
+Name: Ekmelos, Ekmelos
+Ver:  2.28
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2585
+  SMuFL:              2248
+    Recommended:      2136
+      Accidentals:    443
+      Other:          1693
+    Optional:         112
+  Unicode:            337
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    7
+    Musical Symbols:  172
+    Miscellaneous2:   34
+
+Name: Ekmelos, Ekmelos
+Ver:  2.29
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2637
+  SMuFL:              2300
+    Recommended:      2188
+      Accidentals:    443
+      Other:          1745
+    Optional:         112
+  Unicode:            337
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    7
+    Musical Symbols:  172
+    Miscellaneous2:   34
+
+Name: Ekmelos, Ekmelos
+Ver:  2.30
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2652
+  SMuFL:              2315
+    Recommended:      2197
+      Accidentals:    443
+      Other:          1754
+    Optional:         118
+  Unicode:            337
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    7
+    Musical Symbols:  172
+    Miscellaneous2:   34
+
+Name: Ekmelos, Ekmelos
+Ver:  2.31
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2751
+  SMuFL:              2414
+    Recommended:      2223
+      Accidentals:    453
+      Other:          1770
+    Optional:         191
+  Unicode:            337
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    7
+    Musical Symbols:  172
+    Miscellaneous2:   34
+
+Name: Ekmelos, Ekmelos
+Ver:  2.32
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2793
+  SMuFL:              2456
+    Recommended:      2223
+      Accidentals:    453
+      Other:          1770
+    Optional:         233
+  Unicode:            337
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    7
+    Musical Symbols:  172
+    Miscellaneous2:   34
+
+Name: Ekmelos, Ekmelos
+Ver:  2.33
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2874
+  SMuFL:              2520
+    Recommended:      2223
+      Accidentals:    453
+      Other:          1770
+    Optional:         297
+  Unicode:            354
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    10
+    Dingbats:         7
+    Musical Symbols:  172
+    Miscellaneous2:   41
+
+Name: Ekmelos, Ekmelos
+Ver:  2.34
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2881
+  SMuFL:              2527
+    Recommended:      2223
+      Accidentals:    453
+      Other:          1770
+    Optional:         304
+  Unicode:            354
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    10
+    Dingbats:         7
+    Musical Symbols:  172
+    Miscellaneous2:   41
+
+Name: Ekmelos, Ekmelos
+Ver:  2.35
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2894
+  SMuFL:              2537
+    Recommended:      2223
+      Accidentals:    453
+      Other:          1770
+    Optional:         314
+  Unicode:            357
+    Latin/ASCII:      96
+    Punctuation:      4
+    Technical:        24
+    Miscellaneous:    10
+    Dingbats:         7
+    Musical Symbols:  172
+    Miscellaneous2:   44
+
+Name: Ekmelos, Ekmelos
+Ver:  2.36
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2988
+  SMuFL:              2572
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         322
+  Unicode:            416
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           4
+    Technical:        28
+    Symbols:          10
+    Dingbats:         17
+    Symbols/Arrows:   36
+    Musical Symbols:  172
+    Symbols/Pict:     49
+
+Name: Ekmelos, Ekmelos
+Ver:  2.37
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2994
+  SMuFL:              2578
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         328
+  Unicode:            416
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           4
+    Technical:        28
+    Symbols:          10
+    Dingbats:         17
+    Symbols/Arrows:   36
+    Musical Symbols:  172
+    Symbols/Pict:     49
+
+Name: Ekmelos, Ekmelos
+Ver:  2.38
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               2994
+  SMuFL:              2578
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         328
+  Unicode:            416
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           4
+    Technical:        28
+    Symbols:          10
+    Dingbats:         17
+    Symbols/Arrows:   36
+    Musical Symbols:  172
+    Symbols/Pict:     49
+
+Name: Ekmelos, Ekmelos
+Ver:  2.39
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3013
+  SMuFL:              2597
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         347
+  Unicode:            416
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           4
+    Technical:        28
+    Symbols:          10
+    Dingbats:         17
+    Symbols/Arrows:   36
+    Musical Symbols:  172
+    Symbols/Pict:     49
+
+Name: Ekmelos, Ekmelos
+Ver:  2.40
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3118
+  SMuFL:              2617
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         367
+  Unicode:            501
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           29
+    Mathematical:     1
+    Technical:        33
+    Symbols:          18
+    Dingbats:         24
+    Symbols/Arrows:   53
+    Musical Symbols:  172
+    Symbols/Pict:     71
+
+Name: Ekmelos, Ekmelos
+Ver:  2.41
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3134
+  SMuFL:              2633
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         383
+  Unicode:            501
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           29
+    Mathematical:     1
+    Technical:        33
+    Symbols:          18
+    Dingbats:         24
+    Symbols/Arrows:   53
+    Musical Symbols:  172
+    Symbols/Pict:     71
+
+Name: Ekmelos, Ekmelos
+Ver:  2.42
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3368
+  SMuFL:              2634
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         384
+  Unicode:            734
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     71
+
+Name: Ekmelos, Ekmelos
+Ver:  2.43
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3371
+  SMuFL:              2637
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         387
+  Unicode:            734
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     71
+
+Name: Ekmelos, Ekmelos
+Ver:  2.44
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3375
+  SMuFL:              2641
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         391
+  Unicode:            734
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     71
+
+Name: Ekmelos, Ekmelos
+Ver:  2.45
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3400
+  SMuFL:              2638
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         388
+  Unicode:            762
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     99
+
+Name: Ekmelos, Ekmelos
+Ver:  2.46
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3402
+  SMuFL:              2639
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         389
+  Unicode:            763
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     100
+
+Name: Ekmelos, Ekmelos
+Ver:  2.47
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3409
+  SMuFL:              2639
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         389
+  Unicode:            770
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           86
+    Mathematical:     9
+    Technical:        40
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          18
+    Dingbats:         34
+    Symbols/Arrows:   116
+    Musical Symbols:  172
+    Symbols/Pict:     107
+
+Name: Ekmelos, Ekmelos
+Ver:  2.48
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3420
+  SMuFL:              2643
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         393
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3441
+  SMuFL:              2664
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         414
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3441
+  SMuFL:              2664
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         414
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3441
+  SMuFL:              2664
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         414
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3441
+  SMuFL:              2664
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         414
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.49
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3441
+  SMuFL:              2664
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         414
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.50
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3445
+  SMuFL:              2668
+    Recommended:      2250
+      Accidentals:    453
+      Other:          1797
+    Optional:         418
+  Unicode:            777
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        41
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         34
+    Symbols/Arrows:   118
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.51
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3494
+  SMuFL:              2705
+    Recommended:      2280
+      Accidentals:    477
+      Other:          1803
+    Optional:         425
+  Unicode:            789
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        42
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         41
+    Symbols/Arrows:   122
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.52
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3491
+  SMuFL:              2702
+    Recommended:      2280
+      Accidentals:    477
+      Other:          1803
+    Optional:         422
+  Unicode:            789
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        42
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         41
+    Symbols/Arrows:   122
+    Musical Symbols:  172
+    Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.53
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3493
+  SMuFL:              2704
+    Recommended:      2280
+      Accidentals:    477
+      Other:          1803
+    Optional:         424
+  Unicode:            789
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        42
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         41
+    Symbols/Arrows:   122
+    Musical Symbols:  172
+    Symbols/Pict:     108
