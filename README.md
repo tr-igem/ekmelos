@@ -15,8 +15,6 @@ The Ekmelos Font Software is a family consisting of four fonts:
 *   Ekmelos 24-EDO
 *   Ekmelos 72-EDO
 
-Each is available as OpenType, WOFF, WOFF2, and SVG.
-The first font is also available as [UFO3](https://unifiedfontobject.org/).
-The other fonts include mainly accidentals for the respective EDO,
+The N-EDO fonts are extracts including mainly accidentals for the respective EDO,
 intended for use on Web pages (e.g. with [ekmelib](http://www.ekmelic-music.org/en/extra/ekmelib.htm))
-reducing the download volume.
+to reduce the download volume.
