@@ -1,0 +1,1349 @@
+ChangeLog for the Ekmelos font
+==============================
+
+Version 0.1 (1 September 2013):
+- Initial release
+
+Version 0.2 (3 September 2013):
+- Added standard accidentals like in LilyPond's Feta font: natural (U+E400), sharp (U+E410), flat (U+E420), doublesharp (U+E41F), flatflat (U+E42F).
+- Added simple arrows (U+E401,U+E402) and double-arrows (U+E403,U+E404).
+- Added arrows with slash (U+E405,U+E406).
+
+Version 0.3 (8 September 2013):
+- Added barbs (half arrows left) (U+E407,U+E408) and Tartini's hook (U+E409,U+E40A).
+- Added combinations of arrows, barbs, and Tartini's hook with sharp (U+E411..U+E41A) and flat (U+E421..U+E42A).
+
+Version 0.4 (9 October 2013):
+- Added special barbs with slash similar to Ezra Sims' notation (U+E40B,U+E40C) and their combinations with sharp and flat.
+
+Version 0.5 (14 October 2013):
+- Reduced width of all arrows and adjusted spacing between signs in combinations.
+
+Version 0.6 (23 October 2013):
+- Enlarged spacing in combinations with barbs, barbs with slash, and Tartini's hook.
+
+Version 0.7 (19 January 2014):
+- Enlarged metrics' width of natural for combination as "extra natural".
+
+Version 1.0 (22 June 2015):
+- Changed code points and glyph names to be compliant with SMuFL version 1.18.
+- Moved standard accidentals:
+  accidentalNatural (U+E261), accidentalFlat (U+E260), accidentalSharp (U+E262), accidentalDoubleSharp (U+E263), accidentalDoubleFlat (U+E264).
+- Moved Sims accidentals (72-EDO):
+  accidentalSims12Down (U+E2A0), accidentalSims6Down (U+E2A1), accidentalSims4Down (U+E2A2), accidentalSims12Up (U+E2A3), accidentalSims6Up (U+E2A4), accidentalSims4Up (U+E2A5).
+- Moved Richter Herf / Maedel accidentals (72-EDO) to optional glyphs:
+  accidentalRHM12Down (U+F600), accidentalRHM6Down (U+F601), accidentalRHM4Down (U+F602), accidentalRHM12Up (U+F603), accidentalRHM6Up (U+F604), accidentalRHM4Up (U+F605).
+- Added arrows of Gould arrow quartertone accidentals (24-EDO):
+  accidentalArrowUp (U+E27A), accidentalArrowDown (U+E27B).
+- Added slash symbols for 1/12 tone:
+  Bosanquet comma symbols: accidentalCommaSlashUp (U+E479), accidentalCommaSlashDown (U+E47A).
+  Wilson symbols: accidentalWilsonPlus (U+E47B), accidentalWilsonMinus (U+E47C).
+- Removed accidentals in the range U+E400-U+E42F
+- Added ligatures of Sims accidentals for 1/4 and 1/6 tone as optional glyphs:
+  accidentalSimsLig6DownFlat (U+F606) = accidentalSims6Down + accidentalFlat,
+  accidentalSimsLig4DownFlat (U+F607) = accidentalSims4Down + accidentalFlat,
+  accidentalSimsLig6UpFlat (U+F608) = accidentalSims6Up + accidentalFlat,
+  accidentalSimsLig4UpFlat (U+F609) = accidentalSims4Up + accidentalFlat,
+  accidentalSimsLig6DownSharp (U+F60A) = accidentalSims6Down + accidentalSharp,
+  accidentalSimsLig4DownSharp (U+F60B) = accidentalSims4Down + accidentalSharp,
+  accidentalSimsLig6UpSharp (U+F60C) = accidentalSims6Up + accidentalSharp,
+  accidentalSimsLig4UpSharp (U+F60D) = accidentalSims4Up + accidentalSharp.
+
+Version 1.1 (25 July 2015):
+- Added Gould arrow quartertone accidentals (24-EDO):
+  accidentalQuarterToneFlatArrowUp (U+E270) – accidentalFiveQuarterTonesFlatArrowDown (U+E279).
+- Added Stein-Zimmermann accidentals (24-EDO):
+  accidentalQuarterToneFlatStein (U+E280) – accidentalNarrowReversedFlatAndFlat (U+E285).
+- Added part of Spartan Sagittal single-shaft/multi-shaft accidentals for 72-EDO:
+  accSagittal5CommaUp (U+E302), accSagittal5CommaDown (U+E303), accSagittal7CommaUp (U+E304), accSagittal7CommaDown (U+E305),
+  accSagittal11MediumDiesisUp (U+E30A), accSagittal11MediumDiesisDown (U+E30B),
+  accSagittalSharp7CDown (U+E312), accSagittalFlat7CUp (U+E313), accSagittalSharp5CDown (U+E314), accSagittalFlat5CUp (U+E315),
+  accSagittalSharp (U+E318), accSagittalFlat (U+E319),
+  accSagittalSharp5CUp (U+E31E), accSagittalFlat5CDown (U+E31F), accSagittalSharp7CUp (U+E320), accSagittalFlat7CDown (U+E321),
+  accSagittalSharp11MUp (U+E326), accSagittalFlat11MDown (U+E327),
+  accSagittalDoubleSharp7CDown (U+E32E), accSagittalDoubleFlat7CUp (U+E32F), accSagittalDoubleSharp5CDown (U+E330), accSagittalDoubleFlat5CUp (U+E331),
+  accSagittalDoubleSharp (U+E334), accSagittalDoubleFlat (U+E335).
+- Added Wyschnegradsky accidentals (72-EDO):
+  accidentalWyschnegradsky1TwelfthsSharp (U+E420) – accidentalWyschnegradsky11TwelfthsFlat (U+E435).
+- Added Large double sharp for Mixed Sagittal notation:
+  accidentalLargeDoubleSharp (U+E47D).
+- Added ligatures of Sims accidentals for 1/4 and 1/6 tone as optional glyphs:
+  accidentalSimsLig6DownDoubleFlat (U+F60E) = accidentalSims6Down + accidentalDoubleFlat,
+  accidentalSimsLig4DownDoubleFlat (U+F60F) = accidentalSims4Down + accidentalDoubleFlat,
+  accidentalSimsLig6UpDoubleFlat (U+F610) = accidentalSims6Up + accidentalDoubleFlat,
+  accidentalSimsLig4UpDoubleFlat (U+F611) = accidentalSims4Up + accidentalDoubleFlat,
+  accidentalSimsLig4DownDoubleSharp (U+F613) = accidentalSims4Down + accidentalDoubleSharp,
+  accidentalSimsLig4UpDoubleSharp (U+F615) = accidentalSims4Up + accidentalDoubleSharp.
+- Reduced slant of Bosanquet comma symbols:
+  accidentalCommaSlashUp, accidentalCommaSlashDown.
+- Added Stein-Zimmermann accidentals (24-EDO):
+  accidentalQuarterToneFlatStein (U+E280) - accidentalNarrowReversedFlatAndFlat (U+E285).
+- Added some quartertone accidentals (24-EDO):
+  accidentalThreeQuarterTonesFlatTartini (U+E487),
+  accidentalQuarterToneFlatVanBlankenburg (U+E488),
+  accidentalThreeQuarterTonesFlatCouper (U+E489).
+
+Version 1.2 (14 January 2016):
+- Changed OS/2 Metrics (according to Bravura): Ascent/Descent = [-]2012, Linegap = 0
+- Changed TeX Metrics (similar to Bravura): Space = 300, Stretch = 150, Shrink = 100
+- Added Extended Stein-Zimmermann accidentals:
+  accidentalReversedFlatArrowUp (U+E290) – accidentalOneAndAHalfSharpsArrowDown (U+E29C).
+- Added Persian accidentals:
+  accidentalKoron (U+E460), accidentalSori (U+E461).
+- Added several other (quartertone, third-tone) accidentals:
+  Xenakis: accidentalXenakisOneThirdToneSharp (U+E470), accidentalXenakisTwoThirdTonesSharp (U+E471),
+  Busotti: accidentalQuarterToneSharpBusotti (U+E472) – accidentalThreeQuarterTonesSharpBusotti (U+E474),
+  accidentalQuarterToneSharpWiggle (U+E475),
+  Tavener: accidentalTavenerSharp (U+E476), accidentalTavenerFlat (U+E477),
+  Penderecki: accidentalQuarterToneFlatPenderecki (U+E478),
+  Symbols with digit 4: accidentalQuarterToneSharp4 (U+E47E), accidentalQuarterToneFlat4 (U+E47F),
+  Reversed symbols: accidentalQuarterToneFlatFilledReversed (U+E480) - accidentalDoubleFlatReversed (U+E483),
+  Turned symbols: accidentalFlatTurned (U+E484), accidentalDoubleFlatTurned (U+E485),
+  Grisey: accidentalThreeQuarterTonesFlatGrisey (U+E486),
+  Ferneyhough: accidentalOneThirdToneSharpFerneyhough (U+E48A) - accidentalTwoThirdTonesFlatFerneyhough (U+E48D).
+
+Version 1.3 (27 January 2016):
+- Added accidental parentheses (U+E26A, U+E26B) for cautionary accidental styles.
+
+Version 1.4 (8 September 2016):
+- Added further Standard accidentals:
+  accidentalTripleSharp (U+E265), accidentalTripleFlat (U+E266),
+  accidentalNaturalFlat (U+E267), accidentalNaturalSharp (U+E268), accidentalSharpSharp (U+E269).
+- Added Johnston accidentals:
+  accidentalJohnstonPlus (U+E2B0) - accidentalJohnston31 (U+E2B7).
+
+Version 1.5 (17 September 2016):
+- Changed vertical position of Johnston accidentals (U+E2B0 - U+E2B5) below/above staff line.
+- Added some Basic Latin (ASCII) punctuation marks:
+  space (U+0020), numbersign (U+0023), parenleft (U+0028), parenright (U+0029),
+  asterisk (U+002A), plus (U+002B), comma (U+002C), hyphen (U+002D), period (U+002E), slash (U+002F),
+  colon (U+003A), semicolon (U+003B), less (U+003C), equals (U+003D), greater (U+003E),
+  bracketleft (U+005B), backslash (U+005C), bracketright (U+005D), asciicircum (U+005E), underscore (U+005F),
+  braceleft (U+007B), verticalbar (U+007C), braceright (U+007D), asciitilde (U+007E).
+- Added decimal digits like in LilyPond's Feta font:
+  zero (U+0030) - nine (U+0039).
+- Added latin small letters:
+  a (U+0061) - z (U+007A).
+
+Version 1.6 (8 January 2017):
+- Removed decimal digits: zero (U+0030) - nine (U+0039).
+- Changed glyph of some characters for improved readability:
+  x (U+0078), asterisk (U+002A), braceleft (U+007B), braceright (U+007D).
+
+Version 1.7 (14 January 2017):
+- Completed ligature table for Sims accidentals accidentalSimsLig*
+- Added alternate Standard accidentals in the Unicode Miscellaneous Symbols range:
+  MUSIC FLAT SIGN (U+266D), MUSIC NATURAL SIGN (U+266E), MUSIC SHARP SIGN (U+266F).
+- Added alternate accidentals in the Unicode Musical Symbols range:
+  MUSICAL SYMBOL DOUBLE SHARP (U+1D12A) - MUSICAL SYMBOL QUARTER TONE FLAT (U+1D133).
+- New metadata files metadata.json (replacing ekmelos.json), classes.json,
+  and ekmelily.json (replacing styles.json).
+
+Version 1.8 (18 January 2017):
+- Added Stockhausen accidentals (SMuFL 1.20):
+  accidentalRaisedStockhausen (U+ED50) - accidentalSharpRepeatedLineStockhausen (U+ED5E).
+
+Version 1.9 (20 January 2017):
+- Added further Standard accidentals (SMuFL 1.20):
+  accidentalBracketLeft (U+E26C), accidentalBracketRight (U+E26D).
+- Added missing Spartan Sagittal single-shaft accidentals:
+  accSagittal5v7KleismaUp (U+E300), accSagittal5v7KleismaDown (U+E301).
+  accSagittal25SmallDiesisUp (U+E306), accSagittal25SmallDiesisDown (U+E307),
+  accSagittal35MediumDiesisUp (U+E308), accSagittal35MediumDiesisDown (U+E309),
+  accSagittal11LargeDiesisUp (U+E30C), accSagittal11LargeDiesisDown (U+E30D),
+  accSagittal35LargeDiesisUp (U+E30E), accSagittal35LargeDiesisDown (U+E30F).
+- Added Arel-Ezgi-Uzdilek (AEU) accidentals:
+  accidentalBuyukMucennebFlat (U+E440) - accidentalBuyukMucennebSharp (U+E447).
+
+Version 1.10 (22 January 2017):
+- Changed glyph of Ferneyhough accidentals.
+- Added further Ferneyhough accidentals (SMuFL 1.20):
+  accidentalOneQuarterToneSharpFerneyhough (U+E48E), accidentalOneQuarterToneFlatFerneyhough (U+E48F).
+
+Version 1.11 (8 February 2017):
+- Added clefs:
+  gClef (U+E050, U+1D11E), cClef (U+E05C, U+1D121), fClef (U+E062, U+1D122).
+- Added noteheads:
+  noteheadWhole (U+E0A2, U+1D15D), noteheadHalf (U+E0A3, U+1D157), noteheadBlack (U+E0A4, U+1D158).
+- Added staff symbols:
+  staff5Lines (U+E014, U+1D11A), staff5LinesWide (U+E01A), staff5LinesNarrow (U+E020),
+  legerLine (U+E022), legerLineWide (U+E023).
+
+Version 1.12 (9 July 2017):
+- Changed vertical position and bearing of Sims' quartertone accidentals:
+  accidentalSims4Down (U+E2A2), accidentalSims4Up (U+E2A5).
+- Added individual notes:
+  noteDoubleWhole (U+E1D0, U+1D15C), noteDoubleWholeSquare (U+E1D1), noteWhole (U+E1D2),
+  noteHalfUp (U+E1D3, U+1D15E), noteHalfDown (U+E1D4),
+  noteQuarterUp (U+E1D5, U+1D15F), noteQuarterDown (U+E1D6),
+  note8thUp (U+E1D7, U+1D160), note8thDown (U+E1D8),
+  note16thUp (U+E1D9, U+1D161), note16thDown (U+E1DA).
+- Added flags:
+  flag8thUp (U+E240, U+1D16E), flag8thDown (U+E241),
+  flag16thUp (U+E242, U+1D16F), flag16thDown (U+E243).
+
+Version 1.13 (12 July 2017):
+- Added augmentationDot (U+E1E7, U+1D16D).
+- Added barlines:
+  barlineSingle (U+E030, U+1D100), barlineDouble (U+E031, U+1D101), barlineFinal (U+E032, U+1D102).
+- Changed glyph of staff symbols to meet LilyPond:
+  staff5Lines (U+E014, U+1D11A), staff5LinesWide (U+E01A), staff5LinesNarrow (U+E020),
+  legerLine (U+E022), legerLineWide (U+E023).
+
+Version 1.14 (2 March 2018):
+- Added rests:
+  restWhole (U+E4E3, U+1D13B), restHalf (U+E4E4, U+1D13C), restQuarter (U+E4E5, U+1D13D),
+  rest8th (U+E4E6, U+1D13E), rest16th (U+E4E7, U+1D13F).
+
+Version 2.0 (13 September 2018):
+- Set left/right bearing of most characters to 0 (according to SMuFL).
+- Fixed problems in Double Sharp (non-integral coords, extrema):
+  accidentalDoubleSharp (U+E263), accidentalTripleSharp (U+E265),
+  accidentalFiveQuarterTonesSharpArrowUp (U+E276), accidentalThreeQuarterTonesSharpArrowDown (U+E277),
+  accidentalLargeDoubleSharp (U+E47D).
+- Changed shape of several characters for better legibility:
+  "Round barb" in Sagittal accidentals:
+  accSagittal7CommaUp (U+E304), accSagittal7CommaDown (U+E305),
+  accSagittal35MediumDiesisUp (U+E308), accSagittal35MediumDiesisDown (U+E309),
+  accSagittal11LargeDiesisUp (U+E30C), accSagittal11LargeDiesisDown (U+E30D),
+  accSagittal35LargeDiesisUp (U+E30E), accSagittal35LargeDiesisDown (U+E30F),
+  accSagittalSharp7CDown (U+E312), accSagittalFlat7CUp (U+E313),
+  accSagittalSharp7CUp (U+E320), accSagittalFlat7CDown (U+E321),
+  accSagittalDoubleSharp7CDown (U+E32E), accSagittalDoubleFlat7CUp (U+E32F).
+  "z" in Wyschnegradsky flat accidentals:
+  accidentalWyschnegradsky1TwelfthsFlat (U+E42B) - accidentalWyschnegradsky3TwelfthsFlat (U+E42D),
+  accidentalWyschnegradsky7TwelfthsFlat (U+E431) - accidentalWyschnegradsky9TwelfthsFlat (U+E433).
+  Other accidentals:
+  accidentalThreeQuarterTonesFlatGrisey (U+E486), accidentalThreeQuarterTonesFlatTartini (U+E487).
+  Basic Latin:
+  asterisk (U+002A), plus (U+002B), hyphen (U+002D),
+  f (U+0066), g (U+0067), h (U+0068), m (U+006D), n (U+006E), o (U+006F), t (U+0074), u (U+0075), y (U+0079).
+- Added Turkish folk music accidentals:
+  accidental1CommaSharp (U+E450) - accidental4CommaFlat (U+E457).
+- Added spaces:
+  enspace (U+2002), emspace (U+2003), thinspace (U+2009),
+  hairspace (U+200A, used for padding of combined accidentals).
+- Added further punctuation marks:
+  dollar (U+0024), percent (U+0025), ampersand (U+0026), question (U+003F), at (U+0040).
+- Added decimal digits:
+  zero (U+0030) - nine (U+0039).
+- Added some latin capital letters (for Sagittal alternative ASCII representation):
+  N (U+004E), V (U+0056) - Z (U+005A).
+- Removed unnecessary ligatures of Sims accidentals:
+  U+F606 - U+F60D.
+
+Version 2.1 (23 November 2018):
+- Added Extended Helmholtz-Ellis accidentals:
+  accidentalDoubleFlatOneArrowDown (U+E2C0) - accidentalDoubleSharpEqualTempered (U+E2F4).
+- Added missing Spartan Sagittal multi-shaft accidentals:
+  accSagittalSharp25SDown (U+E310), accSagittalFlat25SUp (U+E311),
+  accSagittalSharp5v7kDown (U+E316), accSagittalFlat5v7kUp (U+E317),
+  accSagittalSharp5v7kUp (U+E31C), accSagittalFlat5v7kDown (U+E31D),
+  accSagittalSharp25SUp (U+E322), accSagittalFlat25SDown (U+E323),
+  accSagittalSharp35MUp (U+E324), accSagittalFlat35MDown (U+E325),
+  accSagittalSharp11LUp (U+E328), accSagittalFlat11LDown (U+E329),
+  accSagittalSharp35LUp (U+E32A), accSagittalFlat35LDown (U+E32B),
+  accSagittalDoubleSharp25SDown (U+E32C), accSagittalDoubleFlat25SUp (U+E32D),
+  accSagittalDoubleSharp5v7kDown (U+E332), accSagittalDoubleFlat5v7kUp (U+E333).
+- Lengthened crossing shafts of Spartan Sagittal double sharp/flat accidentals:
+  accSagittalDoubleSharp7CDown (U+E32E), accSagittalDoubleFlat7CUp (U+E32F),
+  accSagittalDoubleSharp5CDown (U+E330), accSagittalDoubleFlat5CUp (U+E331),
+  accSagittalDoubleSharp (U+E334), accSagittalDoubleFlat (U+E335).
+- Added Athenian Sagittal extension accidentals:
+  accSagittal7v11KleismaUp (U+E340) - accSagittalDoubleFlat7v11kUp (U+E367).
+- Changed shape of flags:
+  flag8thUp (U+E240) - flag16thDown (U+E243),
+  note8thUp (U+E1D7) - note16thDown (U+E1DA).
+- Added further flags:
+  flag32ndUp (U+E244) - flag128thDown (U+E249), U+1D170 - U+1D172.
+- Added further individual notes:
+  note32ndUp (U+E1DB) - note128thDown (U+E1E0), U+1D162 - U+1D164.
+- Added stem (U+E210, U+1D165).
+- Added accidentals used for 15-/21-edo as optional glyphs:
+  accidentalRingArrowDown (U+F610), accidentalRingArrowUp (U+F611).
+- Added accidentals used for 31-edo as optional glyphs:
+  accidentalHalfFlat (U+F612), accidentalHalfDoubleFlat (U+F613).
+
+Version 2.2 (30 November 2018):
+- Added Trojan Sagittal extension accidentals:
+  accSagittal23CommaUp (U+E370) - accSagittalDoubleFlat23CUp (U+E387).
+- Added Arabic accidentals:
+  accidentalDoubleFlatArabic (U+ED30) - accidentalDoubleSharpArabic (U+ED38).
+- Added further rests:
+  restMaxima (U+E4E0), restLonga (U+E4E1), restDoubleWhole (U+E4E2, U+1D13A),
+  rest32nd (U+E4E8) - rest128th (U+E4EA), U+1D140 - U+1D142,
+  restHBar (U+E4EE) - restQuarterZ (U+E4F6), U+1D129.
+- Added further staff symbols:
+  staff1Line (U+E010) - staff4Lines (U+E013), staff6Lines (U+E015), U+1D116 - U+1D119, U+1D11B,
+  staff1LineWide (U+E016) - staff4LinesWide (U+E019), staff6LinesWide (U+E01B),
+  staff1LineNarrow (U+E01C) - staff4LinesNarrow (U+E01F), staff6LinesNarrow (U+E021),
+  legerLineNarrow (U+E024).
+- Added further barlines:
+  barlineReverseFinal (U+E033) - barlineTick (U+E039), U+1D103 - U+1D105.
+- Added some repeats:
+  repeatLeft (U+E040) - repeatDot (U+E044), U+1D106, U+1D107, U+1D108.
+
+Version 2.3 (11 December 2018):
+- Added Promethean Sagittal extension single-shaft accidentals:
+  accSagittal19SchismaUp (U+E390) - accSagittal5v13LargeDiesisDown (U+E3AD).
+- Added Promethean Sagittal extension multi-shaft accidentals:
+  accSagittalSharp23SDown (U+E3B0) - accSagittalDoubleFlat19sUp (U+E3EF).
+- Added Herculean Sagittal extension accidental diacritics:
+  accSagittalShaftUp (U+E3F0) - accSagittalGrave (U+E3F3).
+- Changed Sagittal accidentals to more uniform widths.
+- Added staff brackets and dividers:
+  brace (U+E000) - staffDivideArrowUpDown (U+E00D), U+1D114, U+1D115.
+- Added arrows and arrowheads:
+  arrowBlackUp (U+EB60) - arrowheadOpenUpLeft (U+EB8F).
+
+Version 2.4 (23 July 2019):
+- Fixed asymetric shape of noteheads:
+  noteheadHalf (U+E0A3), noteHalfUp (U+E1D3), noteHalfDown (U+E1D4), U+1D157, U+1D15E.
+- Added further latin capital letters:
+  A (U+0041) - M (U+004D), O (U+004F) - U (U+0055).
+
+Version 2.5 (8 August 2019):
+- Added further punctuation marks:
+  grave (U+0060), acute (U+00B4).
+- Changed size and alignment of Basic Latin characters:
+  quotedbl (U+0022), quotesingle (U+0027), asciicircum (U+005E), asciitilde (U+007E),
+  x (U+0078).
+- Added further clefs:
+  unpitchedPercussionClef1 (U+E069) - fourStringTabClef (U+E06E), U+1D125, U+1D126,
+  gClefChange (U+E07A) - fClefChange (U+E07C).
+- Added Medieval and Renaissance accidentals:
+  medRenFlatSoftB (U+E9E0) - medRenNaturalWithCross (U+E9E5), U+1D1CF, U+1D1D2.
+- Added time signatures:
+  timeSigCommon (U+E08A), timeSigCutCommon (U+E08B), U+1D134, U+1D135.
+- Changed right bearing of noteDoubleWhole (U+E1D0).
+- Added further noteheads:
+  noteheadDoubleWhole (U+E0A0), noteheadDoubleWholeSquare (U+E0A1),
+  noteheadNull (U+E0A5, U+1D159),
+  noteheadXHalf (U+E0A8), noteheadXBlack (U+E0A9),
+  noteheadPlusHalf (U+E0AE), noteheadPlusBlack (U+E0AF), U+1D144,
+  noteheadCircleX (U+E0B3), U+1D145,
+  noteheadSquareWhite (U+E0B8), U+1D146,
+  noteheadSquareBlack (U+E0B9), U+1D147,
+  noteheadTriangleUpWhite (U+E0BD) - noteheadTriangleRightBlack (U+E0C2), U+1D148 - U+1D14D,
+  noteheadTriangleDownWhite (U+E0C6) - noteheadParenthesis (U+E0CE), U+1D14E - U+1D156,
+  noteheadDiamondBlack (U+E0DB) - noteheadDiamondWhiteWide (U+E0DE),
+  noteheadParenthesisLeft (U+E0F5) - noteheadCircleSlash (U+E0F7),
+  noteheadSlashVerticalEnds (U+E100) - noteheadSlashWhiteHalf (U+E103), U+1D10D.
+- Added stemSprechgesang (U+E211, U+1D166).
+
+Version 2.6 (10 January 2020):
+- Added further noteheads:
+  noteheadXDoubleWhole (U+E0A6), noteheadXWhole (U+E0A7),
+  noteheadXOrnate (U+E0AA) - noteheadPlusWhole (U+E0AD),
+  noteheadCircleXDoubleWhole (U+E0B0) - noteheadCircleXHalf (U+E0B2),
+  noteheadDoubleWholeWithX (U+E0B4) - noteheadVoidWithX (U+E0B7),
+  noteheadTriangleUpDoubleWhole (U+E0BA) - noteheadTriangleUpHalf (U+E0BC),
+  noteheadTriangleDownDoubleWhole (U+E0C3) - noteheadTriangleDownHalf (U+E0C5),
+  noteheadSlashedBlack1 (U+E0CF) - noteheadDiamondHalfWide (U+E0DA),
+  noteheadDiamondDoubleWholeOld (U+E0DF) - noteheadLargeArrowDownBlack (U+E0F4),
+  noteheadHeavyX (U+E0F8) - noteheadDiamondOpen (U+E0FC).
+- Added further slash noteheads:
+  noteheadSlashDiamondWhite (U+E104) - noteheadSlashWhiteDoubleWhole (U+E10A).
+- Added round and square noteheads:
+  noteheadRoundBlackLarge (U+E110) - noteheadRoundWhiteDoubleSlashed (U+E11D).
+- Added articulations:
+  articAccentAbove (U+E4A0) - articMarcatoTenutoBelow (U+E4BD), U+1D17B - U+1D182.
+- Added further repeats:
+  dalSegno (U+E045) - rightRepeatSmall (U+E04D), U+1D109 - U+1D10C.
+- Added tremolos:
+  tremolo1 (U+E220) - stockhausenTremolo (U+E232), U+1D167 - U+1D16C.
+- Added holds and pauses:
+  fermataAbove (U+E4C0) - curlewSign (U+E4D6), U+1D110 - U+1D113.
+- Added bar repeats:
+  repeat1Bar (U+E500) - repeat4Bars (U+E502), U+1D10E, U+1D10F.
+- Added further clefs:
+  gClef15mb (U+E051) - gClefArrowDown (U+E05B),
+  cClef8vb (U+E05D) - cClefCombining (U+E061),
+  fClef15mb (U+E063) - fClefArrowUp (U+E067),
+  schaefferClef (U+E06F) - accdnDiatonicClef (U+E079),
+  clef8 (U+E07D) - clefChangeCombining (U+E07F),
+  U+1D11F, U+1D120, U+1D123, U+1D124.
+- Added further flags:
+  flagInternalUp (U+E250), flagInternalDown (U+E251).
+- Added further optional glyph:
+  noteheadTick (U+F615) for notename "t" in Ekmelily and ekmelib.
+- metadata.json: Adjusted values in "engravingDefaults".
+- glyphdata.json: New key "ekmelib".
+- New metadata file ekmelib.json.
+- Removed EkmelosMac.otf.
+- New reduced fonts for use with the ekmelib score:
+  Ekmelos 12-EDO, Ekmelos 24-EDO, Ekmelos 72-EDO.
+
+Version 2.7 (2 February 2020):
+- Added note clusters:
+  noteheadClusterSquareWhite (U+E120) - noteheadRectangularClusterWhiteBottom (U+E147),
+  U+1D15A, U+1D15B.
+- Added shape note noteheads:
+  noteShapeRoundWhite (U+E1B0) - noteShapeTriangleRoundLeftBlack (U+E1CB).
+- Changed shape of flagInternalDown (U+E251).
+- Fixed asymmetric shape of whole noteheads:
+  noteheadWhole (U+E0A2), noteheadDoubleWhole (U+E0A0),
+  noteheadDoubleWholeWithX (U+E0B4), noteheadWholeWithX (U+E0B5),
+  noteheadSlashedWhole1 (U+E0D3) - noteheadSlashedDoubleWhole2 (U+E0D6),
+  noteheadCircledWhole (U+E0E6), noteheadCircledDoubleWhole (U+E0E7),
+  noteheadCircledWholeLarge (U+E0EA), noteheadWholeFilled (U+E0FA).
+
+Version 2.8 (13 June 2020):
+- Fixed wrong vertical position of Extended HE accidentals:
+  accidentalLowerOneSeptimalComma (U+E2DE) - accidentalRaiseTwoSeptimalCommas (U+E2E1),
+  accidentalCombiningLower23Limit29LimitComma (U+E2EA) - accidentalCombiningRaise31Schisma (U+E2ED).
+- Changed bearing of Extended HE accidentals:
+  accidentalDoubleFlatEqualTempered (U+E2F0) - accidentalSharpEqualTempered (U+E2F3).
+- Added further Extended HE accidentals:
+  accidentalQuarterFlatEqualTempered (U+E2F5) - accidentalEnharmonicEquals (U+E2FB).
+- Added further Extended HE accidentals as optional glyphs:
+  accidentalQuarterFlatFilledEqualTempered (U+F620) - accidentalThreeQuarterSharpEqualTempered (U+F623).
+- Fixed asymetric stem ends of accidentalThreeQuarterTonesSharpStein (U+E283)
+  and similar glyphs.
+
+Version 2.9 (6 July 2020):
+- Added further tremolos:
+  oneHandedRollStevens (U+E233), doubleLateralRollStevens (U+E234).
+- Enlarged width of stockhausenTremolo (U+E232).
+- Added further bar repeats:
+  repeatBarUpperDot (U+E503) - repeatBarLowerDot (U+E505).
+- Added lyrics:
+  lyricsElisionNarrow (U+E550) - lyricsTextRepeat (U+E555).
+- Added common ornaments:
+  graceNoteAcciaccaturaStemUp (U+E560) - ornamentHaydn (U+E56F), U+1D194 - U+1D19A.
+- Added combining strokes for trills and mordents:
+  ornamentTopLeftConcaveStroke (U+E590) - ornamentBottomRightConvexStroke (U+E5A8), U+1D19B - U+1D1A5.
+- Added precomposed trills and mordents:
+  ornamentPrecompSlide (U+E5B0) - ornamentPrecompTrillLowerSuffix (U+E5C8).
+- Added string techniques:
+  stringsDownBow (U+E610) - stringsBowBehindBridgeFourStrings (U+E62A), U+1D1AA - U+1D1AC.
+- Added plucked techniques:
+  pluckedSnapPizzicatoBelow (U+E630) - pluckedDampOnStem (U+E63B),
+  U+1D1AD, U+1D183 - U+1D184, U+1D1B3 - U+1D1B5.
+- Added miscellaneous symbols:
+  miscDoNotPhotocopy (U+EC60) - metricModulationArrowRight (U+EC64).
+- Added shape note noteheads supplement:
+  noteShapeRoundDoubleWhole (U+ECD0) - noteShapeTriangleRoundLeftDoubleWhole (U+ECDD).
+- Added articulation supplement:
+  articSoftAccentAbove (U+ED40) - articSoftAccentTenutoStaccatoBelow (U+ED47).
+- Added clefs supplement:
+  indianDrumClef (U+ED70).
+- Replaced noteheadTick (U+F615) with noteTick (U+F614) as an "Individual note".
+  Removed class "noteheadSetTick".
+
+Version 2.10 (14 July 2020):
+- Added multi-segment lines:
+  wiggleTrillFastest (U+EAA0) - wiggleTrillSlowest (U+EAA8),
+  wiggleArpeggiatoUp (U+EAA9) - wiggleArpeggiatoDownArrow (U+EAAE), wiggleGlissando (U+EAAF).
+- Added accidentals present in LilyPond as optional glyphs:
+  accidentalFlatArrowBoth (U+F616) - accidentalHalfSharpSlash (U+F61D).
+- Added clefs present in LilyPond as optional glyphs:
+  gClef8vbOldChange (U+F630) - unpitchedPercussionClef2Change (U+F636).
+- Added noteheads present in LilyPond as optional glyphs:
+  noteheadLongaUp (U+F637) - noteheadDoubleWholeAlt (U+F639).
+- Added scripts glyphs present in LilyPond as optional glyphs:
+  articPortatoAbove (U+F63A) - arpeggioArrowDown (U+F644).
+- Changed shape of flat accidentals with arrow down:
+  accidentalThreeQuarterTonesFlatArrowDown (U+E271), U+1D12D,
+  accidentalFiveQuarterTonesFlatArrowDown (U+E279),
+  accidentalReversedFlatArrowDown (U+E291),
+  accidentalFilledReversedFlatArrowDown (U+E293),
+  accidentalFlatLoweredStockhausen (U+ED53).
+
+Version 2.11 (26 July 2020):
+- Changed shape of brackets:
+  bracketleft (U+005B), bracketright (U+005D),
+  accidentalBracketLeft (U+E26C), accidentalBracketRight (U+E26D).
+- Added octaves:
+  ottava (U+E510) - octaveBassa (U+E51F), U+1D136 - U+1D139.
+- Added octaves supplement:
+  octaveLoco (U+EC90) - octaveSuperscriptV (U+EC98).
+- Added dynamics:
+  dynamicPiano (U+E520) - dynamicCombinedSeparatorSlash (U+E549), U+1D18C - U+1D193.
+- Added dynamics for LilyPond commands as optional glyphs:
+  dynamicSforzandoFF (U+F645), dynamicSP (U+F646), dynamicSPP (U+F647).
+- Added further time signatures:
+  timeSig0 (U+E080) - timeSig9 (U+E089),
+  timeSigPlus (U+E08C) - timeSigOpenPenderecki (U+E09D).
+- Added time signatures supplement:
+  timeSigBracketLeft (U+EC80) - timeSigCut3 (U+EC86).
+
+Version 2.12 (5 August 2020):
+- Added brass techniques:
+  brassScoop (U+E5D0) - brassValveTrill (U+E5EF), U+1D185 - U+1D189.
+- Added wind techniques:
+  doubleTongueAbove (U+E5F0) - windRimOnly (U+E60B), U+1D18A, U+1D18B.
+- Added vocal techniques:
+  vocalMouthClosed (U+E640) - vocalHalbGesungen (U+E64B).
+- Added keyboard techniques:
+  keyboardPedalPed (U+E650) - keyboardPedalParensRight (U+E677),
+  keyboardPedalPedNoDot (U+F434), keyboardPedalSostNoDot (U+F435),
+  U+1D1AE - U+1D1B0.
+- Smoothed slightly some Basic Latin characters:
+  dollar (U+0024), C (U+0043), E (U+0045) - G (U+0047), S (U+0053), T (U+0054),
+  a (U+0061), c (U+0063), e (U+0065) - g (U+0067), j (U+006A), m (U+006D),
+  s (U+0073), t (U+0074), x (U+0078), y (U+0079).
+- Broadend the shaft of some Basic Latin characters:
+  one (U+0031), four (U+0034).
+
+Version 2.13 (5 October 2020):
+- Added harp techniques:
+  harpPedalRaised (U+E680) - harpSalzedoSnareDrum (U+E69D).
+- Added guitar:
+  guitarVibratoBarScoop (U+E830) - guitarBarreHalf (U+E849).
+- Enlarged stroke width of some digits:
+  one (U+0031), four (U+0034), seven (U+0037).
+- Fixed wrong slash direction of accidentalRHM4Down (U+F602).
+- Added key "glyphsWithAnchors" in "metadata.json" with bounding box
+  cut-outs of accidental symbols and stem anchors of noteheads and flags.
+
+Version 2.14 (16 October 2020):
+- Added further multi-segment lines:
+  wiggleVibrato (U+EAB0) - guitarWideVibratoStroke (U+EAB3),
+  wiggleWavyNarrow (U+EAB4) - wiggleSawtoothWide (U+EABC),
+  wiggleGlissandoGroup1 (U+EABD) - wiggleGlissandoGroup3 (U+EABF),
+  wiggleCircularConstant (U+EAC0) - wiggleCircularConstantFlippedLarge (U+EAC3),
+  wiggleVibratoStart (U+EACC) - wiggleVibratoLargestSlowest (U+EAEF),
+  wiggleRandom1 (U+EAF0) - wiggleRandom4 (U+EAF3),
+  beamAccelRit1 (U+EAF4) - beamAccelRitFinal (U+EB03).
+- Extended key "glyphsWithAnchors" with "repeatOffset" of combining strokes
+  and multi-segment lines and with "noteheadOrigin" of double whole noteheads.
+
+Version 2.15 (20 October 2020):
+- Added further multi-segment lines:
+  wiggleCircularStart (U+EAC4) - wiggleCircularEnd (U+EACB).
+
+Version 2.16 (4 November 2020):
+- Added percussion playing technique pictograms:
+  pictStickShot (U+E7F0) - pictScrapeAroundRimClockwise (U+E80E).
+- Added handbells:
+  handbellsMartellato (U+E810) - handbellsTablePairBells (U+E821).
+- Added chord diagrams:
+  fretboard3String (U+E850) - fretboardO (U+E85A), U+1D11C, U+1D11D.
+- Added analytics:
+  analyticsHauptstimme (U+E860) - analyticsHauptrhythmus (U+E86B), U+1D1A6 - U+1D1A8.
+- Added chord symbols:
+  csymDiminished (U+E870) - csymDiagonalArrangementSlash (U+E87C), U+1D1A9.
+- Added tuplets:
+  tuplet0 (U+E880) - tupletColon (U+E88A).
+- Added conductor symbols:
+  conductorStrongBeat (U+E890) - conductorUnconducted (U+E89A).
+- Added accordion:
+  accdnRH3RanksPiccolo (U+E8A0) - accdnRicochetStem6 (U+E8D6).
+- Changed size of harp pedals according to LilyPond:
+  harpPedalRaised (U+E680) - harpPedalDivider (U+E683).
+- Added circled harp pedals according to LilyPond as optional glyphs:
+  harpPedalRaisedChange (U+F648) - harpPedalLoweredChange (U+F64A).
+
+Version 2.17 (19 November 2020):
+- Changed bearing of some time signatures:
+  timeSig0 (U+E080) - timeSig9 (U+E089), timeSigMultiply (U+E091)
+  timeSigFractionQuarter (U+E097) - timeSigFractionTwoThirds (U+E09B).
+- Changed slightly shape of some time signatures:
+  timeSig0 (U+E080), timeSig2 (U+E082), timeSigPlusSmall (U+E08D).
+- Changed size of some time signatures:
+  timeSigPlus (U+E08C), timeSigEquals (U+E08F), timeSigMinus (U+E090).
+
+Version 2.18 (6 December 2020):
+- Added Haba accidentals (72-EDO):
+  accidentalHaba1TwelfthsSharp (U+F660) - accidentalHaba1TwelfthsSharpAlt (U+F671).
+- Added Haba accidentals (24-EDO):
+  accidentalOneQuarterToneSharpHaba (U+F672) - accidentalSharpLoweredHaba (U+F677).
+- Added Ferneyhough fifth-tone accidentals:
+  accidentalOneFifthToneSharpFerneyhough (U+F678) - accidentalFourFifthTonesSharpFerneyhough (U+F67B).
+- Removed superfluous portato symbols:
+  articPortatoAbove (U+F63A), articPortatoBelow (U+F63B).
+
+Version 2.19 (7 January 2021):
+- Added beaters pictograms:
+  pictBeaterSoftXylophoneUp (U+E770) - pictBeaterTrianglePlain (U+E7EF).
+- Added tuned mallet percussion pictograms:
+  pictGlsp (U+E6A0) - pictTubaphone (U+E6B2),
+  pictXylBassPeinkofer (U+F4A3) - pictMarPeinkofer (U+F4AB).
+- Added chimes pictograms:
+  pictTubularBells (U+E6C0) - pictMetalPlateChimes (U+E6C8).
+- Added drums pictograms:
+  pictTimpani (U+E6D0) - pictCuica (U+E6E4),
+  pictTambourineStockhausen (U+F438),
+  pictTomTomChinesePeinkofer (U+F4AD) - pictBassDrumPeinkofer (U+F4AF).
+- Added metallic struck percussion pictograms:
+  pictTriangle (U+E700) - pictAnvil (U+E701).
+- Enlarged size of timeSigPlusSmall (U+E08D).
+- Enlarged stroke width of some symbols on stem:
+  buzzRoll (U+E22A),
+  stringsBowBehindBridge (U+E618), stringsBowOnBridge (U+E619),
+  stringsBowBehindBridgeOneString (U+E627) - stringsBowBehindBridgeFourStrings (U+E62A),
+  vocalHalbGesungen (U+E64B).
+- Enlarged stroke width of digits in turkish folk music accidentals:
+  accidental1CommaSharp (U+E450) - accidental4CommaFlat (U+E457).
+- Reduced stroke width of S in
+  keyboardPedalSost (U+E659), keyboardPedalS (U+E65A), keyboardPedalSostNoDot (U+F435).
+
+Version 2.20 (18 January 2021):
+- Enlarged stroke width of some glyphs:
+  pluckedDampOnStem (U+E63B), pictTabla (U+E6E3), pictCuica (U+E6E4).
+- Flipped glyph pictBeaterMediumXylophoneLeft (U+E777).
+- Lengthened slash of noteheads:
+  noteheadSlashedBlack1 (U+E0CF) - noteheadSlashedDoubleWhole2 (U+E0D6).
+- Changed width of some pictograms:
+  pictCoins (U+E7E7), pictTimpaniPeinkofer (U+F4AE).
+
+Version 2.21 (26 January 2021):
+- Added some wooden struck percussion pictograms:
+  pictWoodBlock (U+E6F0) - pictClaves (U+E6F2).
+- Added cymbals pictograms:
+  pictCrashCymbals (U+E720) - pictBellOfCymbal (U+E72A).
+- Added gongs pictograms:
+  pictTamTam (U+E730) - pictSlideBrushOnGong (U+E734).
+- Added turned time signatures:
+  timeSig0Turned (U+ECE0) - timeSigCutCommonTurned (U+ECEB).
+- Added reversed time signatures:
+  timeSig0Reversed (U+ECF0) - timeSigCutCommonReversed (U+ECFB).
+- Added diamond half cluster noteheads:
+  noteheadDiamondClusterHalf2nd (U+F64B) - noteheadDiamondClusterHalfBottom (U+F64F).
+- Reduced width of rectangular clusters to same as square noteheads:
+  noteheadClusterSquareWhite (U+E120, U+1D15A), noteheadClusterSquareBlack (U+E121, U+1D15B),
+  noteheadRectangularClusterBlackTop (U+E142) - noteheadRectangularClusterWhiteBottom (U+E147).
+- Reduced height of cluster middle segments:
+  noteheadClusterDoubleWholeMiddle (U+E12D), noteheadClusterWholeMiddle (U+E130),
+  noteheadClusterHalfMiddle (U+E133), noteheadClusterQuarterMiddle (U+E136),
+  noteheadDiamondClusterWhiteMiddle (U+E13D), noteheadDiamondClusterBlackMiddle (U+E140),
+  noteheadRectangularClusterBlackMiddle (U+E143), noteheadRectangularClusterWhiteMiddle (U+E146).
+- Changed bearing and width of lyrics elision:
+  lyricsElisionNarrow (U+E550) - lyricsElisionWide (U+E552).
+
+Version 2.22 (7 February 2021):
+- Added some wooden struck percussion pictograms:
+  pictBoardClapper (U+E6F7) - pictCastanetsWithHandle (U+E6F9).
+- Added simplified music notation:
+  smnSharp (U+EC50) - smnSharpWhiteDown (U+EC5A).
+- Reduced width of lyricsElisionNarrow (U+E550).
+- Enlarged bell of cymbals pictograms:
+  pictCrashCymbals (U+E720) - pictSizzleCymbal (U+E724),
+  pictCymbalTongs (U+E728) - pictBellOfCymbal (U+E72A).
+
+Version 2.23 (16 February 2021):
+- Added some wooden struck and scraped percussion pictograms:
+  pictGuiro (U+E6F3) - pictWhip (U+E6F6),
+  pictQuijada (U+E6FA) - pictRecoReco (U+E6FC).
+- Added bells pictograms:
+  pictSleighBell (U+E710) - pictBellTree (U+E71A).
+- Added shakers and rattles pictograms:
+  pictFlexatone (U+E740) - pictChainRattle (U+E748).
+- Added whistles and aerophones pictograms:
+  pictSlideWhistle (U+E750) - pictLotusFlute (U+E75A),
+  pictLotusFlutePeinkofer (U+F4AC).
+- Enlarged dot in noteheadRoundWhiteWithDot (U+E115).
+
+Version 2.24 (30 March 2021):
+- Added fingering:
+  fingering0 (U+ED10) - fingeringSeparatorSlash (U+ED2E).
+- Added fingering supplement:
+  fingering0Italic (U+ED80) - fingeringSLower (U+ED8F).
+- Added other accidentals supplement:
+  accidentalUpsAndDownsUp (U+EE60) - accidentalHabaFlatThreeQuarterTonesLower (U+EE69).
+- Added techniques noteheads:
+  swissRudimentsNoteheadBlackFlam (U+EE70) - swissRudimentsNoteheadHalfDouble (U+EE73).
+- Added chop (percussive bowing) notation:
+  stringsDownBowTowardsBody (U+EE80) - stringsTripleChopOutward (U+EE8B).
+- Changed slightly shape of pictSlideWhistle (U+E750),
+  gClefLigatedNumberBelow (U+E058), gClefLigatedNumberAbove (U+E059).
+- Enlarged dynamicNienteForHairpin (U+E541),
+  pictBassDrum (U+E6D4), pictBassDrumOnSide (U+E6D5).
+- Changed shape (according to Bravura) of
+  accidentalCombiningLower31Schisma (U+E2EC) - accidentalCombiningRaise31Schisma (U+E2ED).
+
+Version 2.25 (12 April 2021):
+- Added further individual notes:
+  note256thUp (U+E1E1) - note1024thDown (U+E1E6).
+- Added further flags:
+  flag256thUp (U+E24A) - flag1024thDown (U+E24F).
+- Added further rests:
+  rest256th (U+E4EB) - rest1024th (U+E4ED).
+- Added further stems:
+  stemSwished (U+E212) - stemHarpStringNoise (U+E21F).
+- Added some beamed groups of notes:
+  textBlackNoteShortStem (U+E1F0) - textCont32ndBeamLongStem (U+E1FB).
+- Enlarged stroke width of some glyphs:
+  stringsBowOnTailpiece (U+E61A), vocalHalbGesungen (U+E64B),
+  harpStringNoiseStem (U+E694).
+
+Version 2.26 (20 April 2021):
+- Added figured bass:
+  figbass0 (U+EA50) - figbass6Raised2 (U+EA6F).
+- Added figured bass supplement:
+  figbass7Diminished (U+ECC0) - figbassTripleSharp (U+ECC2).
+- Added metronome marks:
+  metNoteDoubleWhole (U+ECA0) - metAugmentationDot (U+ECB7).
+- Added further beamed groups of notes:
+  textAugmentationDot (U+E1FC) - textHeadlessBlackNoteFrac32ndLongStem (U+E20A).
+
+Version 2.27 (25 April 2021):
+- Added noteheads supplement:
+  noteheadNancarrowSine (U+EEA0) - noteheadCowellFifteenthNoteSeriesBlack (U+EEB5).
+- Changed slightly shape of figured bass precomposed digits:
+  figbass2Raised (U+EA53), figbass5Raised1 (U+EA58), figbass5Raised2 (U+EA59),
+  figbass7Raised1 (U+EA5E), figbass7Raised2 (U+EA5F),
+  figbass6Raised2 (U+EA6F), figbass7Diminished (U+ECC0).
+- Reduced size of figured bass double sharp:
+  figbassDoubleSharp (U+EA67), figbassTripleSharp (U+ECC2).
+
+Version 2.28 (6 May 2021):
+- Added miscellaneous percussion instrument pictograms:
+  pictPistolShot (U+E760) - pictJawHarp (U+E767).
+- Added electronic music pictograms:
+  elecMicrophone (U+EB10) - elecUpload (U+EB50).
+- Added some Unicode miscellaneous technical:
+  EJECT SYMBOL (U+23CF),
+  METRICAL BREVE (U+23D1) - METRICAL PENTASEME (U+23D9),
+  BLACK RIGHT-POINTING DOUBLE TRIANGLE (U+23E9) -
+  BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR (U+23EF),
+  BLACK MEDIUM LEFT-POINTING TRIANGLE (U+23F4) - BLACK CIRCLE FOR RECORD (U+23FA).
+- Added some Unicode miscellaneous symbols:
+  eighthnotebeamed (U+266B), beamedsixteenthnotes (U+266C).
+- Added some Unicode miscellaneous symbols and pictographs:
+  MUSICAL KEYBOARD WITH JACKS (U+1F398) - BEAMED DESCENDING MUSICAL NOTES (U+1F39D),
+  MUSICAL NOTE (U+1F3B5) - MUSICAL SCORE (U+1F3BC),
+  TWISTED RIGHTWARDS ARROWS (U+1F500) - SPEAKER WITH THREE SOUND WAVES (U+1F50A),
+  RIGHT SPEAKER (U+1F568) - BULLHORN WITH SOUND WAVES (U+1F56C),
+  THREE RAYS ABOVE (U+1F5E4) - THREE RAYS RIGHT (U+1F5E7).
+- Added Ekmelos specific electronic music pictograms:
+  elecSurroundSound (U+F65C) - elecSideSurroundSound (U+F65E).
+
+Version 2.29 (22 May 2021):
+- Added function theory symbols:
+  functionZero (U+EA70) - functionLLower (U+EA9F).
+- Added function theory symbols supplement:
+  functionMUpper (U+ED00) - functionRLower (U+ED03).
+- Changed width of some Basic Latin glyphs:
+  less (U+003C) - greater (U+003E).
+- Changed shape of some digits:
+  one (U+0031), seven (U+0037),
+  guitarString0 (U+E833) - guitarString9 (U+E83C).
+
+Version 2.30 (27 May 2021):
+- Changed shape of tab clefs:
+  6stringTabClef (U+E06D), 4stringTabClef (U+E06E).
+- Added stylistic alternates of tab clefs:
+  6stringTabClefTall (U+F40A) - 4stringTabClefSerif (U+F40D),
+  6stringTabClefClassic (U+F61E), 4stringTabClefClassic (U+F61F).
+- Added scale degrees:
+  scaleDegree1 (U+EF00) - scaleDegree9 (U+EF08).
+- Enlarged stroke width of accdnDiatonicClef (U+E079).
+
+Version 2.31 (7 June 2021):
+- Added Kodály hand signs:
+  kodalyHandDo (U+EC40) - kodalyHandTi (U+EC46).
+- Added standard accidentals for chord symbols:
+  csymAccidentalFlat (U+ED60) - csymAccidentalTripleFlat (U+ED66).
+- Added extended Helmholtz-Ellis accidentals supplement:
+  accidentalCombiningLower29LimitComma (U+EE50) - accidentalCombiningRaise47Quartertone (U+EE59).
+- Added time signature control codes:
+  timeSigCombNumerator (U+E09E), timeSigCombDenominator (U+E09F).
+- Added time signature ligatures:
+  timeSig2over4 (U+F57B) - timeSig12over8 (U+F587).
+- Added time signature ligatures of denominator or numerator:
+  timeSig0Denominator (U+F5C8) - timeSig9Numerator (U+F5DB).
+- Added ornament ligatures of trill and turn:
+  ornamentTrillFlatAbove (U+F5BD) - ornamentTrillSharpAbove (U+F5BF),
+  ornamentTurnFlatAbove (U+F5C0) - ornamentTurnSharpBelow (U+F5C7).
+- Added parenthesised notehead ligatures:
+  noteheadBlackParens (U+F5DC) - noteheadDoubleWholeParens (U+F5DF).
+- Added parenthesised accidental ligatures:
+  accidentalFlatParens (U+F5E0) - accidentalDoubleFlatParens (U+F5E4).
+- Added Johnston accidental ligatures:
+  accidentalSharpJohnstonEl (U+F5E5) - accidentalJohnstonSevenFlatDown (U+F5F8).
+- Added lookup tables for stylistic alternates and ligatures (character composition).
+- Enlarged width of some wiggle vibrato segments:
+  wiggleVibratoLargeFastest (U+EAE2) - wiggleVibratoLargestSlowest (U+EAEF).
+- Changed volume fader thumb to filled:
+  elecVolumeFaderThumb (U+EB2D) - elecVolumeLevel100 (U+EB33).
+
+Version 2.32 (20 June 2021):
+- Added stylistic alternates of repeats:
+  segnoJapanese (U+F404), codaJapanese (U+F405),
+  repeatRightLeftThick (U+F45C).
+- Added stylistic alternates of flags (straight, short):
+  flag8thUpStraight (U+F40F) - flag1024thDownStraight (U+F426).
+- Added stylistic alternates of articulation:
+  articAccentAboveLarge (U+F42A), articAccentBelowLarge (U+F42B),
+  articAccentAboveRossini (U+F532), articAccentBelowRossini (U+F533).
+- Added stylistic alternate of caesura:
+  caesuraSingleStroke (U+F42C).
+- Added stylistic alternates of wind techniques:
+  doubleTongueAboveNoSlur (U+F42D) - tripleTongueBelowNoSlur (U+F430).
+- Added stylistic alternates of string techniques:
+  stringsChangeBowDirectionLiga (U+F431),
+  stringsChangeBowDirectionImposed (U+F43E).
+- Added stylistic alternates of plucked techniques:
+  pluckedSnapPizzicatoBelowGerman (U+F432),
+  pluckedSnapPizzicatoAboveGerman (U+F433).
+- Added stylistic alternates of standard accidentals (joined stems):
+  accidentalDoubleFlatJoinedStems (U+F4A1),
+  accidentalTripleFlatJoinedStems (U+F4A2).
+- Enlarged size of clef transposition numbers 8 and 15:
+  gClef15mb (U+E051) - gClef15ma (U+E054), gClef8vbParens (U+E057),
+  cClef8vb (U+E05D), fClef15mb (U+E063) - fClef15ma (U+E066),
+  clef8 (U+E07D), clef15 (U+E07E).
+- Enlarged chord symbols:
+  csymAugmented (U+E872), csymMajorSeventh (U+E873).
+
+Version 2.33 (15 July 2021):
+- Added dynamics supplements:
+  dynamicNienteSlashedForHairpin (U+F63A), dynamicCrescendoJazz (U+F63B).
+- Added miscellaneous symbols supplements:
+  miscEyeglassesRight (U+F65F).
+- Added noteheads supplements:
+  noteheadSquareHalfBlack (U+F67C) - noteheadRoundHalfBlackLarge (U+F67F),
+  noteheadBlackWithX (U+F680) - noteheadDoubleTriangleUpBlack (U+F682),
+- Added stylistic alternates of individual notes:
+  note8thUpStraight (U+F683) - note32ndUpBeamed (U+F68B).
+- Added articulation ligatures and supplements:
+  articTenutoMarcatoAbove (U+F68C) - articMarcatoTenutoStaccatoBelow (U+F693),
+  articDoubleAccentAbove (U+F694) - articTripleMarcatoBelow (U+F69D).
+- Added holds and pauses supplements:
+  fermataExtraShortAbove (U+F69E) - breathMarkCommaVeryShort (U+F6A3).
+- Added brass and wind techniques supplements:
+  brassHarmonMuteStemHalfCross (U+F6A4),
+  windOpenDoubleHole (U+F6A5) - windClosedOpenDoubleHole (U+F6A8).
+- Added string techniques supplements:
+  stringsArco (U+F6A9) - stringsColLegnoTratto (U+F6AC).
+- Added plucked techniques supplements:
+  pluckedLeftHandPizzicatoHarmonicAbove (U+F6AD), pluckedLeftHandPizzicatoHarmonicBelow (U+F6AE).
+- Added stylistic alternates and supplements of keyboard techniques:
+  keyboardPedalPOld (U+F6AF) - keyboardPedalHeel2Old (U+F6B2).
+- Added multi-segment lines supplements:
+  wiggleWavyNarrower (U+F6B3) - wiggleSawtoothWider (U+F6B8).
+- Added some Unicode miscellaneous symbols:
+  blackstar (U+2605), whitestar (U+2606), warningsign (U+26A0).
+- Added some Unicode dingbats:
+  STRESS OUTLINED WHITE STAR (U+2729) - OUTLINED BLACK STAR (U+272D),
+  PINWHEEL STAR (U+272F), SHADOWED WHITE STAR (U+2730).
+- Added some Unicode miscellaneous symbols and pictographs:
+  FILM FRAMES (U+1F39E), HEADPHONE (U+1F3A7),
+  OPTICAL DISC (U+1F4BF), DVD (U+1F4C0),
+  CAMERA (U+1F4F7), CAMERA WITH FLASH (U+1F4F8),
+  OPTICAL DISC ICON (U+1F5B8).
+- Enlarged dot of noteheadRoundWhiteWithDotLarge (U+E112),
+  noteheadRoundWhiteWithDot (U+E115).
+- Rounded the corners of noteheadSquareBlackLarge (U+E11A),
+  noteheadSquareBlackWhite (U+E11B).
+- Enlarged width of articStaccatissimoWedgeAbove (U+E4A8),
+  articStaccatissimoWedgeBelow (U+E4A9).
+- Changed slightly shape of time signature fractions:
+  timeSigFractionQuarter (U+E097) - timeSigFractionTwoThirds (U+E09B).
+- Rounded the top of stems:
+  stem (U+E210) - stemHarpStringNoise (U+E21F).
+- Enlarged beam distance of beamed groups of notes:
+  textBlackNoteFrac8thShortStem (U+E1F2) - textCont32ndBeamLongStem (U+E1FB),
+  textHeadlessBlackNoteFrac8thShortStem (U+E206) - textHeadlessBlackNoteFrac32ndLongStem (U+E20A).
+- Removed metadata classes "accidentalsHalf" and "accidentalsHelmholtzEllisSupplement".
+- Added metadata classes "accidentalsParenthesised" and "noteheadSetParenthesised".
+- Enlarged stroke width of persian accidentals:
+  accidentalKoron (U+E460), accidentalSori (U+E461).
+- Added metadata of stylistic alternates and ligatures.
+
+Version 2.34 (22 July 2021):
+- Enlarged strokes or distances in some glyphs:
+  STRESS OUTLINED WHITE STAR (U+2729),
+  accidentalKoron (U+E460), accidentalSori (U+E461),
+  articMarcatoTenutoStaccatoAbove (U+F692), articMarcatoTenutoStaccatoBelow (U+F693),
+  windOpenDoubleHole (U+F6A5) - windClosedOpenDoubleHole (U+F6A8),
+  breathMarkCommaShort (U+F6A2), breathMarkCommaVeryShort (U+F6A3).
+- Added stylistic alternates of percussion pictograms:
+  pictCastanetsSmithBrindle (U+F439) - pictMaracaSmithBrindle (U+F43C),
+  pictBongosPeinkofer (U+F4B0), pictCongaPeinkofer (U+F4B1).
+- Added stylistic alternate ornamentTrillSimple (U+F6B9).
+- Added ligatures for some srticulations:
+  articMarcatoStaccatoAbove (U+E4AE) - articTenutoAccentBelow (U+E4B5),
+  articMarcatoTenutoAbove (U+E4BC), articMarcatoTenutoBelow (U+E4BD).
+
+Version 2.35 (29 July 2021):
+- Added stylistic alternates of percussion pictograms:
+  pictTomTomPeinkofer (U+F4B2) - pictMusicalSawPeinkofer (U+F4B7).
+- Added keyboard techniques supplements:
+  keyboardPedalPosQuarter (U+F6BA) - keyboardPedalPosFull (U+F6BD).
+- Added some Unicode miscellaneous symbols and pictographs:
+  MOVIE CAMERA (U+1F3A5), CLAPPER BOARD (U+1F3AC), VIDEO CAMERA (U+1F4F9).
+- Changed slightly shape of some extended Helmholtz-Ellis accidentals:
+  accidentalEnharmonicTilde (U+E2F9) - accidentalEnharmonicEquals (U+E2FB).
+
+Version 2.36 (14 August 2021):
+- Added note name noteheads with Do,Re,Mi,...:
+  noteDoWhole (U+E150) - noteSiBlack (U+E167).
+- Added empty note name noteheads:
+  noteEmptyWhole (U+E1AD) - noteEmptyBlack (U+E1AF).
+- Added Unicode equilateral arrowheads:
+  THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD (U+2B98) -
+  BLACK DOWNWARDS EQUILATERAL ARROWHEAD (U+2B9F).
+- Added equilateral arrowhead supplements:
+  arrowhead3dEquilateralUpRight (U+F628) - arrowheadBlackEquilateralUpLeft (U+F62F).
+- Added Unicode white arrows:
+  LEFTWARDS WHITE ARROW (U+21E6) - DOWNWARDS WHITE ARROW (U+21E9),
+  NORTH EAST WHITE ARROW (U+2B00) - SOUTH WEST WHITE ARROW (U+2B03).
+- Added Unicode black arrows:
+  LEFTWARDS BLACK ARROW (U+2B05) - SOUTH WEST BLACK ARROW (U+2B0B),
+  RIGHTWARDS BLACK ARROW (U+2B95).
+- Added Unicode triangle-headed arrows:
+  LEFTWARDS TRIANGLE-HEADED ARROW (U+2B60) -
+  DOWNWARDS TRIANGLE-HEADED ARROW (U+2B63),
+  NORTH WEST TRIANGLE-HEADED ARROW (U+2B66) -
+  SOUTH WEST TRIANGLE-HEADED ARROW (U+2B69).
+- Added Unicode triangle-headed arrows to bar:
+  LEFTWARDS TRIANGLE-HEADED ARROW TO BAR (U+2B70) -
+  DOWNWARDS TRIANGLE-HEADED ARROW TO BAR (U+2B73),
+  NORTH WEST TRIANGLE-HEADED ARROW TO BAR (U+2B76) -
+  SOUTH WEST TRIANGLE-HEADED ARROW TO BAR (U+2B79).
+- Added some Unicode miscellaneous technical:
+  PLACE OF INTEREST SIGN (U+2318),
+  WATCH (U+231A), HOURGLASS (U+231B), TIMER CLOCK (U+23F2).
+- Added some Unicode dingbats:
+  TAPE DRIVE (U+2707), EIGHT SPOKED ASTERISK (U+2733),
+  EIGHT POINTED BLACK STAR (U+2734), SIX POINTED BLACK STAR (U+2736),
+  WHITE EXCLAMATION MARK ORNAMENT (U+2755),
+  HEAVY EXCLAMATION MARK SYMBOL (U+2757),
+  HEAVY WIDE-HEADED RIGHTWARDS ARROW (U+2794),
+  HEAVY ROUND-TIPPED RIGHTWARDS ARROW (U+279C),
+  BLACK-FEATHERED RIGHTWARDS ARROW (U+27B5),
+  HEAVY BLACK-FEATHERED RIGHTWARDS ARROW (U+27B8).
+- Added some Unicode miscellaneous symbols and pictographs:
+  MICROPHONE (U+1F3A4), BELL (U+1F514), BELL WITH CANCELLATION STROKE (U+1F515),
+  RINGING BELL (U+1F56D), SCREEN (U+1F5B5).
+
+Version 2.37 (19 August 2021):
+- Added some Hába accidentals:
+  accidentalHabaSharpLowered (U+F624) - accidentalHabaFlatRaised (U+F627).
+- Added some change clefs:
+  semipitchedPercussionClef1Change (U+F6BE),
+  semipitchedPercussionClef2Change (U+F6BF).
+- Added lookup table entries for ligatures with clefChangeCombining (U+E07F).
+- Enlarged stroke width of notehead parentheses:
+  noteheadParenthesis (U+E0CE),
+  noteheadParenthesisLeft (U+E0F5), noteheadParenthesisRight (U+E0F6),
+  noteheadBlackParens (U+F5DC) - noteheadDoubleWholeParens (U+F5DF).
+- Enlarged stroke width of accidentals on trill and turn:
+  ornamentTrillFlatAbove (U+F5BD) - ornamentTrillSharpAbove (U+F5BF),
+  ornamentTurnFlatAbove (U+F5C0) - ornamentTurnSharpBelow (U+F5C7).
+- Changed shape of asciitilde (U+007E).
+
+Version 2.38 (17 September 2021):
+- Only some shape changes, no new glyphs.
+- Adjusted vertical position of exclam (U+0021) and question (U+003F).
+- Reduced width of m in octaves:
+  quindicesimaAlta (U+E515), quindicesimaBassa (U+E516),
+  ventiduesimaAlta (U+E518), ventiduesimaBassa (U+E519),
+  quindicesimaBassaMb (U+E51D), ventiduesimaBassaMb (U+E51E),
+  octaveBaselineM (U+EC95), octaveSuperscriptM (U+EC96).
+- Reduced bearing of fingering parentheses:
+  fingeringLeftParenthesis (U+ED28) - fingeringRightBracket (U+ED2B),
+  fingeringLeftParenthesisItalic (U+ED8A) - fingeringRightBracketItalic (U+ED8D).
+- Changed slant of "a" in note name noteheads:
+  noteFaHalf (U+E15B), noteLaHalf (U+E15D), noteFaBlack (U+E163), noteLaBlack (U+E165).
+- Enlarged vertical stroke width of articAccentAboveRossini (U+F532),
+  articAccentBelowRossini (U+F533).
+- Enlarged width of stringsChangeBowDirectionImposed (U+F43E).
+
+Version 2.39 (21 October 2021):
+- Added stylistic alternates of flags (short stem down):
+  flag8thDownShort (U+F6C0) - flag1024thDownShort (U+F6C7).
+- Added stylistic alternates of segno serpent:
+  segnoSerpentSmall1 (U+F6C8) - segnoSerpentLarge2 (U+F6CB).
+- Added keyboard techniques supplements:
+  keyboardPedalUnaCorda (U+F6CC) - keyboardPedalSos (U+F6D0).
+- Added electronic music pictograms supplements:
+  elecMIDIController (U+F6D1), elecMIDIControllerThumb (U+F6D2).
+- Enlarged stroke width of string symbols on stem:
+  stringsBowBehindBridgeOneString (U+E627) - stringsBowBehindBridgeFourStrings (U+E62A).
+- Enlarged height of pictTimbalesPeinkofer (U+F4B3).
+- Reduced length of X strokes on noteheadBlackWithX (U+F680).
+
+Version 2.40 (26 November 2021):
+- Added keyboardPedalSos2 (U+F6D1).
+- Moved elecMIDIController (U+F6D2) and elecMIDIControllerThumb (U+F6D3).
+- Added accidental bracket supplements:
+  accidentalBraceLeft (U+F6D4) - accidentalAngleRight (U+F6D7).
+- Added percussion pictograms supplements:
+  pictDrumSet (U+F6E0) - pictPelletDrum (U+F6E4).
+- Added electronic music pictograms supplements:
+  elecAudioFile (U+F6E5), elecVideoFile (U+F6E6).
+- Added Unicode simple arrows:
+  arrowleft (U+2190) - arrowdownleft (U+2199).
+- Added Unicode double arrows:
+  arrowdblleft (U+21D0) - SOUTH WEST DOUBLE ARROW (U+21D9).
+- Added some Unicode circle arrows:
+  ANTICLOCKWISE TOP SEMICIRCLE ARROW (U+21B6), CLOCKWISE TOP SEMICIRCLE ARROW (U+21B7),
+  ANTICLOCKWISE OPEN CIRCLE ARROW (U+21BA), CLOCKWISE OPEN CIRCLE ARROW (U+21BB),
+  CLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW (U+2B6E),
+  ANTICLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW (U+2B6F),
+  FOUR CORNER ARROWS CIRCLING ANTICLOCKWISE (U+2B94).
+- Added both-sided arrows (SMuFL supplements and Unicode):
+  arrowBlackUpDown (U+F6D8) - arrowTriangleToBarLeftRight (U+F6DF),
+  LEFT RIGHT WHITE ARROW (U+2B04), UP DOWN WHITE ARROW (U+21F3),
+  LEFT RIGHT BLACK ARROW (U+2B0C), UP DOWN BLACK ARROW (U+2B0D),
+  LEFT RIGHT TRIANGLE-HEADED ARROW (U+2B64), UP DOWN TRIANGLE-HEADED ARROW (U+2B65).
+- Added further Unicode stars:
+  BLACK FOUR POINTED STAR (U+2726), WHITE FOUR POINTED STAR (U+2727),
+  EIGHT POINTED RECTILINEAR BLACK STAR (U+2737),
+  HEAVY EIGHT POINTED RECTILINEAR BLACK STAR (U+2738),
+  WHITE MEDIUM STAR (U+2B50) - WHITE SMALL STAR (U+2B52).
+- Added Unicode cusp shapes:
+  LIGHT FOUR POINTED BLACK CUSP (U+2BCC) - ROTATED WHITE FOUR POINTED CUSP (U+2BCF).
+- Added further Unicode communication symbols:
+  THREE LINES CONVERGING RIGHT (U+269E), THREE LINES CONVERGING LEFT (U+269F),
+  PUBLIC ADDRESS LOUDSPEAKER (U+1F4E2), CHEERING MEGAPHONE (U+1F4E3),
+  LEFT SPEECH BUBBLE (U+1F5E8), RIGHT SPEECH BUBBLE (U+1F5E9).
+- Added further Unicode user interface symbols:
+  HOURGLASS WITH FLOWING SAND (U+23F3),
+  LEFT-POINTING MAGNIFYING GLASS (U+1F50D), RIGHT-POINTING MAGNIFYING GLASS (U+1F50E),
+  UP-POINTING RED TRIANGLE (U+1F53A) - DOWN-POINTING SMALL RED TRIANGLE (U+1F53D),
+  BLACK FOLDER (U+1F5BF) - OPEN FOLDER (U+1F5C1),
+  EMPTY DOCUMENT (U+1F5CB) - PAGES (U+1F5D0).
+- Added some Unicode office symbols:
+  DOCUMENT WITH TEXT (U+1F5B9) - DOCUMENT WITH PICTURE (U+1F5BB).
+- Added some Unicode technical/mark symbols:
+  INFINITY (U+221E),
+  UP ARROWHEAD (U+2303), DOWN ARROWHEAD (U+2304), WAVY LINE (U+2307),
+  POSITION INDICATOR (U+2316), SQUARE POSITION INDICATOR (U+2BD0),
+  WHITE FLAG (U+2690), BLACK FLAG (U+2691),
+  MEDIUM WHITE CIRCLE (U+26AA) - MEDIUM SMALL WHITE CIRCLE (U+26AC),
+  PENTAGRAM (U+26E4), CROSS MARK (U+274C),
+  BLACK QUESTION MARK ORNAMENT (U+2753), WHITE QUESTION MARK ORNAMENT (U+2754),
+  UNCERTAINTY SIGN (U+2BD1).
+- Changed slightly shape of functionAngleLeft|Right (U+EA93, U+EA94).
+
+Version 2.41 (26 February 2022):
+- Added Hesse accidentals:
+  accidentalHesse12Down (U+F606) - accidentalHesse4Up (U+F60B).
+- Removed Hába accidentals (24-EDO) supplements since they have been
+  included in SMuFL:
+  accidentalOneQuarterToneSharpHaba (U+F672) - accidentalSharpLoweredHaba (U+F677).
+- Added Hába accidental accidentalHabaSixthSharp (U+F672).
+- Added electronic music pictograms supplement:
+  elecMIDIFile (U+F6E7).
+- Added percussion pictograms supplements:
+  pictBedug (U+F6E8), pictDagu (U+F6E9).
+- Added notehead bracket supplements:
+  noteheadBracketLeft (U+F6EA) - noteheadAngleRight (U+F6EF).
+- Added round and square noteheads supplements:
+  noteheadRoundBlackVerticalLine (U+F6F0) - noteheadRoundWhiteVerticalLineLarge (U+F6F3).
+- Added dynamics supplements:
+  dynamicSforzatoFFF (U+F6F4), dynamicSforzatoFFFF (U+F6F5).
+
+Version 2.42 (11 June 2022):
+- Changed shape of digits of Turkish folk music accidentals:
+  accidental1CommaSharp (U+E450) - accidental4CommaFlat (U+E457).
+- Enlarged slightly arrow heads of handbell symbols:
+  handbellsMartellatoLift (U+E811), handbellsMalletLft (U+E816) - handbellsGyro (U+E81D).
+- Added Richter Herf / Maedel accidental:
+  accidentalRHMNatural (U+F615).
+- Added dashed and dotted arrows:
+  LEFTWARDS DASHED ARROW (U+21E0) - DOWNWARDS DASHED ARROW (U+21E3),
+  LEFTWARDS DOUBLE DASH ARROW (U+290C) - RIGHTWARDS TRIPLE DASH ARROW (U+290F),
+  RIGHTWARDS ARROW WITH DOTTED STEM (U+2911),
+  LEFTWARDS ARROW WITH DOTTED STEM (U+2B38),
+  LEFTWARDS TRIANGLE-HEADED DASHED ARROW (U+2B6A) -
+  DOWNWARDS TRIANGLE-HEADED DASHED ARROW (U+2B6D).
+- Added arrows to bar:
+  LEFTWARDS ARROW TO BAR (U+21E4) - RIGHTWARDS ARROW TO BAR (U+21E5).
+- Added paired arrows:
+  RIGHTWARDS ARROW OVER LEFTWARDS ARROW (U+21C4) - DOWNWARDS PAIRED ARROWS (U+21CA),
+  DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW (U+21F5),
+  THREE RIGHTWARDS ARROWS (U+21F6),
+  LEFTWARDS TRIANGLE-HEADED ARROW OVER RIGHTWARDS TRIANGLE-HEADED ARROW (U+2B80) -
+  DOWNWARDS TRIANGLE-HEADED PAIRED ARROWS (U+2B87).
+- Added two-headed arrows:
+  LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS (U+2BEC) -
+  DOWNWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS (U+2BEF).
+- Added tripple arrows:
+  LEFTWARDS TRIPLE ARROW (U+21DA) - RIGHTWARDS TRIPLE ARROW (U+21DB),
+  UPWARDS TRIPLE ARROW (U+290A) - DOWNWARDS TRIPLE ARROW (U+290B).
+- Added long arrows:
+  LONG LEFTWARDS ARROW (U+27F5) - LONG LEFT RIGHT DOUBLE ARROW (U+27FA).
+- Added squiggle arrows:
+  LEFTWARDS SQUIGGLE ARROW (U+21DC) - RIGHTWARDS SQUIGGLE ARROW (U+21DD),
+  LONG RIGHTWARDS SQUIGGLE ARROW (U+27FF), LONG LEFTWARDS SQUIGGLE ARROW (U+2B33).
+- Added arrows with bent tips:
+  UPWARDS ARROW WITH TIP LEFTWARDS (U+21B0) - DOWNWARDS ARROW WITH TIP RIGHTWARDS (U+21B3),
+  RIGHTWARDS ARROW WITH TIP DOWNWARDS (U+2B0E) - LEFTWARDS ARROW WITH TIP UPWARDS (U+2B11),
+  DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS (U+2BA0) -
+  RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS (U+2BA7).
+- Added curved and arc arrows:
+  ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS (U+2934) -
+  BOTTOM ARC ANTICLOCKWISE ARROW (U+293B).
+- Added circular arrows:
+  ANTICLOCKWISE GAPPED CIRCLE ARROW (U+27F2) -
+  CLOCKWISE GAPPED CIRCLE ARROW (U+27F3),
+  LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW (U+293E) -
+  LOWER LEFT SEMICIRCULAR ANTICLOCKWISE ARROW (U+293F),
+  ANTICLOCKWISE CLOSED CIRCLE ARROW (U+2940) -
+  CLOCKWISE CLOSED CIRCLE ARROW (U+2941).
+- Added further arrows:
+  HEAVY RIGHTWARDS ARROW (U+2799), DRAFTING POINT RIGHTWARDS ARROW (U+279B),
+  TRIANGLE-HEADED RIGHTWARDS ARROW (U+279D) - BLACK RIGHTWARDS ARROW (U+27A1),
+  WHITE-FEATHERED RIGHTWARDS ARROW (U+27B3),
+  NORTH WEST AND SOUTH EAST ARROW (U+2921) - NORTH EAST AND SOUTH WEST ARROW (U+2922).
+- Added keyboard symbols:
+  RIGHTWARDS ARROW WITH CORNER DOWNWARDS (U+21B4),
+  DOWNWARDS ARROW WITH CORNER LEFTWARDS (U+21B5),
+  NORTH WEST ARROW TO LONG BAR (U+21B8),
+  LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR (U+21B9),
+  UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS (U+2324) - KEYBOARD (U+2328),
+  ERASE TO THE LEFT (U+232B), RETURN SYMBOL (U+23CE),
+  HORIZONTAL TAB KEY (U+2B7E), VERTICAL TAB KEY (U+2B7F).
+- Added mathematical symbols (relations):
+  TILDE OPERATOR (U+223C) - INVERTED LAZY S (U+223E), SINE WAVE (U+223F),
+  ALMOST EQUAL TO (U+2248) - TRIPLE TILDE (U+224B).
+- Added block elements:
+  FULL BLOCK (U+2588), LIGHT SHADE (U+2591) - DARK SHADE (U+2593).
+- Added circles and arcs:
+  FISHEYE (U+25C9), WHITE CIRCLE (U+25CB) - RIGHT HALF BLACK CIRCLE (U+25D7),
+  UPPER LEFT QUADRANT CIRCULAR ARC (U+25DC) - LOWER HALF CIRCLE (U+25E1),
+  WHITE BULLET (U+25E6),
+  LARGE CIRCLE (U+25EF), BLACK LARGE CIRCLE (U+2B24), HEAVY LARGE CIRCLE (U+2B55),
+  TOP HALF BLACK CIRCLE (U+2BCA) - BOTTOM HALF BLACK CIRCLE (U+2BCB).
+- Added triangles and pointers:
+  BLACK UP-POINTING TRIANGLE (U+25B2) - WHITE LEFT-POINTING POINTER (U+25C5),
+  BLACK LOWER RIGHT TRIANGLE (U+25E2) - BLACK UPPER RIGHT TRIANGLE (U+25E5),
+  WHITE UP-POINTING TRIANGLE WITH DOT (U+25EC) -
+  UP-POINTING TRIANGLE WITH RIGHT HALF BLACK (U+25EE),
+  UPPER LEFT TRIANGLE (U+25F8) - LOWER LEFT TRIANGLE (U+25FA),
+  LOWER RIGHT TRIANGLE (U+25FF).
+- Added squares:
+  BLACK SQUARE (U+25A0) - WHITE SMALL SQUARE (U+25AB),
+  SQUARE WITH LEFT HALF BLACK (U+25E7) -
+  WHITE SQUARE WITH VERTICAL BISECTING LINE (U+25EB),
+  WHITE MEDIUM SQUARE (U+25FB) - BLACK MEDIUM SMALL SQUARE (U+25FE),
+  SQUARE WITH TOP HALF BLACK (U+2B12) -
+  SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK (U+2B15),
+  DOTTED SQUARE (U+2B1A) - WHITE VERY SMALL SQUARE (U+2B1E).
+- Added rectangles and parallelograms:
+  BLACK RECTANGLE (U+25AC) - WHITE PARALLELOGRAM (U+25B1).
+- Added diamonds and lozenges:
+  BLACK DIAMOND (U+25C6) - WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND (U+25C8),
+  LOZENGE (U+25CA),
+  DIAMOND WITH LEFT HALF BLACK (U+2B16) - DIAMOND WITH BOTTOM HALF BLACK (U+2B19),
+  BLACK MEDIUM DIAMOND (U+2B25) - WHITE SMALL LOZENGE (U+2B2B).
+- Added pentagons:
+  BLACK PENTAGON (U+2B1F) - WHITE PENTAGON (U+2B20),
+  BLACK RIGHT-POINTING PENTAGON (U+2B53) - WHITE RIGHT-POINTING PENTAGON (U+2B54).
+- Added hexagons:
+  WHITE HEXAGON (U+2B21) - HORIZONTAL BLACK HEXAGON (U+2B23).
+- Added loop symbols:
+  CURLY LOOP (U*27B0), DOUBLE CURLY LOOP (U+27BF).
+
+Version 2.43 (28 June 2022):
+- Added standard accidentals:
+  accidentalQuadrupleSharp (U+F61C) - accidentalQuadrupleFlat (U+F61D).
+- Added standard accidentals for chord symbols:
+  csymAccidentalQuadrupleSharp (U+F6F6) - csymAccidentalQuadrupleFlat (U+F6F7).
+- Added turkish folk music accidental:
+  accidental4CommaSharp (U+F673).
+- Enlarged slash distance of some AEU accidentals:
+  accidentalKucukMucennebSharp (U+E446) - accidentalBuyukMucennebSharp (U+E447).
+- Lengthened slashes of some Hába accidentals for 72-EDO:
+  accidentalHaba1TwelfthsSharp (U+F660) - accidentalHaba3TwelfthsSharp (U+F662),
+  accidentalHaba5TwelfthsSharp (U+F664), accidentalHaba7TwelfthsSharp (U+F666),
+  accidentalHaba9TwelfthsSharp (U+F668), accidentalHaba1TwelfthsFlat (U+F66B),
+  accidentalHaba3TwelfthsFlat (U+F66D), accidentalHaba5TwelfthsFlat (U+F66F),
+  accidentalHaba1TwelfthsSharpAlt (U+F671) - accidentalHabaSixthSharp (U+F672).
+- Renamed arrows:
+  arrowTriangleToBarUpDown (U+F6DE), arrowTriangleToBarLeftRight (U+F6DF).
+- Removed AGL names of most the Unicode characters except for the groups
+  Basic Latin and Spaces.
+
+Version 2.44 (24 August 2022):
+- Added octaves:
+  ventinovesima (U+F6F8) - ventinovesimaBassaMb (U+F6FB).
+- Changed slant of some rests:
+  rest256th (U+E4EB) - rest1024th (U+E4ED).
+- Enlarged size of document (office) symbols:
+  elecAudioFile (U+F6E5) - elecMIDIFile (U+F6E7),
+  DOCUMENT WITH TEXT (U+1F5B9) - DOCUMENT WITH PICTURE (U+1F5BB),
+  EMPTY DOCUMENT (U+1F5CB), DOCUMENT (U+1F5CE).
+- Changed slightly shape of basic latin small letters:
+  a (U+0061) - z (U+007A).
+- Enlarged width of space (U+0020).
+- Ekmelos specific accordion registers are now deprecated:
+  accdnRH4Ranks4ReedTenor (U+F650) - accdnRH3RanksCeleste (U+F65B).
+
+Version 2.45 (13 September 2022):
+- Changed shape to italic style:
+  octaveParensLeft (U+E51A) - octaveParensRight (U+E51B).
+- Defined glyphs as ligatures:
+  pluckedLeftHandPizzicatoHarmonicAbove (U+F6AD) = U+E614 U+E633,
+  pluckedLeftHandPizzicatoHarmonicBelow (U+F6AE) = U+E633 U+E614.
+- Added user interface symbols:
+  LINK SYMBOL (U+1F517), CLIPBOARD (U+1F4CB),
+  CLOCKWISE RIGHT AND LEFT SEMICIRCLE ARROWS (U+1F5D8),
+  CANCELLATION X (U+1F5D9),
+  INCREASE FONT SIZE SYMBOL (U+1F5DA), DECREASE FONT SIZE SYMBOL (U+1F5DB),
+  SPEAKING HEAD IN SILHOUETTE (U+1F5E3),
+  TWO SPEECH BUBBLES (U+1F5EA),
+  LEFT ANGER BUBBLE (U+1F5EE), RIGHT ANGER BUBBLE (U+1F5EF).
+- Added electronic music symbols:
+  BATTERY (U+1F50B), ELECTRIC PLUG (U+1F50C),
+  TELEVISION (U+1F4FA).
+- Added facial, hand, and portrait symbols:
+  EYES (U+1F440) - EAR (U+1F442),
+  WAVING HAND SIGN (U+1F44B), CLAPPING HANDS SIGN (U+1F44F),
+  BUST IN SILHOUETTE (U+1F464), BUSTS IN SILHOUETTE (U+1F465).
+- Added office and other symbols:
+  PUSHPIN (U+1F4CC), BLACK PUSHPIN (U+1F588),
+  CLOSED BOOK (U+1F4D5), OPEN BOOK (U+1F4D6), BOOK (U+1F56E),
+  LABEL (U+1F3F7).
+- Added geometric shapes:
+  LOWER RIGHT SHADOWED WHITE CIRCLE (U+1F53E),
+  UPPER RIGHT SHADOWED WHITE CIRCLE (U+1F53F).
+- Removed unnecessary vertical multi-segment lines:
+  arpeggioSegment (U+F642) - arpeggioArrowDown (U+F644).
+
+Version 2.46 (23 September 2022):
+- Added electronic music pictogram:
+  elecDataFile (U+F642).
+- Added bubble symbol:
+  SPEECH BALLOON (U+1F4AC).
+- Changed bearing of italic fingering symbols:
+  fingering0Italic (U+ED80) - fingeringRightBracketItalic (U+ED8D).
+- Enlarged shape of user interface symbols:
+  BATTERY (U+1F50B), ELECTRIC PLUG (U+1F50C).
+
+Version 2.47 (8 February 2023):
+- Added musical instruments and miscellaneous objects:
+  DRUM WITH DRUMSTICKS (U+1F941), LONG DRUM (U+1FA98), MARACAS (U+1FA87),
+  FLUTE (U+1FA88), BANJO (U+1FA95), ACCORDION (U+1FA97),
+  LOW BATTERY (U+1FAAB).
+- Enlarged head of some beaters pictograms:
+  pictBeaterHardGlockenspielUp (U+E784) - pictBeaterHardGlockenspielLeft (U+E787),
+  pictBeaterJazzSticksUp (U+E7D3) - pictBeaterJazzSticksDown (U+E7D4),
+  pictDrumStick (U+E7E8).
+- Enlarged shape of some glyphs:
+  FOUR CORNER ARROWS CIRCLING ANTICLOCKWISE (U+2B94),
+  EYES (U+1F440), EYE (U+1F441),
+  WAVING HAND SIGN (U+1F44B), CLAPPING HANDS SIGN (U+1F44F),
+  CLIPBOARD (U+1F4CB), CHEERING MEGAPHONE (U+1F4E3),
+  BATTERY (U+1F50B), ELECTRIC PLUG (U+1F50C),
+  CLOCKWISE RIGHT AND LEFT SEMICIRCLE ARROWS (U+1F5D8).
+- Changed slightly shape of LINK SYMBOL (U+1F517).
+
+Version 2.48 (29 April 2023):
+- Added Persian accidentals supplements:
+  accidentalFlatKoron (U+F674) - accidentalSoriSharp (U+F675).
+- Added stylistic alternates of Persian accidentals (large):
+  accidentalSoriLarge (U+F676), accidentalSoriSharpLarge (U+F677).
+- Added miscellaneous symbols:
+  STOPWATCH (U+23F1), INVERTED PENTAGRAM (U+26E7), MOOD BUBBLE (U+1F5F0).
+- Added quadruple arrows:
+  UPWARDS QUADRUPLE ARROW (U+27F0) - DOWNWARDS QUADRUPLE ARROW (U+27F1),
+  LEFTWARDS QUADRUPLE ARROW (U+2B45) - RIGHTWARDS QUADRUPLE ARROW (U+2B46).
+- Fixed extrema of some accidentals:
+  accidentalWilsonPlus (U+E47B) - accidentalWilsonMinus (U+E47C).
+- Enlarged stroke width of Hesse comma accidentals:
+  accidentalHesse12Down (U+F606), accidentalHesse12Up (U+F609).
+- Added bounding box cut-outs to Hesse accidentals:
+  accidentalHesse12Down (U+F606) - accidentalHesse4Up (U+F60B).
+- Fixed bearing of CROSS MARK (U+274C) to form a pair with
+  HEAVY LARGE CIRCLE (U+2B55).
+
+Version 2.49 (19 June 2023):
+- Changed thickness and bearing of staff brackets:
+  brace (U+E000) - bracket (U+E002).
+- Added staff brackets:
+  reversedBracket (U+F643),
+  squareBracket (U+F700) - reversedSquareBracketBottom (U+F705).
+- Added size variants of staff brace:
+  braceSmall (U+F706) - reversedBrace8 (U+F70F).
+- Changed slightly thickness of laissez vibrer tie:
+  articLaissezVibrerAbove (U+E4BA) - articLaissezVibrerBelow (U+E4BB).
+- Added long stylistic alternates of laissez vibrer tie:
+  articLaissezVibrerAboveLong (U+F6FC) - articLaissezVibrerBelowExtraLong (U+F6FF).
+- Enlarged padding of accidentalSharpSharp (U+E269).
+- Changed to a merging shape of some dynamic ligatures:
+  dynamicMF (U+E52D) - dynamicPF (U+E52E),
+  dynamicFortePiano (U+E534) - dynamicRinforzando2 (U+E53D),
+  dynamicSforzandoFF (U+F645),
+  dynamicSforzatoFFF (U+F6F4) - dynamicSforzatoFFFF (U+F6F5).
+- Changed shape of some chimes pictograms:
+  pictWindChimesGlass (U+E6C1) - pictChimes (U+E6C2).
+
+Version 2.50 (11 August 2023):
+- Added size variants of staff brace:
+  brace10 (U+F710) - reversedBrace12 (U+F713).
+- Changed cymbals pictograms replacing arrow with diagonal stick:
+  pictEdgeOfCymbal (U+E729), pictBellOfCymbal (U+E72A).
+- Enlarged white triangles to same size as black triangles:
+  UPPER LEFT TRIANGLE (U+25F8) - LOWER LEFT TRIANGLE (U+25FA),
+  LOWER RIGHT TRIANGLE (U+25FF).
+
+Version 2.51 (30 August 2023):
+- Added Olympian Sagittal extension accidental diacritics:
+  accSagittal1MinaUp (U+E3F4) - accSagittal2MinasDown (U+E3F7).
+- Added Magrathean Sagittal extension accidental diacritics:
+  accSagittal1TinaUp (U+E3F8) - accSagittalFractionalTinaDown (U+E40B).
+- Added Holds and pauses glyph:
+  caesuraSingleStroke (U+E4D7).
+- Added Plucked techniques glyph:
+  arpeggiato (U+E63C).
+- Added Guitar glyphs:
+  guitarString10 (U+E84A) - guitarString13 (U+E84D).
+- Added Function theory symbols supplement:
+  functionSlashedD (U+F644).
+- Added size variants of staff brace:
+  brace14 (U+F714) - reversedBrace18 (U+F719).
+- Added Miscellaneous Technical glyph:
+  ALARM CLOCK (U+23F0).
+- Added Dingbats Stars and asterisks:
+  FOUR TEARDROP-SPOKED ASTERISK (U+2722),
+  HEAVY ASTERISK (U+2731),
+  TEARDROP-SPOKED ASTERISK (U+273B).
+- Added Dingbat arrows:
+  THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD (U+27A2),
+  THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD (U+27A3),
+  BLACK RIGHTWARDS ARROWHEAD (U+27A4),
+  OPEN-OUTLINED RIGHTWARDS ARROW (U+27BE).
+- Added Centred geometric shapes:
+  BLACK MEDIUM UP-POINTING TRIANGLE CENTRED (U+2BC5) -
+  BLACK MEDIUM RIGHT-POINTING TRIANGLE CENTRED (U+2BC8).
+- Changed position of Chord diagrams glyphs to centered:
+  fretboardFilledCircle (U+E858) - fretboardO (U+E85A).
+- Changed shape of functionSlashedDD (U+EA82).
+- Changed bearing of Standard accidentals for chord symbols:
+  csymAccidentalFlat (U+ED60) - csymAccidentalTripleFlat (U+ED66),
+  csymAccidentalQuadrupleSharp (U+F6F6) - csymAccidentalQuadrupleFlat (U+F6F7).
+- Changed glyph name of caesuraSingleStroke (U+F42C) to
+  caesuraSlashSingleStroke (U+F42C).
+- Changed glyph names of size variants of staff brace to
+  braceNNN and reversedBraceNNN.
+- Updated "engravingDefaults" in "metadata.json".
+
+Version 2.52 (4 September 2023):
+- Added stylistic alternates of clefs:
+  unpitchedPercussionClef3 (U+F650) - unpitchedPercussionClef3Change (U+F651).
+- Added octaves supplements:
+  ottavaBassaSupVb (U+F652) - ventinovesimaBassaSupMb (U+F655).
+- Added common ornaments supplements:
+  graceNoteStemUp (U+F656) - graceNoteStemDown (U+F657).
+- Added stylistic alternate of string harmonic:
+  stringsHarmonicDiamond (U+F658).
+- Removed accordion registers supplements which are deprecated
+  since Version 2.44:
+  accdnRH4Ranks4ReedTenor (U+F650) - accdnRH3RanksCeleste (U+F65B).
+- Enlarged shape of Olympian and Magrathean Sagittal extension
+  accidental diacritics:
+  accSagittal1MinaUp (U+E3F4) - accSagittal2MinasDown (U+E3F7),
+  accSagittal1TinaUp (U+E3F8) - accSagittalFractionalTinaDown (U+E40B).
+- Enlarged slightly stem width of grace notes:
+  graceNoteAcciaccaturaStemUp (U+E560) - graceNoteAppoggiaturaStemDown (U+E563).
+- Superfluous Turkish folk music accidentals supplement is now deprecated:
+  accidental4CommaSharp (U+F673).
+
+Version 2.53 (16 March 2024):
+- Added electronic music pictograms supplements:
+  elecMuteRight (U+F659) - elecMuteStrokeRight (U+F65B).
+- Enlarged height and thickness of some keyboard techniques symbols
+  for use in fingering with a smaller font size:
+  keyboardPlayWithRH (U+E66E) - keyboardPlayWithLHEnd (U+E671).
+- Changed shape and thickness of the circle of
+  harpPedalRaisedChange (U+F648) - harpPedalLoweredChange (U+F64A).
+- Reduced slightly height of buzzRoll (U+E22A), stemBuzzRoll (U+E217).
+- Removed accidental4CommaSharp (U+F673) which is deprecated since
+  Version 2.52.
