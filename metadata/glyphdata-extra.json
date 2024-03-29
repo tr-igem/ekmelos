@@ -1,0 +1,1356 @@
+{
+  "wiggleVibratoMediumSlower": {
+    "description": "Vibrato medium, slower"
+  },
+  "wiggleVibratoLargestSlower": {
+    "description": "Vibrato largest, slower"
+  },
+
+  "6stringTabClefClassic": {
+    "description": "6-string tab clef (classic style)"
+  },
+  "6stringTabClefTall": {
+    "description": "6-string tab clef (tall)"
+  },
+  "6stringTabClefSerif": {
+    "description": "6-string tab clef (serif)"
+  },
+  "4stringTabClefClassic": {
+    "description": "4-string tab clef (classic style)"
+  },
+  "4stringTabClefTall": {
+    "description": "4-string tab clef (tall)"
+  },
+  "4stringTabClefSerif": {
+    "description": "4-string tab clef (serif)"
+  },
+
+  "flag8thUpStraight": {
+    "description": "Combining flag 1 (8th) above (straight)"
+  },
+  "flag8thUpShort": {
+    "description": "Combining flag 1 (8th) above (short)"
+  },
+  "flag8thDownStraight": {
+    "description": "Combining flag 1 (8th) below (straight)"
+  },
+  "flag16thUpStraight": {
+    "description": "Combining flag 2 (16th) above (straight)"
+  },
+  "flag16thUpShort": {
+    "description": "Combining flag 2 (16th) above (short)"
+  },
+  "flag16thDownStraight": {
+    "description": "Combining flag 2 (16th) below (straight)"
+  },
+  "flag32ndUpStraight": {
+    "description": "Combining flag 3 (32nd) above (straight)"
+  },
+  "flag32ndUpShort": {
+    "description": "Combining flag 3 (32nd) above (short)"
+  },
+  "flag32ndDownStraight": {
+    "description": "Combining flag 3 (32nd) below (straight)"
+  },
+  "flag64thUpStraight": {
+    "description": "Combining flag 4 (64th) above (straight)"
+  },
+  "flag64thUpShort": {
+    "description": "Combining flag 4 (64th) above (short)"
+  },
+  "flag64thDownStraight": {
+    "description": "Combining flag 4 (64th) below (straight)"
+  },
+  "flag128thUpStraight": {
+    "description": "Combining flag 5 (128th) above (straight)"
+  },
+  "flag128thUpShort": {
+    "description": "Combining flag 5 (128th) above (short)"
+  },
+  "flag128thDownStraight": {
+    "description": "Combining flag 5 (128th) below (straight)"
+  },
+  "flag256thUpStraight": {
+    "description": "Combining flag 6 (256th) above (straight)"
+  },
+  "flag256thUpShort": {
+    "description": "Combining flag 6 (256th) above (short)"
+  },
+  "flag256thDownStraight": {
+    "description": "Combining flag 6 (256th) below (straight)"
+  },
+  "flag512thUpStraight": {
+    "description": "Combining flag 7 (512th) above (straight)"
+  },
+  "flag512thUpShort": {
+    "description": "Combining flag 7 (512th) above (short)"
+  },
+  "flag512thDownStraight": {
+    "description": "Combining flag 7 (512th) below (straight)"
+  },
+  "flag1024thUpStraight": {
+    "description": "Combining flag 8 (1024th) above (straight)"
+  },
+  "flag1024thUpShort": {
+    "description": "Combining flag 8 (1024th) above (short)"
+  },
+  "flag1024thDownStraight": {
+    "description": "Combining flag 8 (1024th) below (straight)"
+  },
+
+  "segnoJapanese": {
+    "description": "Segno (Japanese style, rotated)"
+  },
+  "codaJapanese": {
+    "description": "Coda (Japanese style, serif)"
+  },
+  "repeatRightLeftThick": {
+    "description": "Right and left repeat sign (thick-thick)"
+  },
+
+  "articAccentAboveLarge": {
+    "description": "Large accent above"
+  },
+  "articAccentBelowLarge": {
+    "description": "Large accent below"
+  },
+  "articAccentAboveRossini": {
+    "description": "Accent above (Rossini)"
+  },
+  "articAccentBelowRossini": {
+    "description": "Accent below (Rossini)"
+  },
+
+  "doubleTongueAboveNoSlur": {
+    "description": "Double-tongue above (no slur)"
+  },
+  "doubleTongueBelowNoSlur": {
+    "description": "Double-tongue below (no slur)"
+  },
+  "tripleTongueAboveNoSlur": {
+    "description": "Triple-tongue above (no slur)"
+  },
+  "tripleTongueBelowNoSlur": {
+    "description": "Triple-tongue below (no slur)"
+  },
+
+  "stringsChangeBowDirectionLiga": {
+    "description": "Change bow direction, indeterminate (Pricope)"
+  },
+  "stringsChangeBowDirectionImposed": {
+    "description": "Change bow direction, indeterminate (Plötz)"
+  },
+
+  "pluckedSnapPizzicatoBelowGerman": {
+    "description": "Snap pizzicato below (German)"
+  },
+  "pluckedSnapPizzicatoAboveGerman": {
+    "description": "Snap pizzicato above (German)"
+  },
+
+  "accidentalDoubleFlatJoinedStems": {
+    "description": "Double flat (joined stems)"
+  },
+  "accidentalTripleFlatJoinedStems": {
+    "description": "Triple flat (joined stems)"
+  },
+
+  "keyboardPedalPedNoDot": {
+    "description": "Pedal mark (no dot) "
+  },
+  "keyboardPedalSostNoDot": {
+    "description": "Sostenuto pedal mark (no dot)"
+  },
+
+  "pictTambourineStockhausen": {
+    "description": "Tambourine (Stockhausen)"
+  },
+  "pictCastanetsSmithBrindle": {
+    "description": "Castanets (Smith Brindle)"
+  },
+  "pictSleighBellSmithBrindle": {
+    "description": "Sleigh bell (Smith Brindle) "
+  },
+  "pictCowBellBerio": {
+    "description": "Cow bell (Berio)"
+  },
+  "pictMaracaSmithBrindle": {
+    "description": "Maraca (Smith Brindle)"
+  },
+  "pictXylBassPeinkofer": {
+    "description": "Bass xylophone (Peinkofer/Tannigel)"
+  },
+  "pictXylTenorPeinkofer": {
+    "description": "Tenor xylophone (Peinkofer/Tannigel)"
+  },
+  "pictVibPeinkofer": {
+    "description": "Vibraphone (Peinkofer/Tannigel)"
+  },
+  "pictVibMotorOffPeinkofer": {
+    "description": "Metallophone (vibraphone motor off) (Peinkofer/Tannigel)"
+  },
+  "pictLithophonePeinkofer": {
+    "description": "Lithophone (Peinkofer/Tannigel)"
+  },
+  "pictTubaphonePeinkofer": {
+    "description": "Tubaphone (Peinkofer/Tannigel)"
+  },
+  "pictXylPeinkofer": {
+    "description": "Xylophone (Peinkofer/Tannigel)"
+  },
+  "pictGlspPeinkofer": {
+    "description": "Glockenspiel (Peinkofer/Tannigel)"
+  },
+  "pictMarPeinkofer": {
+    "description": "Marimba (Peinkofer/Tannigel)"
+  },
+  "pictLotusFlutePeinkofer": {
+    "description": "Lotus flute (Peinkofer/Tannigel)"
+  },
+  "pictTomTomChinesePeinkofer": {
+    "description": "Chinese tom-tom (Peinkofer/Tannigel)"
+  },
+  "pictTimpaniPeinkofer": {
+    "description": "Timpani (Peinkofer/Tannigel)"
+  },
+  "pictBassDrumPeinkofer": {
+    "description": "Bass drum (Peinkofer/Tannigel)"
+  },
+  "pictBongosPeinkofer": {
+    "description": "Bongos (Peinkofer/Tannigel) "
+  },
+  "pictCongaPeinkofer": {
+    "description": "Conga (Peinkofer/Tannigel)"
+  },
+  "pictTomTomPeinkofer": {
+    "description": "Tom-tom (Peinkofer/Tannigel)"
+  },
+  "pictTimbalesPeinkofer": {
+    "description": "Timbales (Peinkofer/Tannigel)"
+  },
+  "pictGuiroSevsay": {
+    "description": "Guiro (Sevsay)"
+  },
+  "pictGuiroPeinkofer": {
+    "description": "Guiro (Peinkofer/Tannigel)"
+  },
+  "pictFlexatonePeinkofer": {
+    "description": "Flexatone (Peinkofer/Tannigel) "
+  },
+  "pictMusicalSawPeinkofer": {
+    "description": "Musical saw (Peinkofer/Tannigel)"
+  },
+
+  "timeSig2over4": {
+    "description": "2/4 time signature"
+  },
+  "timeSig2over2": {
+    "description": "2/2 time signature"
+  },
+  "timeSig3over2": {
+    "description": "3/2 time signature"
+  },
+  "timeSig3over4": {
+    "description": "3/4 time signature"
+  },
+  "timeSig3over8": {
+    "description": "3/8 time signature"
+  },
+  "timeSig4over4": {
+    "description": "4/4 time signature"
+  },
+  "timeSig5over4": {
+    "description": "5/4 time signature"
+  },
+  "timeSig5over8": {
+    "description": "5/8 time signature"
+  },
+  "timeSig6over4": {
+    "description": "6/4 time signature"
+  },
+  "timeSig6over8": {
+    "description": "6/8 time signature"
+  },
+  "timeSig7over8": {
+    "description": "7/8 time signature"
+  },
+  "timeSig9over8": {
+    "description": "9/8 time signature"
+  },
+  "timeSig12over8": {
+    "description": "12/8 time signature"
+  },
+  "timeSig0Denominator": {
+    "description": "Time signature 0 (denominator)"
+  },
+  "timeSig0Numerator": {
+    "description": "Time signature 0 (numerator)"
+  },
+  "timeSig1Denominator": {
+    "description": "Time signature 1 (denominator)"
+  },
+  "timeSig1Numerator": {
+    "description": "Time signature 1 (numerator)"
+  },
+  "timeSig2Denominator": {
+    "description": "Time signature 2 (denominator)"
+  },
+  "timeSig2Numerator": {
+    "description": "Time signature 2 (numerator)"
+  },
+  "timeSig3Denominator": {
+    "description": "Time signature 3 (denominator)"
+  },
+  "timeSig3Numerator": {
+    "description": "Time signature 3 (numerator)"
+  },
+  "timeSig4Denominator": {
+    "description": "Time signature 4 (denominator)"
+  },
+  "timeSig4Numerator": {
+    "description": "Time signature 4 (numerator)"
+  },
+  "timeSig5Denominator": {
+    "description": "Time signature 5 (denominator)"
+  },
+  "timeSig5Numerator": {
+    "description": "Time signature 5 (numerator)"
+  },
+  "timeSig6Denominator": {
+    "description": "Time signature 6 (denominator)"
+  },
+  "timeSig6Numerator": {
+    "description": "Time signature 6 (numerator)"
+  },
+  "timeSig7Denominator": {
+    "description": "Time signature 7 (denominator)"
+  },
+  "timeSig7Numerator": {
+    "description": "Time signature 7 (numerator)"
+  },
+  "timeSig8Denominator": {
+    "description": "Time signature 8 (denominator)"
+  },
+  "timeSig8Numerator": {
+    "description": "Time signature 8 (numerator)"
+  },
+  "timeSig9Denominator": {
+    "description": "Time signature 9 (denominator)"
+  },
+  "timeSig9Numerator": {
+    "description": "Time signature 9 (numerator)"
+  },
+
+  "ornamentTrillFlatAbove": {
+    "description": "Trill, flat above"
+  },
+  "ornamentTrillNaturalAbove": {
+    "description": "Trill, natural above"
+  },
+  "ornamentTrillSharpAbove": {
+    "description": "Trill, sharp above"
+  },
+  "ornamentTurnFlatAbove": {
+    "description": "Turn, flat above"
+  },
+  "ornamentTurnFlatAboveSharpBelow": {
+    "description": "Turn, flat above, sharp below"
+  },
+  "ornamentTurnFlatBelow": {
+    "description": "Turn, flat below"
+  },
+  "ornamentTurnNaturalAbove": {
+    "description": "Turn, natural above"
+  },
+  "ornamentTurnNaturalBelow": {
+    "description": "Turn, natural below"
+  },
+  "ornamentTurnSharpAbove": {
+    "description": "Turn, sharp above"
+  },
+  "ornamentTurnSharpAboveFlatBelow": {
+    "description": "Turn, sharp above, flat below"
+  },
+  "ornamentTurnSharpBelow": {
+    "description": "Turn, sharp below"
+  },
+
+  "noteheadBlackParens": {
+    "description": "Parenthesised black notehead"
+  },
+  "noteheadHalfParens": {
+    "description": "Parenthesised half notehead"
+  },
+  "noteheadWholeParens": {
+    "description": "Parenthesised whole (semibreve) notehead"
+  },
+  "noteheadDoubleWholeParens": {
+    "description": "Parenthesised double whole (breve) notehead"
+  },
+
+  "accidentalFlatParens": {
+    "description": "Parenthesised flat"
+  },
+  "accidentalNaturalParens": {
+    "description": "Parenthesised natural"
+  },
+  "accidentalSharpParens": {
+    "description": "Parenthesised sharp"
+  },
+  "accidentalDoubleSharpParens": {
+    "description": "Parenthesised double sharp"
+  },
+  "accidentalDoubleFlatParens": {
+    "description": "Parenthesised double flat"
+  },
+
+  "accidentalSharpJohnstonEl": {
+    "description": "Sharp-inverted seven"
+  },
+  "accidentalSharpJohnstonUp": {
+    "description": "Sharp-up arrow"
+  },
+  "accidentalSharpJohnstonDown": {
+    "description": "Sharp-down arrow"
+  },
+  "accidentalFlatJohnstonEl": {
+    "description": "Flat-inverted seven"
+  },
+  "accidentalFlatJohnstonUp": {
+    "description": "Flat-up arrow"
+  },
+  "accidentalFlatJohnstonDown": {
+    "description": "Flat-down arrow"
+  },
+  "accidentalJohnstonSevenSharp": {
+    "description": "Seven-sharp"
+  },
+  "accidentalJohnstonSevenFlat": {
+    "description": "Seven-flat"
+  },
+  "accidentalJohnstonSevenUp": {
+    "description": "Seven-up arrow"
+  },
+  "accidentalJohnstonSevenDown": {
+    "description": "Seven-down arrow"
+  },
+  "accidentalJohnstonUpEl": {
+    "description": "Up arrow-inverted seven"
+  },
+  "accidentalJohnstonDownEl": {
+    "description": "Down arrow-inverted seven"
+  },
+  "accidentalSharpJohnstonUpEl": {
+    "description": "Sharp-up arrow-inverted seven"
+  },
+  "accidentalSharpJohnstonDownEl": {
+    "description": "Sharp-down arrow-inverted seven"
+  },
+  "accidentalJohnstonSevenSharpUp": {
+    "description": "Seven-sharp-up arrow"
+  },
+  "accidentalJohnstonSevenSharpDown": {
+    "description": "Seven-sharp-down arrow"
+  },
+  "accidentalFlatJohnstonUpEl": {
+    "description": "Flat-up arrow-inverted seven"
+  },
+  "accidentalFlatJohnstonElDown": {
+    "description": "Flat-inverted seven-down arrow"
+  },
+  "accidentalJohnstonSevenFlatUp": {
+    "description": "Seven-flat-up arrow"
+  },
+  "accidentalJohnstonSevenFlatDown": {
+    "description": "Seven-flat-down arrow"
+  },
+
+  "accidentalRHM12Down": {
+    "description": "1/12 tone low"
+  },
+  "accidentalRHM6Down": {
+    "description": "1/6 tone low"
+  },
+  "accidentalRHM4Down": {
+    "description": "1/4 tone low"
+  },
+  "accidentalRHM12Up": {
+    "description": "1/12 tone high"
+  },
+  "accidentalRHM6Up": {
+    "description": "1/6 tone high"
+  },
+  "accidentalRHM4Up": {
+    "description": "1/4 tone high"
+  },
+  "accidentalRHMNatural": {
+    "description": "Cancellation stroke for arrows"
+  },
+
+  "accidentalHesse12Down": {
+    "description": "1/12 tone low"
+  },
+  "accidentalHesse6Down": {
+    "description": "1/6 tone low"
+  },
+  "accidentalHesse4Down": {
+    "description": "1/4 tone low"
+  },
+  "accidentalHesse12Up": {
+    "description": "1/12 tone high"
+  },
+  "accidentalHesse6Up": {
+    "description": "1/6 tone high"
+  },
+  "accidentalHesse4Up": {
+    "description": "1/4 tone high"
+  },
+
+  "accidentalRingArrowDown": {
+    "description": "Arrow down with ring (lower for 15-edo and 21-edo)"
+  },
+  "accidentalRingArrowUp": {
+    "description": "Arrow up with ring (raise for 15-edo and 21-edo)"
+  },
+  "accidentalHalfFlat": {
+    "description": "Half flat (lower by 6/31)"
+  },
+  "accidentalHalfDoubleFlat": {
+    "description": "Double half flat (lower by 18/31)"
+  },
+
+  "noteTick": {
+    "description": "Metronome tick (note name t in ekmelib)"
+  },
+
+  "accidentalFlatArrowBoth": {
+    "description": "Flat with arrow up and down"
+  },
+  "accidentalNaturalArrowBoth": {
+    "description": "Natural with arrow up and down"
+  },
+  "accidentalSharpArrowBoth": {
+    "description": "Sharp with arrow up and down"
+  },
+  "accidentalReversedFlatSlash": {
+    "description": "Reversed flat with slash"
+  },
+  "accidentalNarrowReversedFlatSlash": {
+    "description": "Narrow reversed flat with slash"
+  },
+  "accidentalDoubleFlatSlash": {
+    "description": "Double flat with slash"
+  },
+  "accidentalQuadrupleSharp": {
+    "description": "Quadruple sharp"
+  },
+  "accidentalQuadrupleFlat": {
+    "description": "Quadruple flat"
+  },
+
+  "accidentalQuarterFlatFilledEqualTempered": {
+    "description": "Filled reversed flat equal tempered (quarter-tone flat)"
+  },
+  "accidentalThreeQuarterFlatEqualTempered": {
+    "description": "Lower by three equal tempered quarter-tones"
+  },
+  "accidentalThreeQuarterFlatFilledEqualTempered": {
+    "description": "Filled reversed flat and flat equal tempered (three quarter-tones flat)"
+  },
+  "accidentalThreeQuarterSharpEqualTempered": {
+    "description": "Raise by three equal tempered quarter-tones"
+  },
+
+  "accidentalHabaSharpLowered": {
+    "description": "Sharp with angle up (one third sharp) (Alois H\u00e1ba)"
+  },
+  "accidentalHabaSharpRaised": {
+    "description": "Sharp with angle right (two thirds sharp) (Alois H\u00e1ba)"
+  },
+  "accidentalHabaFlatLowered": {
+    "description": "Flat with barb up (two thirds flat) (Alois H\u00e1ba)"
+  },
+  "accidentalHabaFlatRaised": {
+    "description": "Flat with angle right (one third flat) (Alois H\u00e1ba)"
+  },
+
+  "accidental4CommaSharp": {
+    "description": "4-comma sharp"
+  },
+
+  "accidentalFlatKoron": {
+    "description": "Flat koron (inverted koron) (three-quarter-tones flat)"
+  },
+  "accidentalSoriSharp": {
+    "description": "Sori sharp (reversed sori) (three-quarter-tones sharp)"
+  },
+  "accidentalSoriLarge": {
+    "description": "Large sori (quarter tone sharp)"
+  },
+  "accidentalSoriSharpLarge": {
+    "description": "Large Sori sharp (reversed sori) (three-quarter-tones sharp)"
+  },
+
+  "gClef8vbOldChange": {
+    "description": "G clef ottava bassa change (old style)"
+  },
+  "gClef8vbCClefChange": {
+    "description": "G clef ottava bassa with C clef change"
+  },
+  "cClefSquareChange": {
+    "description": "C clef change (19th century)"
+  },
+  "cClefFrench20C": {
+    "description": "C clef (French style)"
+  },
+  "cClefFrench20CChange": {
+    "description": "C clef change (French, 20th century)"
+  },
+  "unpitchedPercussionClef1Change": {
+    "description": "Unpitched percussion clef 1 change"
+  },
+  "unpitchedPercussionClef2Change": {
+    "description": "Unpitched percussion clef 2 change"
+  },
+
+  "noteheadLongaUp": {
+    "description": "Longa note stem up"
+  },
+  "noteheadLongaDown": {
+    "description": "Longa note stem down"
+  },
+  "noteheadDoubleWholeAlt": {
+    "description": "Double whole note (breve), single vertical strokes"
+  },
+
+  "dynamicNienteSlashedForHairpin": {
+    "description": "Niente slashed (for hairpins)"
+  },
+  "dynamicCrescendoJazz": {
+    "description": "Crescendo (jazz style, crescendo molto)"
+  },
+
+  "stringsOpen": {
+    "description": "Open string (harmonic)"
+  },
+  "stringsHalfOpen": {
+    "description": "Half open string, slash"
+  },
+  "stringsHalfOpenVertical": {
+    "description": "Half open string, vertical stroke"
+  },
+
+  "breathMarkCommaTurned": {
+    "description": "Breath mark (comma turned)"
+  },
+  "breathMarkCommaWedge": {
+    "description": "Breath mark (wedge)"
+  },
+  "breathMarkCommaWedgeTurned": {
+    "description": "Breath mark (wedge turned)"
+  },
+
+  "arpeggioSegment": {
+    "description": "Arpeggio wiggle segment"
+  },
+  "arpeggioArrowUp": {
+    "description": "Arpeggio arrowhead up"
+  },
+  "arpeggioArrowDown": {
+    "description": "Arpeggio arrowhead down"
+  },
+
+  "functionSlashedD": {
+    "description": "Function theory major dominant seventh"
+  },
+
+  "dynamicSforzandoFF": {
+    "description": "Sforzando ff"
+  },
+  "dynamicSP": {
+    "description": "Sforzando-piano"
+  },
+  "dynamicSPP": {
+    "description": "Sforzando-pianissimo"
+  },
+
+  "harpPedalRaisedChange": {
+    "description": "Harp pedal raised (flat) change"
+  },
+  "harpPedalCenteredChange": {
+    "description": "Harp pedal centered (natural) change"
+  },
+  "harpPedalLoweredChange": {
+    "description": "Harp pedal lowered (sharp) change"
+  },
+
+  "noteheadDiamondClusterHalf2nd": {
+    "description": "Diamond half cluster, 2nd"
+  },
+  "noteheadDiamondClusterHalf3rd": {
+    "description": "Diamond half cluster, 3rd"
+  },
+  "noteheadDiamondClusterHalfTop": {
+    "description": "Combining diamond half cluster, top"
+  },
+  "noteheadDiamondClusterHalfMiddle": {
+    "description": "Combining diamond half cluster, middle"
+  },
+  "noteheadDiamondClusterHalfBottom": {
+    "description": "Combining diamond half cluster, bottom"
+  },
+
+  "unpitchedPercussionClef3": {
+    "description": "Unpitched percussion clef 3"
+  },
+  "unpitchedPercussionClef3Change": {
+    "description": "Unpitched percussion clef 3 change"
+  },
+
+  "ottavaBassaSupVb": {
+    "description": "Ottava bassa (8vb superscript)"
+  },
+  "quindicesimaBassaSupMb": {
+    "description": "Quindicesima bassa (15mb superscript)"
+  },
+  "ventiduesimaBassaSupMb": {
+    "description": "Ventiduesima bassa (22mb superscript)"
+  },
+  "ventinovesimaBassaSupMb": {
+    "description": "ventinovesima bassa (29mb superscript)"
+  },
+
+  "graceNoteStemUp": {
+    "description": "Grace note stem down"
+	},
+  "graceNoteStemDown": {
+    "description": "Grace note stem up"
+  },
+
+  "stringsHarmonicDiamond": {
+    "description": "Harmonic (diamond)"
+  },
+
+  "elecMuteRight": {
+    "description": "Mute right"
+  },
+  "elecUnmuteRight": {
+    "description": "Unmute right"
+  },
+  "elecMuteStrokeRight": {
+    "description": "Right speaker with cancellation stroke"
+  },
+  "elecSurroundSound": {
+    "description": "Surround sound for multichannel-capable speakers"
+  },
+  "elecCenterSubwoofer": {
+    "description": "Center speaker or single subwoofer"
+  },
+  "elecSideSurroundSound": {
+    "description": "Side surround sound for multichannel-capable speakers"
+  },
+
+  "miscEyeglassesRight": {
+    "description": "Eyeglasses right"
+  },
+
+  "accidentalHaba1TwelfthsSharp": {
+    "description": "1/12 tone sharp"
+  },
+  "accidentalHaba2TwelfthsSharp": {
+    "description": "1/6 tone sharp"
+  },
+  "accidentalHaba3TwelfthsSharp": {
+    "description": "1/4 tone sharp"
+  },
+  "accidentalHaba4TwelfthsSharp": {
+    "description": "1/3 tone sharp"
+  },
+  "accidentalHaba5TwelfthsSharp": {
+    "description": "5/12 tone sharp"
+  },
+  "accidentalHaba6TwelfthsSharp": {
+    "description": "1/2 tone sharp"
+  },
+  "accidentalHaba7TwelfthsSharp": {
+    "description": "7/12 tone sharp"
+  },
+  "accidentalHaba8TwelfthsSharp": {
+    "description": "2/3 tone sharp"
+  },
+  "accidentalHaba9TwelfthsSharp": {
+    "description": "3/4 tone sharp"
+  },
+  "accidentalHaba10TwelfthsSharp": {
+    "description": "5/6 tone sharp"
+  },
+  "accidentalHaba11TwelfthsSharp": {
+    "description": "11/12 tone sharp"
+  },
+  "accidentalHaba1TwelfthsFlat": {
+    "description": "1/12 tone flat"
+  },
+  "accidentalHaba2TwelfthsFlat": {
+    "description": "1/6 tone flat"
+  },
+  "accidentalHaba3TwelfthsFlat": {
+    "description": "1/4 tone flat"
+  },
+  "accidentalHaba4TwelfthsFlat": {
+    "description": "1/3 tone flat"
+  },
+  "accidentalHaba5TwelfthsFlat": {
+    "description": "5/12 tone flat"
+  },
+  "accidentalHaba6TwelfthsFlat": {
+    "description": "1/2 tone flat"
+  },
+  "accidentalHaba1TwelfthsSharpAlt": {
+    "description": "1/12 tone sharp, slash non-centered"
+  },
+  "accidentalHabaSixthSharp": {
+    "description": "1/6 tone sharp"
+  },
+
+  "accidentalOneFifthToneSharpFerneyhough": {
+    "description": "One-fifth-tone sharp (Ferneyhough)"
+  },
+  "accidentalTwoFifthTonesSharpFerneyhough": {
+    "description": "Two-fifth-tones sharp (Ferneyhough)"
+  },
+  "accidentalThreeFifthTonesSharpFerneyhough": {
+    "description": "Three-fifth-tones sharp (Ferneyhough)"
+  },
+  "accidentalFourFifthTonesSharpFerneyhough": {
+    "description": "Four-fifth-tones sharp (Ferneyhough)"
+  },
+
+  "noteheadSquareHalfBlack": {
+    "description": "Square notehead black and white"
+  },
+  "noteheadSquareHalfBlackLarge": {
+    "description": "Large square notehead black and white"
+  },
+  "noteheadRoundHalfBlack": {
+    "description": "Round notehead black and white"
+  },
+  "noteheadRoundHalfBlackLarge": {
+    "description": "Large round notehead black and white"
+  },
+
+  "noteheadBlackWithX": {
+    "description": "Black notehead with X"
+  },
+  "noteheadDoubleTriangleUpWhite": {
+    "description": "Double triangle notehead up white"
+  },
+  "noteheadDoubleTriangleUpBlack": {
+    "description": "Double triangle notehead up black"
+  },
+
+  "note8thUpStraight": {
+    "description": "Eighth note (quaver) stem up (straight)"
+  },
+  "note8thUpShort": {
+    "description": "Eighth note (quaver) stem up (short)"
+  },
+  "note8thUpBeamed": {
+    "description": "Eighth note (quaver) stem up (beamed)"
+  },
+  "note16thUpStraight": {
+    "description": "16th note (semiquaver) stem up (straight)"
+  },
+  "note16thUpShort": {
+    "description": "16th note (semiquaver) stem up (short)"
+  },
+  "note16thUpBeamed": {
+    "description": "16th note (semiquaver) stem up (beamed)"
+  },
+  "note32ndUpStraight": {
+    "description": "32nd note (demisemiquaver) stem up (straight)"
+  },
+  "note32ndUpShort": {
+    "description": "32nd note (demisemiquaver) stem up (short)"
+  },
+  "note32ndUpBeamed": {
+    "description": "32nd note (demisemiquaver) stem up (beamed)"
+  },
+
+  "articTenutoMarcatoAbove": {
+    "description": "Tenuto-marcato above"
+  },
+  "articTenutoMarcatoBelow": {
+    "description": "Tenuto-marcato below"
+  },
+  "articStaccatissimoColonAbove": {
+    "description": "Staccatissimo double staccato above"
+  },
+  "articStaccatissimoColonBelow": {
+    "description": "Staccatissimo double staccato below"
+  },
+  "articMarcatoStaccatissimoAbove": {
+    "description": "Marcato-staccatissimo above"
+  },
+  "articMarcatoStaccatissimoBelow": {
+    "description": "Marcato-staccatissimo below"
+  },
+  "articMarcatoTenutoStaccatoAbove": {
+    "description": "Marcato-tenuto-staccato above"
+  },
+  "articMarcatoTenutoStaccatoBelow": {
+    "description": "Marcato-tenuto-staccato below"
+  },
+
+  "articDoubleAccentAbove": {
+    "description": "Double-accent above"
+  },
+  "articDoubleAccentBelow": {
+    "description": "Double-accent below"
+  },
+  "articTripleAccentAbove": {
+    "description": "Triple-accent above"
+  },
+  "articTripleAccentBelow": {
+    "description": "Triple-accent below"
+  },
+  "articTenutoDoubleAccentAbove": {
+    "description": "Tenuto-double-accent above"
+  },
+  "articTenutoDoubleAccentBelow": {
+    "description": "Tenuto-double-accent below"
+  },
+  "articDoubleMarcatoAbove": {
+    "description": "Double-marcato above"
+  },
+  "articDoubleMarcatoBelow": {
+    "description": "Double-marcato below"
+  },
+  "articTripleMarcatoAbove": {
+    "description": "Triple-marcato above"
+  },
+  "articTripleMarcatoBelow": {
+    "description": "Triple-marcato below"
+  },
+
+  "fermataExtraShortAbove": {
+    "description": "Extra short fermata above"
+  },
+  "fermataExtraShortBelow": {
+    "description": "Extra short fermata below"
+  },
+  "fermataExtraLongAbove": {
+    "description": "Extra long fermata above"
+  },
+  "fermataExtraLongBelow": {
+    "description": "Extra long fermata below"
+  },
+  "breathMarkCommaShort": {
+    "description": "Short breath mark (comma)"
+  },
+  "breathMarkCommaVeryShort": {
+    "description": "Very short breath mark (comma)"
+  },
+
+  "brassHarmonMuteStemHalfCross": {
+    "description": "Harmon mute, stem extended, cross"
+  },
+
+  "windOpenDoubleHole": {
+    "description": "Open double hole (recorder)"
+  },
+  "windClosedDoubleHole": {
+    "description": "Closed double hole (recorder)"
+  },
+  "windOpenClosedDoubleHole": {
+    "description": "Open closed double hole (recorder)"
+  },
+  "windClosedOpenDoubleHole": {
+    "description": "Closed open double hole (recorder)"
+  },
+
+  "stringsArco": {
+    "description": "Arco for stem"
+  },
+  "stringsColLegno": {
+    "description": "Col legno for stem"
+  },
+  "stringsColLegnoBattuto": {
+    "description": "Col legno battuto"
+  },
+  "stringsColLegnoTratto": {
+    "description": "Col legno tratto"
+  },
+
+  "pluckedLeftHandPizzicatoHarmonicAbove": {
+    "description": "Left-hand pizzicato harmonic above"
+  },
+  "pluckedLeftHandPizzicatoHarmonicBelow": {
+    "description": "Left-hand pizzicato harmonic below"
+  },
+
+  "keyboardPedalPOld": {
+    "description": "Pedal P (old style)"
+  },
+  "keyboardPedalHalf4": {
+    "description": "Half pedal mark 4"
+  },
+  "keyboardPedalHeel1Old": {
+    "description": "Pedal heel 1 (alternative)"
+  },
+  "keyboardPedalHeel2Old": {
+    "description": "Pedal heel 2 (alternative)"
+  },
+
+  "wiggleWavyNarrower": {
+    "description": "Narrower wavy line segment"
+  },
+  "wiggleWavyWider": {
+    "description": "Wider wavy line segment"
+  },
+  "wiggleSquareWaveNarrower": {
+    "description": "Narrower square wave line segment"
+  },
+  "wiggleSquareWaveWider": {
+    "description": "Wider square wave line segment"
+  },
+  "wiggleSawtoothNarrower": {
+    "description": "Narrower sawtooth line segment"
+  },
+  "wiggleSawtoothWider": {
+    "description": "Wider sawtooth line segment"
+  },
+
+  "ornamentTrillSimple": {
+    "description": "Trill (simple style, Viennese style)"
+  },
+
+  "keyboardPedalPosQuarter": {
+    "description": "Pedal position quarter"
+  },
+  "keyboardPedalPosHalf": {
+    "description": "Pedal position half"
+  },
+  "keyboardPedalPosThreeQuarters": {
+    "description": "Pedal position three quarters"
+  },
+  "keyboardPedalPosFull": {
+    "description": "Pedal position full"
+  },
+
+  "semipitchedPercussionClef1Change": {
+    "description": "Semi-pitched percussion clef 1 change"
+  },
+  "semipitchedPercussionClef2Change": {
+    "description": "Semi-pitched percussion clef 2 change"
+  },
+
+  "flag8thDownShort": {
+    "description": "Combining flag 1 (8th) below (short)"
+  },
+  "flag16thDownShort": {
+    "description": "Combining flag 2 (16th) below (short)"
+  },
+  "flag32ndDownShort": {
+    "description": "Combining flag 3 (32nd) below (short)"
+  },
+  "flag64thDownShort": {
+    "description": "Combining flag 4 (64th) below (short)"
+  },
+  "flag128thDownShort": {
+    "description": "Combining flag 5 (128th) below (short)"
+  },
+  "flag256thDownShort": {
+    "description": "Combining flag 6 (256th) below (short)"
+  },
+  "flag512thDownShort": {
+    "description": "Combining flag 7 (512th) below (short)"
+  },
+  "flag1024thDownShort": {
+    "description": "Combining flag 8 (1024th) below (short)"
+  },
+
+  "segnoSerpentSmall1": {
+    "description": "Segno (serpent) (small)"
+  },
+  "segnoSerpentSmall2": {
+    "description": "Segno (serpent with vertical lines) (small)"
+  },
+  "segnoSerpentLarge1": {
+    "description": "Segno (serpent) (large)"
+  },
+  "segnoSerpentLarge2": {
+    "description": "Segno (serpent with vertical lines) (large)"
+  },
+
+  "keyboardPedalUnaCorda": {
+    "description": "Una corda pedal mark"
+  },
+  "keyboardPedalTreCorde": {
+    "description": "Tre corde pedal mark"
+  },
+  "keyboardPedalUC": {
+    "description": "Pedal u.c."
+  },
+  "keyboardPedalTC": {
+    "description": "Pedal t.c."
+  },
+  "keyboardPedalSos": {
+    "description": "Sostenuto pedal mark 2 (lower case)"
+  },
+  "keyboardPedalSos2": {
+    "description": "Sostenuto pedal mark 2 (capitalized)"
+  },
+
+  "elecMIDIController": {
+    "description": "MIDI controller (empty)"
+  },
+  "elecMIDIControllerThumb": {
+    "description": "MIDI controller thumb"
+  },
+
+  "accidentalBraceLeft": {
+    "description": "Accidental curly bracket, left"
+  },
+  "accidentalBraceRight": {
+    "description": "Accidental curly bracket, right"
+  },
+  "accidentalAngleLeft": {
+    "description": "Accidental angle bracket, left"
+  },
+  "accidentalAngleRight": {
+    "description": "Accidental angle bracket, right"
+  },
+
+  "arrowBlackUpDown": {
+    "description": "Black arrow up down (N-S)"
+  },
+  "arrowBlackLeftRight": {
+    "description": "Black arrow left right (W-E)"
+  },
+  "arrowWhiteUpDown": {
+    "description": "White arrow up down (N-S)"
+  },
+  "arrowWhiteLeftRight": {
+    "description": "White arrow left right (W-E)"
+  },
+  "arrowOpenUpDown": {
+    "description": "Open arrow up down (N-S)"
+  },
+  "arrowOpenLeftRight": {
+    "description": "Open arrow left right (W-E)"
+  },
+  "arrowTriangleToBarUpDown": {
+    "description": "Triangle to bar arrow up down (N-S)"
+  },
+  "arrowTriangleToBarLeftRight": {
+    "description": "Triangle to bar arrow left right (W-E)"
+  },
+
+  "pictDrumSet": {
+    "description": "Drum set"
+  },
+  "pictDjembe": {
+    "description": "Djembe"
+  },
+  "pictBambooScraper2": {
+    "description": "Bamboo scraper (alternative)"
+  },
+  "pictAngklung": {
+    "description": "Angklung"
+  },
+  "pictPelletDrum": {
+    "description": "Pellet drum, Bolang Gu, Den den daiko"
+  },
+
+  "elecAudioFile": {
+    "description": "Audio file"
+  },
+  "elecVideoFile": {
+    "description": "Video file"
+  },
+  "elecMIDIFile": {
+    "description": "MIDI file"
+  },
+  "elecDataFile": {
+    "description": "Data file"
+  },
+
+  "pictBedug": {
+    "description": "Bedug"
+  },
+  "pictDagu": {
+    "description": "Dagu drum"
+  },
+
+  "noteheadBracketLeft": {
+    "description": "Notehead square bracket, left"
+  },
+  "noteheadBracketRight": {
+    "description": "Notehead square bracket, right"
+  },
+  "noteheadBraceLeft": {
+    "description": "Notehead curly bracket, left"
+  },
+  "noteheadBraceRight": {
+    "description": "Notehead curly bracket, right"
+  },
+  "noteheadAngleLeft": {
+    "description": "Notehead angle bracket, left"
+  },
+  "noteheadAngleRight": {
+    "description": "Notehead angle bracket, right"
+  },
+
+  "noteheadRoundBlackVerticalLine": {
+    "description": "Round black notehead with vertical line"
+  },
+  "noteheadRoundWhiteVerticalLine": {
+    "description": "Round white notehead with vertical line"
+  },
+  "noteheadRoundBlackVerticalLineLarge": {
+    "description": "Large round black notehead with vertical line"
+  },
+  "noteheadRoundWhiteVerticalLineLarge": {
+    "description": "Large round white notehead with vertical line"
+  },
+
+  "dynamicSforzatoFFF": {
+    "description": "Sforzatississimo"
+  },
+  "dynamicSforzatoFFFF": {
+    "description": "Sforzatissississimo"
+  },
+
+  "csymAccidentalQuadrupleSharp": {
+    "description": "Quadruple sharp"
+  },
+  "csymAccidentalQuadrupleFlat": {
+    "description": "Quadruple flat"
+  },
+
+  "ventinovesima": {
+    "description": "Ventinovesima"
+  },
+  "ventinovesimaAlta": {
+    "description": "Ventinovesima alta"
+  },
+  "ventinovesimaBassa": {
+    "description": "Ventinovesima bassa"
+  },
+  "ventinovesimaBassaMb": {
+    "description": "Ventinovesima bassa (mb)"
+  },
+
+  "articLaissezVibrerAboveLong": {
+    "description": "Long laissez vibrer (l.v.) above"
+  },
+  "articLaissezVibrerBelowLong": {
+    "description": "Long laissez vibrer (l.v.) below"
+  },
+  "articLaissezVibrerAboveExtraLong": {
+    "description": "Extra long laissez vibrer (l.v.) above"
+  },
+  "articLaissezVibrerBelowExtraLong": {
+    "description": "Extra long laissez vibrer (l.v.) below"
+  },
+
+  "reversedBracket": {
+    "description": "Reversed bracket"
+  },
+
+  "squareBracket": {
+    "description": "Square bracket"
+  },
+  "squareBracketTop": {
+    "description": "Square bracket top"
+  },
+  "squareBracketBottom": {
+    "description": "Square bracket bottom"
+  },
+  "reversedSquareBracket": {
+    "description": "Reversed square bracket"
+  },
+  "reversedSquareBracketTop": {
+    "description": "Reversed square bracket top"
+  },
+  "reversedSquareBracketBottom": {
+    "description": "Reversed square bracket bottom"
+  },
+
+  "brace": {
+    "variantScale": "1000"
+  },
+  "reversedBrace": {
+    "variantScale": "1000"
+  },
+  "brace005": {
+    "description": "Brace half the height"
+  },
+  "reversedBrace005": {
+    "description": "Reversed brace half the height"
+  },
+  "brace020": {
+    "description": "Brace twice the height"
+  },
+  "reversedBrace020": {
+    "description": "Reversed brace twice the height"
+  },
+  "brace040": {
+    "description": "Brace four times the height"
+  },
+  "reversedBrace040": {
+    "description": "Reversed brace four times the height"
+  },
+  "brace060": {
+    "description": "Brace six times the height"
+  },
+  "reversedBrace060": {
+    "description": "Reversed brace six times the height"
+  },
+  "brace080": {
+    "description": "Brace eight times the height"
+  },
+  "reversedBrace080": {
+    "description": "Reversed brace eight times the height"
+  },
+  "brace100": {
+    "description": "Brace ten times the height"
+  },
+  "reversedBrace100": {
+    "description": "Reversed brace ten times the height"
+  },
+  "brace120": {
+    "description": "Brace twelve times the height"
+  },
+  "reversedBrace120": {
+    "description": "Reversed brace twelve times the height"
+  },
+  "brace140": {
+    "description": "Brace fourteen times the height"
+  },
+  "reversedBrace140": {
+    "description": "Reversed brace fourteen times the height"
+  },
+  "brace160": {
+    "description": "Brace sixteen times the height"
+  },
+  "reversedBrace160": {
+    "description": "Reversed brace sixteen times the height"
+  },
+  "brace180": {
+    "description": "Brace eighteen times the height"
+  },
+  "reversedBrace180": {
+    "description": "Reversed brace eighteen times the height"
+  },
+
+  "noteHFlatWhole": {
+    "description": "H flat (whole note)"
+  },
+  "noteHFlatHalf": {
+    "description": "H flat (half note)"
+  },
+  "noteHFlatBlack": {
+    "description": "H flat (black note)"
+  }
+}

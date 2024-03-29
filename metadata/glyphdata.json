@@ -15739,6 +15739,402 @@
     "codepoint": "U+F683",
     "description": "Eighth note (quaver) stem up (straight)"
   },
+  "noteABlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57751,
+    "codepoint": "U+E197",
+    "description": "A (black note)"
+  },
+  "noteAFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57750,
+    "codepoint": "U+E196",
+    "description": "A flat (black note)"
+  },
+  "noteAFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57727,
+    "codepoint": "U+E17F",
+    "description": "A flat (half note)"
+  },
+  "noteAFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57704,
+    "codepoint": "U+E168",
+    "description": "A flat (whole note)"
+  },
+  "noteAHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57728,
+    "codepoint": "U+E180",
+    "description": "A (half note)"
+  },
+  "noteASharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57752,
+    "codepoint": "U+E198",
+    "description": "A sharp (black note)"
+  },
+  "noteASharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57729,
+    "codepoint": "U+E181",
+    "description": "A sharp (half note)"
+  },
+  "noteASharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57706,
+    "codepoint": "U+E16A",
+    "description": "A sharp (whole note)"
+  },
+  "noteAWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57705,
+    "codepoint": "U+E169",
+    "description": "A (whole note)"
+  },
+  "noteBBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57754,
+    "codepoint": "U+E19A",
+    "description": "B (black note)"
+  },
+  "noteBFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57753,
+    "codepoint": "U+E199",
+    "description": "B flat (black note)"
+  },
+  "noteBFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57730,
+    "codepoint": "U+E182",
+    "description": "B flat (half note)"
+  },
+  "noteBFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57707,
+    "codepoint": "U+E16B",
+    "description": "B flat (whole note)"
+  },
+  "noteBHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57731,
+    "codepoint": "U+E183",
+    "description": "B (half note)"
+  },
+  "noteBSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57755,
+    "codepoint": "U+E19B",
+    "description": "B sharp (black note)"
+  },
+  "noteBSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57732,
+    "codepoint": "U+E184",
+    "description": "B sharp (half note)"
+  },
+  "noteBSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57709,
+    "codepoint": "U+E16D",
+    "description": "B sharp (whole note)"
+  },
+  "noteBWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57708,
+    "codepoint": "U+E16C",
+    "description": "B (whole note)"
+  },
+  "noteCBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57757,
+    "codepoint": "U+E19D",
+    "description": "C (black note)"
+  },
+  "noteCFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57756,
+    "codepoint": "U+E19C",
+    "description": "C flat (black note)"
+  },
+  "noteCFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57733,
+    "codepoint": "U+E185",
+    "description": "C flat (half note)"
+  },
+  "noteCFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57710,
+    "codepoint": "U+E16E",
+    "description": "C flat (whole note)"
+  },
+  "noteCHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57734,
+    "codepoint": "U+E186",
+    "description": "C (half note)"
+  },
+  "noteCSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57758,
+    "codepoint": "U+E19E",
+    "description": "C sharp (black note)"
+  },
+  "noteCSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57735,
+    "codepoint": "U+E187",
+    "description": "C sharp (half note)"
+  },
+  "noteCSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57712,
+    "codepoint": "U+E170",
+    "description": "C sharp (whole note)"
+  },
+  "noteCWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57711,
+    "codepoint": "U+E16F",
+    "description": "C (whole note)"
+  },
+  "noteDBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57760,
+    "codepoint": "U+E1A0",
+    "description": "D (black note)"
+  },
+  "noteDFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57759,
+    "codepoint": "U+E19F",
+    "description": "D flat (black note)"
+  },
+  "noteDFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57736,
+    "codepoint": "U+E188",
+    "description": "D flat (half note)"
+  },
+  "noteDFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57713,
+    "codepoint": "U+E171",
+    "description": "D flat (whole note)"
+  },
+  "noteDHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57737,
+    "codepoint": "U+E189",
+    "description": "D (half note)"
+  },
+  "noteDSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57761,
+    "codepoint": "U+E1A1",
+    "description": "D sharp (black note)"
+  },
+  "noteDSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57738,
+    "codepoint": "U+E18A",
+    "description": "D sharp (half note)"
+  },
+  "noteDSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57715,
+    "codepoint": "U+E173",
+    "description": "D sharp (whole note)"
+  },
+  "noteDWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57714,
+    "codepoint": "U+E172",
+    "description": "D (whole note)"
+  },
   "noteDoBlack": {
     "block": "E000",
     "classes": [
@@ -15793,6 +16189,105 @@
     "codepoint": "U+E1D1",
     "description": "Double whole note (square)"
   },
+  "noteEBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57763,
+    "codepoint": "U+E1A3",
+    "description": "E (black note)"
+  },
+  "noteEFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57762,
+    "codepoint": "U+E1A2",
+    "description": "E flat (black note)"
+  },
+  "noteEFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57739,
+    "codepoint": "U+E18B",
+    "description": "E flat (half note)"
+  },
+  "noteEFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57716,
+    "codepoint": "U+E174",
+    "description": "E flat (whole note)"
+  },
+  "noteEHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57740,
+    "codepoint": "U+E18C",
+    "description": "E (half note)"
+  },
+  "noteESharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57764,
+    "codepoint": "U+E1A4",
+    "description": "E sharp (black note)"
+  },
+  "noteESharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57741,
+    "codepoint": "U+E18D",
+    "description": "E sharp (half note)"
+  },
+  "noteESharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57718,
+    "codepoint": "U+E176",
+    "description": "E sharp (whole note)"
+  },
+  "noteEWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57717,
+    "codepoint": "U+E175",
+    "description": "E (whole note)"
+  },
   "noteEmptyBlack": {
     "block": "E000",
     "classes": [
@@ -15822,6 +16317,105 @@
     "code": 57773,
     "codepoint": "U+E1AD",
     "description": "Empty whole note"
+  },
+  "noteFBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57766,
+    "codepoint": "U+E1A6",
+    "description": "F (black note)"
+  },
+  "noteFFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57765,
+    "codepoint": "U+E1A5",
+    "description": "F flat (black note)"
+  },
+  "noteFFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57742,
+    "codepoint": "U+E18E",
+    "description": "F flat (half note)"
+  },
+  "noteFFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57719,
+    "codepoint": "U+E177",
+    "description": "F flat (whole note)"
+  },
+  "noteFHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57743,
+    "codepoint": "U+E18F",
+    "description": "F (half note)"
+  },
+  "noteFSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57767,
+    "codepoint": "U+E1A7",
+    "description": "F sharp (black note)"
+  },
+  "noteFSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57744,
+    "codepoint": "U+E190",
+    "description": "F sharp (half note)"
+  },
+  "noteFSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57721,
+    "codepoint": "U+E179",
+    "description": "F sharp (whole note)"
+  },
+  "noteFWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57720,
+    "codepoint": "U+E178",
+    "description": "F (whole note)"
   },
   "noteFaBlack": {
     "block": "E000",
@@ -15855,6 +16449,192 @@
     "code": 57683,
     "codepoint": "U+E153",
     "description": "Fa (whole note)"
+  },
+  "noteGBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57769,
+    "codepoint": "U+E1A9",
+    "description": "G (black note)"
+  },
+  "noteGFlatBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57768,
+    "codepoint": "U+E1A8",
+    "description": "G flat (black note)"
+  },
+  "noteGFlatHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57745,
+    "codepoint": "U+E191",
+    "description": "G flat (half note)"
+  },
+  "noteGFlatWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57722,
+    "codepoint": "U+E17A",
+    "description": "G flat (whole note)"
+  },
+  "noteGHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57746,
+    "codepoint": "U+E192",
+    "description": "G (half note)"
+  },
+  "noteGSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57770,
+    "codepoint": "U+E1AA",
+    "description": "G sharp (black note)"
+  },
+  "noteGSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57747,
+    "codepoint": "U+E193",
+    "description": "G sharp (half note)"
+  },
+  "noteGSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57724,
+    "codepoint": "U+E17C",
+    "description": "G sharp (whole note)"
+  },
+  "noteGWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57723,
+    "codepoint": "U+E17B",
+    "description": "G (whole note)"
+  },
+  "noteHBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57771,
+    "codepoint": "U+E1AB",
+    "description": "H (black note)"
+  },
+  "noteHFlatBlack": {
+    "block": "F400",
+    "classes": [],
+    "code": 63266,
+    "codepoint": "U+F722",
+    "description": "H flat (black note)"
+  },
+  "noteHFlatHalf": {
+    "block": "F400",
+    "classes": [],
+    "code": 63265,
+    "codepoint": "U+F721",
+    "description": "H flat (half note)"
+  },
+  "noteHFlatWhole": {
+    "block": "F400",
+    "classes": [],
+    "code": 63264,
+    "codepoint": "U+F720",
+    "description": "H flat (whole note)"
+  },
+  "noteHHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57748,
+    "codepoint": "U+E194",
+    "description": "H (half note)"
+  },
+  "noteHSharpBlack": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57772,
+    "codepoint": "U+E1AC",
+    "description": "H sharp (black note)"
+  },
+  "noteHSharpHalf": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57749,
+    "codepoint": "U+E195",
+    "description": "H sharp (half note)"
+  },
+  "noteHSharpWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57726,
+    "codepoint": "U+E17E",
+    "description": "H sharp (whole note)"
+  },
+  "noteHWhole": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "noteheadSetNamesPitch",
+      "noteheads"
+    ],
+    "code": 57725,
+    "codepoint": "U+E17D",
+    "description": "H (whole note)"
   },
   "noteHalfDown": {
     "block": "E000",

@@ -6284,6 +6284,150 @@
     "codepoint": "U+F683",
     "description": "Eighth note (quaver) stem up (straight)"
   },
+  "noteABlack": {
+    "codepoint": "U+E197",
+    "description": "A (black note)"
+  },
+  "noteAFlatBlack": {
+    "codepoint": "U+E196",
+    "description": "A flat (black note)"
+  },
+  "noteAFlatHalf": {
+    "codepoint": "U+E17F",
+    "description": "A flat (half note)"
+  },
+  "noteAFlatWhole": {
+    "codepoint": "U+E168",
+    "description": "A flat (whole note)"
+  },
+  "noteAHalf": {
+    "codepoint": "U+E180",
+    "description": "A (half note)"
+  },
+  "noteASharpBlack": {
+    "codepoint": "U+E198",
+    "description": "A sharp (black note)"
+  },
+  "noteASharpHalf": {
+    "codepoint": "U+E181",
+    "description": "A sharp (half note)"
+  },
+  "noteASharpWhole": {
+    "codepoint": "U+E16A",
+    "description": "A sharp (whole note)"
+  },
+  "noteAWhole": {
+    "codepoint": "U+E169",
+    "description": "A (whole note)"
+  },
+  "noteBBlack": {
+    "codepoint": "U+E19A",
+    "description": "B (black note)"
+  },
+  "noteBFlatBlack": {
+    "codepoint": "U+E199",
+    "description": "B flat (black note)"
+  },
+  "noteBFlatHalf": {
+    "codepoint": "U+E182",
+    "description": "B flat (half note)"
+  },
+  "noteBFlatWhole": {
+    "codepoint": "U+E16B",
+    "description": "B flat (whole note)"
+  },
+  "noteBHalf": {
+    "codepoint": "U+E183",
+    "description": "B (half note)"
+  },
+  "noteBSharpBlack": {
+    "codepoint": "U+E19B",
+    "description": "B sharp (black note)"
+  },
+  "noteBSharpHalf": {
+    "codepoint": "U+E184",
+    "description": "B sharp (half note)"
+  },
+  "noteBSharpWhole": {
+    "codepoint": "U+E16D",
+    "description": "B sharp (whole note)"
+  },
+  "noteBWhole": {
+    "codepoint": "U+E16C",
+    "description": "B (whole note)"
+  },
+  "noteCBlack": {
+    "codepoint": "U+E19D",
+    "description": "C (black note)"
+  },
+  "noteCFlatBlack": {
+    "codepoint": "U+E19C",
+    "description": "C flat (black note)"
+  },
+  "noteCFlatHalf": {
+    "codepoint": "U+E185",
+    "description": "C flat (half note)"
+  },
+  "noteCFlatWhole": {
+    "codepoint": "U+E16E",
+    "description": "C flat (whole note)"
+  },
+  "noteCHalf": {
+    "codepoint": "U+E186",
+    "description": "C (half note)"
+  },
+  "noteCSharpBlack": {
+    "codepoint": "U+E19E",
+    "description": "C sharp (black note)"
+  },
+  "noteCSharpHalf": {
+    "codepoint": "U+E187",
+    "description": "C sharp (half note)"
+  },
+  "noteCSharpWhole": {
+    "codepoint": "U+E170",
+    "description": "C sharp (whole note)"
+  },
+  "noteCWhole": {
+    "codepoint": "U+E16F",
+    "description": "C (whole note)"
+  },
+  "noteDBlack": {
+    "codepoint": "U+E1A0",
+    "description": "D (black note)"
+  },
+  "noteDFlatBlack": {
+    "codepoint": "U+E19F",
+    "description": "D flat (black note)"
+  },
+  "noteDFlatHalf": {
+    "codepoint": "U+E188",
+    "description": "D flat (half note)"
+  },
+  "noteDFlatWhole": {
+    "codepoint": "U+E171",
+    "description": "D flat (whole note)"
+  },
+  "noteDHalf": {
+    "codepoint": "U+E189",
+    "description": "D (half note)"
+  },
+  "noteDSharpBlack": {
+    "codepoint": "U+E1A1",
+    "description": "D sharp (black note)"
+  },
+  "noteDSharpHalf": {
+    "codepoint": "U+E18A",
+    "description": "D sharp (half note)"
+  },
+  "noteDSharpWhole": {
+    "codepoint": "U+E173",
+    "description": "D sharp (whole note)"
+  },
+  "noteDWhole": {
+    "codepoint": "U+E172",
+    "description": "D (whole note)"
+  },
   "noteDoBlack": {
     "codepoint": "U+E160",
     "description": "Do (black note)"
@@ -6304,6 +6448,42 @@
     "codepoint": "U+E1D1",
     "description": "Double whole note (square)"
   },
+  "noteEBlack": {
+    "codepoint": "U+E1A3",
+    "description": "E (black note)"
+  },
+  "noteEFlatBlack": {
+    "codepoint": "U+E1A2",
+    "description": "E flat (black note)"
+  },
+  "noteEFlatHalf": {
+    "codepoint": "U+E18B",
+    "description": "E flat (half note)"
+  },
+  "noteEFlatWhole": {
+    "codepoint": "U+E174",
+    "description": "E flat (whole note)"
+  },
+  "noteEHalf": {
+    "codepoint": "U+E18C",
+    "description": "E (half note)"
+  },
+  "noteESharpBlack": {
+    "codepoint": "U+E1A4",
+    "description": "E sharp (black note)"
+  },
+  "noteESharpHalf": {
+    "codepoint": "U+E18D",
+    "description": "E sharp (half note)"
+  },
+  "noteESharpWhole": {
+    "codepoint": "U+E176",
+    "description": "E sharp (whole note)"
+  },
+  "noteEWhole": {
+    "codepoint": "U+E175",
+    "description": "E (whole note)"
+  },
   "noteEmptyBlack": {
     "codepoint": "U+E1AF",
     "description": "Empty black note"
@@ -6316,6 +6496,42 @@
     "codepoint": "U+E1AD",
     "description": "Empty whole note"
   },
+  "noteFBlack": {
+    "codepoint": "U+E1A6",
+    "description": "F (black note)"
+  },
+  "noteFFlatBlack": {
+    "codepoint": "U+E1A5",
+    "description": "F flat (black note)"
+  },
+  "noteFFlatHalf": {
+    "codepoint": "U+E18E",
+    "description": "F flat (half note)"
+  },
+  "noteFFlatWhole": {
+    "codepoint": "U+E177",
+    "description": "F flat (whole note)"
+  },
+  "noteFHalf": {
+    "codepoint": "U+E18F",
+    "description": "F (half note)"
+  },
+  "noteFSharpBlack": {
+    "codepoint": "U+E1A7",
+    "description": "F sharp (black note)"
+  },
+  "noteFSharpHalf": {
+    "codepoint": "U+E190",
+    "description": "F sharp (half note)"
+  },
+  "noteFSharpWhole": {
+    "codepoint": "U+E179",
+    "description": "F sharp (whole note)"
+  },
+  "noteFWhole": {
+    "codepoint": "U+E178",
+    "description": "F (whole note)"
+  },
   "noteFaBlack": {
     "codepoint": "U+E163",
     "description": "Fa (black note)"
@@ -6327,6 +6543,78 @@
   "noteFaWhole": {
     "codepoint": "U+E153",
     "description": "Fa (whole note)"
+  },
+  "noteGBlack": {
+    "codepoint": "U+E1A9",
+    "description": "G (black note)"
+  },
+  "noteGFlatBlack": {
+    "codepoint": "U+E1A8",
+    "description": "G flat (black note)"
+  },
+  "noteGFlatHalf": {
+    "codepoint": "U+E191",
+    "description": "G flat (half note)"
+  },
+  "noteGFlatWhole": {
+    "codepoint": "U+E17A",
+    "description": "G flat (whole note)"
+  },
+  "noteGHalf": {
+    "codepoint": "U+E192",
+    "description": "G (half note)"
+  },
+  "noteGSharpBlack": {
+    "codepoint": "U+E1AA",
+    "description": "G sharp (black note)"
+  },
+  "noteGSharpHalf": {
+    "codepoint": "U+E193",
+    "description": "G sharp (half note)"
+  },
+  "noteGSharpWhole": {
+    "codepoint": "U+E17C",
+    "description": "G sharp (whole note)"
+  },
+  "noteGWhole": {
+    "codepoint": "U+E17B",
+    "description": "G (whole note)"
+  },
+  "noteHBlack": {
+    "codepoint": "U+E1AB",
+    "description": "H (black note)"
+  },
+  "noteHFlatBlack": {
+    "codepoint": "U+F722",
+    "description": "H flat (black note)"
+  },
+  "noteHFlatHalf": {
+    "codepoint": "U+F721",
+    "description": "H flat (half note)"
+  },
+  "noteHFlatWhole": {
+    "codepoint": "U+F720",
+    "description": "H flat (whole note)"
+  },
+  "noteHHalf": {
+    "codepoint": "U+E194",
+    "description": "H (half note)"
+  },
+  "noteHSharpBlack": {
+    "codepoint": "U+E1AC",
+    "description": "H sharp (black note)"
+  },
+  "noteHSharpHalf": {
+    "codepoint": "U+E195",
+    "description": "H sharp (half note)"
+  },
+  "noteHSharpWhole": {
+    "codepoint": "U+E17E",
+    "description": "H sharp (whole note)"
+  },
+  "noteHWhole": {
+    "codepoint": "U+E17D",
+    "description": "H (whole note)"
   },
   "noteHalfDown": {
     "codepoint": "U+E1D4",

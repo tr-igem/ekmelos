@@ -34,7 +34,7 @@
     "tupletBracketThickness": 0.16
   },
   "fontName": "Ekmelos",
-  "fontVersion": "2.53",
+  "fontVersion": "2.54",
   "glyphBBoxes": {
     "4stringTabClef": {
       "bBoxNE": [
@@ -14858,8 +14858,8 @@
     },
     "keyboardPlayWithLH": {
       "bBoxNE": [
-        1.6,
-        4.62
+        0.88,
+        2.736
       ],
       "bBoxSW": [
         0.0,
@@ -14868,8 +14868,8 @@
     },
     "keyboardPlayWithLHEnd": {
       "bBoxNE": [
-        1.6,
-        4.62
+        0.88,
+        2.736
       ],
       "bBoxSW": [
         0.0,
@@ -14878,22 +14878,22 @@
     },
     "keyboardPlayWithRH": {
       "bBoxNE": [
-        1.6,
-        4.42
+        0.88,
+        2.616
       ],
       "bBoxSW": [
         0.0,
-        -0.2
+        -0.12
       ]
     },
     "keyboardPlayWithRHEnd": {
       "bBoxNE": [
-        1.6,
-        4.42
+        0.88,
+        2.616
       ],
       "bBoxSW": [
         0.0,
-        -0.2
+        -0.12
       ]
     },
     "keyboardPluckInside": {
@@ -15746,6 +15746,366 @@
         -0.5
       ]
     },
+    "noteABlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteAFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteAFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteAFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteAHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteASharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteASharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteASharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteAWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteBBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteBHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteBSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteBWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteCBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteCHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteCSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteCWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteDBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteDHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteDWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteDoBlack": {
       "bBoxNE": [
         1.46,
@@ -15796,6 +16156,96 @@
         -0.692
       ]
     },
+    "noteEBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteEFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteEFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteEFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteEHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteESharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteESharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteESharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteEWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteEmptyBlack": {
       "bBoxNE": [
         1.46,
@@ -15826,6 +16276,96 @@
         -0.592
       ]
     },
+    "noteFBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteFHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteFWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteFaBlack": {
       "bBoxNE": [
         1.46,
@@ -15847,6 +16387,186 @@
       ]
     },
     "noteFaWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteGBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteGHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteGSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteGWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteHBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHFlatBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHFlatHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHFlatWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteHHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHSharpBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHSharpHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteHSharpWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteHWhole": {
       "bBoxNE": [
         1.98,
         0.592
@@ -28228,8 +28948,8 @@
     },
     "u1F39C": {
       "bBoxNE": [
-        2.68,
-        3.2
+        2.92,
+        3.36
       ],
       "bBoxSW": [
         0.0,
@@ -31258,7 +31978,7 @@
     },
     "u266B": {
       "bBoxNE": [
-        2.68,
+        2.92,
         4.0
       ],
       "bBoxSW": [
@@ -31268,7 +31988,7 @@
     },
     "u266C": {
       "bBoxNE": [
-        2.68,
+        2.92,
         4.0
       ],
       "bBoxSW": [
@@ -46934,6 +47654,18 @@
         "forTextBasedApplications"
       ],
       "codepoint": "U+F683"
+    },
+    "noteHFlatBlack": {
+      "classes": [],
+      "codepoint": "U+F722"
+    },
+    "noteHFlatHalf": {
+      "classes": [],
+      "codepoint": "U+F721"
+    },
+    "noteHFlatWhole": {
+      "classes": [],
+      "codepoint": "U+F720"
     },
     "noteTick": {
       "classes": [

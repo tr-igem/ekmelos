@@ -1,0 +1,567 @@
+{
+  "accidentals": [
+    "accidentalsStandard",
+    "accidentalsParenthesised",
+    "accidentalsJohnston",
+    "accidentalsHelmholtzEllis",
+    "accidentalsMedRen",
+    "accidentalsPersian",
+    "accidentalsRHM",
+    "accidentalsHesse",
+    "accidentalHabaFlatThreeQuarterTonesLower",
+    "accidentals72EDOHaba",
+    "accidentals31EDOFerneyhough",
+
+    "accidentalRingArrowDown",
+    "accidentalRingArrowUp",
+    "accidentalHalfFlat",
+    "accidentalHalfDoubleFlat",
+    "accidentalFlatArrowBoth",
+    "accidentalNaturalArrowBoth",
+    "accidentalSharpArrowBoth",
+    "accidentalReversedFlatSlash",
+    "accidentalNarrowReversedFlatSlash",
+    "accidentalDoubleFlatSlash",
+    "accidentalHabaSharpLowered",
+    "accidentalHabaSharpRaised",
+    "accidentalHabaFlatLowered",
+    "accidentalHabaFlatRaised",
+    "accidental4CommaSharp"
+  ],
+
+  "accidentalsStandard": [
+    "accidentalDoubleFlatJoinedStems",
+    "accidentalTripleFlatJoinedStems",
+    "accidentalQuadrupleSharp",
+    "accidentalQuadrupleFlat",
+    "accidentalBraceLeft",
+    "accidentalBraceRight",
+    "accidentalAngleLeft",
+    "accidentalAngleRight"
+  ],
+
+  "accidentalsParenthesised": [
+    "accidentalFlatParens",
+    "accidentalNaturalParens",
+    "accidentalSharpParens",
+    "accidentalDoubleSharpParens",
+    "accidentalDoubleFlatParens"
+  ],
+
+  "accidentalsJohnston": [
+    "accidentalSharpJohnstonEl",
+    "accidentalSharpJohnstonUp",
+    "accidentalSharpJohnstonDown",
+    "accidentalFlatJohnstonEl",
+    "accidentalFlatJohnstonUp",
+    "accidentalFlatJohnstonDown",
+    "accidentalJohnstonSevenSharp",
+    "accidentalJohnstonSevenFlat",
+    "accidentalJohnstonSevenUp",
+    "accidentalJohnstonSevenDown",
+    "accidentalJohnstonUpEl",
+    "accidentalJohnstonDownEl",
+    "accidentalSharpJohnstonUpEl",
+    "accidentalSharpJohnstonDownEl",
+    "accidentalJohnstonSevenSharpUp",
+    "accidentalJohnstonSevenSharpDown",
+    "accidentalFlatJohnstonUpEl",
+    "accidentalFlatJohnstonElDown",
+    "accidentalJohnstonSevenFlatUp",
+    "accidentalJohnstonSevenFlatDown"
+  ],
+
+  "accidentalsHelmholtzEllis": [
+    "accidentalQuarterFlatFilledEqualTempered",
+    "accidentalThreeQuarterFlatEqualTempered",
+    "accidentalThreeQuarterFlatFilledEqualTempered",
+    "accidentalThreeQuarterSharpEqualTempered"
+  ],
+
+  "accidentalsMedRen": [
+    "medRenFlatSoftB",
+    "medRenFlatHardB",
+    "medRenNatural",
+    "medRenSharpCroix",
+    "medRenFlatWithDot",
+    "medRenNaturalWithCross"
+  ],
+
+  "accidentalsPersian": [
+    "accidentalFlatKoron",
+    "accidentalSoriSharp",
+    "accidentalSoriLarge",
+    "accidentalSoriSharpLarge"
+  ],
+
+  "accidentalsRHM": [
+    "accidentalRHM12Down",
+    "accidentalRHM12Up",
+    "accidentalRHM4Down",
+    "accidentalRHM4Up",
+    "accidentalRHM6Down",
+    "accidentalRHM6Up",
+    "accidentalRHMNatural"
+  ],
+
+  "accidentalsHesse": [
+    "accidentalHesse12Down",
+    "accidentalHesse6Down",
+    "accidentalHesse4Down",
+    "accidentalHesse12Up",
+    "accidentalHesse6Up",
+    "accidentalHesse4Up"
+  ],
+
+  "accidentals24EDOHaba": [
+    "accidentalHabaQuarterToneHigher",
+    "accidentalHabaFlatQuarterToneHigher",
+    "accidentalHabaSharpThreeQuarterTonesHigher",
+    "accidentalHabaQuarterToneLower",
+    "accidentalHabaSharpQuarterToneLower",
+    "accidentalHabaFlatThreeQuarterTonesLower"
+  ],
+
+  "accidentals72EDOHaba": [
+    "accidentalHaba1TwelfthsSharp",
+    "accidentalHaba2TwelfthsSharp",
+    "accidentalHaba3TwelfthsSharp",
+    "accidentalHaba4TwelfthsSharp",
+    "accidentalHaba5TwelfthsSharp",
+    "accidentalHaba6TwelfthsSharp",
+    "accidentalHaba7TwelfthsSharp",
+    "accidentalHaba8TwelfthsSharp",
+    "accidentalHaba9TwelfthsSharp",
+    "accidentalHaba10TwelfthsSharp",
+    "accidentalHaba11TwelfthsSharp",
+    "accidentalHaba1TwelfthsFlat",
+    "accidentalHaba2TwelfthsFlat",
+    "accidentalHaba3TwelfthsFlat",
+    "accidentalHaba4TwelfthsFlat",
+    "accidentalHaba5TwelfthsFlat",
+    "accidentalHaba6TwelfthsFlat",
+    "accidentalHaba1TwelfthsSharpAlt",
+    "accidentalHabaSixthSharp"
+  ],
+
+  "accidentals31EDOFerneyhough": [
+    "accidentalOneFifthToneSharpFerneyhough",
+    "accidentalTwoFifthTonesSharpFerneyhough",
+    "accidentalThreeFifthTonesSharpFerneyhough",
+    "accidentalFourFifthTonesSharpFerneyhough"
+  ],
+
+
+  "clefs": [
+    "clefsC",
+    "clefsG",
+
+    "unpitchedPercussionClef1Change",
+    "unpitchedPercussionClef2Change",
+    "semipitchedPercussionClef1Change",
+    "semipitchedPercussionClef2Change",
+    "unpitchedPercussionClef3",
+    "unpitchedPercussionClef3Change",
+
+    "6stringTabClefClassic",
+    "6stringTabClefTall",
+    "6stringTabClefSerif",
+    "4stringTabClefClassic",
+    "4stringTabClefTall",
+    "4stringTabClefSerif"
+  ],
+
+  "clefsC": [
+    "cClefSquareChange",
+    "cClefFrench20C",
+    "cClefFrench20CChange"
+  ],
+
+  "clefsG": [
+    "gClef8vbOldChange",
+    "gClef8vbCClefChange"
+  ],
+
+
+  "noteheads": [
+    "noteheadSetDefault",
+    "parenthesesNotehead",
+    "noteheadSetParenthesised",
+    "noteheadSetDiamond",
+    "noteheadSetRoundLarge",
+    "noteheadSetRoundSmall",
+    "noteheadSetSquare",
+    "noteheadSetTriangleUp",
+    "noteheadSetWithX"
+  ],
+
+  "noteheadSetDefault": [
+    "noteheadLongaUp",
+    "noteheadLongaDown",
+    "noteheadDoubleWholeAlt"
+  ],
+
+  "parenthesesNotehead": [
+    "noteheadBracketLeft",
+    "noteheadBracketRight",
+    "noteheadBraceLeft",
+    "noteheadBraceRight",
+    "noteheadAngleLeft",
+    "noteheadAngleRight"
+  ],
+
+  "noteheadSetParenthesised": [
+    "noteheadBlackParens",
+    "noteheadHalfParens",
+    "noteheadWholeParens",
+    "noteheadDoubleWholeParens"
+  ],
+
+  "noteheadSetDiamond": [
+    "noteheadDiamondClusterHalf2nd",
+    "noteheadDiamondClusterHalf3rd",
+    "noteheadDiamondClusterHalfTop",
+    "noteheadDiamondClusterHalfMiddle",
+    "noteheadDiamondClusterHalfBottom"
+  ],
+
+  "noteheadSetRoundLarge": [
+    "noteheadRoundHalfBlackLarge",
+    "noteheadRoundBlackVerticalLineLarge",
+    "noteheadRoundWhiteVerticalLineLarge"
+  ],
+
+  "noteheadSetRoundSmall": [
+    "noteheadRoundHalfBlack",
+    "noteheadRoundBlackVerticalLine",
+    "noteheadRoundWhiteVerticalLine"
+  ],
+
+  "noteheadSetSquare": [
+    "noteheadSquareHalfBlack",
+    "noteheadSquareHalfBlackLarge"
+  ],
+
+  "noteheadSetTriangleUp": [
+    "noteheadDoubleTriangleUpWhite",
+    "noteheadDoubleTriangleUpBlack"
+  ],
+
+  "noteheadSetWithX": [
+    "noteheadBlackWithX"
+  ],
+
+
+  "octaves": [
+    "ventinovesima",
+    "ventinovesimaAlta",
+    "ventinovesimaBassa",
+    "ventinovesimaBassaMb",
+
+    "ottavaBassaSupVb",
+    "quindicesimaBassaSupMb",
+    "ventiduesimaBassaSupMb",
+    "ventinovesimaBassaSupMb"
+  ],
+
+
+  "dynamics": [
+    "dynamicSforzandoFF",
+    "dynamicSP",
+    "dynamicSPP",
+    "dynamicNienteSlashedForHairpin",
+    "dynamicCrescendoJazz",
+    "dynamicSforzatoFFF",
+    "dynamicSforzatoFFFF"
+  ],
+
+
+  "articulations": [
+    "articulationsAbove",
+    "articulationsBelow"
+  ],
+
+  "articulationsAbove": [
+    "articAccentAboveLarge",
+    "articAccentAboveRossini",
+    "articTenutoMarcatoAbove",
+    "articStaccatissimoColonAbove",
+    "articMarcatoStaccatissimoAbove",
+    "articMarcatoTenutoStaccatoAbove",
+    "articDoubleAccentAbove",
+    "articTripleAccentAbove",
+    "articTenutoDoubleAccentAbove",
+    "articDoubleMarcatoAbove",
+    "articTripleMarcatoAbove",
+    "articLaissezVibrerAboveLong",
+    "articLaissezVibrerAboveExtraLong"
+  ],
+
+  "articulationsBelow": [
+    "articAccentBelowLarge",
+    "articAccentBelowRossini",
+    "articTenutoMarcatoBelow",
+    "articStaccatissimoColonBelow",
+    "articMarcatoStaccatissimoBelow",
+    "articMarcatoTenutoStaccatoBelow",
+    "articDoubleAccentBelow",
+    "articTripleAccentBelow",
+    "articTenutoDoubleAccentBelow",
+    "articDoubleMarcatoBelow",
+    "articTripleMarcatoBelow",
+    "articLaissezVibrerBelowLong",
+    "articLaissezVibrerBelowExtraLong"
+  ],
+
+
+  "ornaments": [
+    "graceNoteStemUp",
+    "graceNoteStemDown",
+
+    "ornamentTrillSimple",
+    "ornamentTrillFlatAbove",
+    "ornamentTrillNaturalAbove",
+    "ornamentTrillSharpAbove",
+    "ornamentTurnFlatAbove",
+    "ornamentTurnFlatAboveSharpBelow",
+    "ornamentTurnFlatBelow",
+    "ornamentTurnNaturalAbove",
+    "ornamentTurnNaturalBelow",
+    "ornamentTurnSharpAbove",
+    "ornamentTurnSharpAboveFlatBelow",
+    "ornamentTurnSharpBelow"
+  ],
+
+
+  "pauses": [
+    "pausesAbove",
+    "pausesBelow",
+
+    "breathMarkCommaTurned",
+    "breathMarkCommaWedge",
+    "breathMarkCommaWedgeTurned",
+    "breathMarkCommaShort",
+    "breathMarkCommaVeryShort"
+  ],
+
+  "pausesAbove": [
+    "fermataExtraShortAbove",
+    "fermataExtraLongAbove"
+  ],
+
+  "pausesBelow": [
+    "fermataExtraShortBelow",
+    "fermataExtraLongBelow"
+  ],
+
+
+  "multiGlyphForms": [
+    "arpeggioSegment",
+    "arpeggioArrowUp",
+    "arpeggioArrowDown",
+
+    "wiggleWavyNarrower",
+    "wiggleWavyWider",
+    "wiggleSquareWaveNarrower",
+    "wiggleSquareWaveWider",
+    "wiggleSawtoothNarrower",
+    "wiggleSawtoothWider"
+  ],
+
+
+  "stemDecorations": [
+    "stringsArco",
+    "stringsColLegno"
+  ],
+
+
+  "combiningStaffPositions": [
+    "accidentals",
+    "noteheads",
+
+    "note8thUpStraight",
+    "note8thUpShort",
+    "note8thUpBeamed",
+    "note16thUpStraight",
+    "note16thUpShort",
+    "note16thUpBeamed",
+    "note32ndUpStraight",
+    "note32ndUpShort",
+    "note32ndUpBeamed",
+    "noteTick",
+
+    "flag8thUpStraight",
+    "flag8thUpShort",
+    "flag8thDownStraight",
+    "flag16thUpStraight",
+    "flag16thUpShort",
+    "flag16thDownStraight",
+    "flag32ndUpStraight",
+    "flag32ndUpShort",
+    "flag32ndDownStraight",
+    "flag64thUpStraight",
+    "flag64thUpShort",
+    "flag64thDownStraight",
+    "flag128thUpStraight",
+    "flag128thUpShort",
+    "flag128thDownStraight",
+    "flag256thUpStraight",
+    "flag256thUpShort",
+    "flag256thDownStraight",
+    "flag512thUpStraight",
+    "flag512thUpShort",
+    "flag512thDownStraight",
+    "flag1024thUpStraight",
+    "flag1024thUpShort",
+    "flag1024thDownStraight",
+    "flag8thDownShort",
+    "flag16thDownShort",
+    "flag32ndDownShort",
+    "flag64thDownShort",
+    "flag128thDownShort",
+    "flag256thDownShort",
+    "flag512thDownShort",
+    "flag1024thDownShort",
+
+    "articulations",
+    "pauses"
+  ],
+
+
+  "forTextBasedApplications": [
+    "reversedBracket",
+    "squareBracket",
+    "reversedSquareBracket",
+
+    "note8thUpStraight",
+    "note8thUpShort",
+    "note8thUpBeamed",
+    "note16thUpStraight",
+    "note16thUpShort",
+    "note16thUpBeamed",
+    "note32ndUpStraight",
+    "note32ndUpShort",
+    "note32ndUpBeamed",
+
+    "repeatRightLeftThick",
+
+    "timeSig2over4",
+    "timeSig2over2",
+    "timeSig3over2",
+    "timeSig3over4",
+    "timeSig3over8",
+    "timeSig4over4",
+    "timeSig5over4",
+    "timeSig5over8",
+    "timeSig6over4",
+    "timeSig6over8",
+    "timeSig7over8",
+    "timeSig9over8",
+    "timeSig12over8",
+    "timeSig0Denominator",
+    "timeSig0Numerator",
+    "timeSig1Denominator",
+    "timeSig1Numerator",
+    "timeSig2Denominator",
+    "timeSig2Numerator",
+    "timeSig3Denominator",
+    "timeSig3Numerator",
+    "timeSig4Denominator",
+    "timeSig4Numerator",
+    "timeSig5Denominator",
+    "timeSig5Numerator",
+    "timeSig6Denominator",
+    "timeSig6Numerator",
+    "timeSig7Denominator",
+    "timeSig7Numerator",
+    "timeSig8Denominator",
+    "timeSig8Numerator",
+    "timeSig9Denominator",
+    "timeSig9Numerator"
+  ],
+
+
+	"tf_chordSymbolAccidentals": [
+    "csymAccidentalQuadrupleSharp",
+    "csymAccidentalQuadrupleFlat"
+  ],
+
+
+  "tf_ornaments": [
+    "graceNoteStemUp",
+    "graceNoteStemDown",
+
+    "ornamentTrillSimple",
+    "ornamentTrillFlatAbove",
+    "ornamentTrillNaturalAbove",
+    "ornamentTrillSharpAbove",
+    "ornamentTurnFlatAbove",
+    "ornamentTurnFlatAboveSharpBelow",
+    "ornamentTurnFlatBelow",
+    "ornamentTurnNaturalAbove",
+    "ornamentTurnNaturalBelow",
+    "ornamentTurnSharpAbove",
+    "ornamentTurnSharpAboveFlatBelow",
+    "ornamentTurnSharpBelow"
+  ],
+
+
+  "tf_pedals": [
+    "keyboardPedalPedNoDot",
+    "keyboardPedalSostNoDot",
+    "keyboardPedalPOld",
+    "keyboardPedalHalf4",
+    "keyboardPedalPosQuarter",
+    "keyboardPedalPosHalf",
+    "keyboardPedalPosThreeQuarters",
+    "keyboardPedalPosFull",
+    "keyboardPedalUnaCorda",
+    "keyboardPedalTreCorde",
+    "keyboardPedalUC",
+    "keyboardPedalTC",
+    "keyboardPedalSos",
+    "keyboardPedalSos2"
+  ],
+
+
+  "tf_harpPedals": [
+    "harpPedalRaisedChange",
+    "harpPedalCenteredChange",
+    "harpPedalLoweredChange"
+  ],
+
+
+  "tf_pictograms": [
+    "pictTambourineStockhausen",
+    "pictXylBassPeinkofer",
+    "pictXylTenorPeinkofer",
+    "pictVibPeinkofer",
+    "pictVibMotorOffPeinkofer",
+    "pictLithophonePeinkofer",
+    "pictTubaphonePeinkofer",
+    "pictXylPeinkofer",
+    "pictGlspPeinkofer",
+    "pictMarPeinkofer",
+    "pictLotusFlutePeinkofer",
+    "pictTomTomChinesePeinkofer",
+    "pictTimpaniPeinkofer",
+    "pictBassDrumPeinkofer",
+
+    "pictDrumSet",
+    "pictDjembe",
+    "pictBambooScraper2",
+    "pictAngklung",
+    "pictPelletDrum",
+    "pictBedug",
+    "pictDagu"
+  ],
+
+
+  "separator": [
+    "space",
+    "enspace",
+    "emspace",
+    "thinspace",
+    "hairspace"
+  ]
+}
