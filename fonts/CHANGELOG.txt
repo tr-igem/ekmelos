@@ -1347,3 +1347,17 @@ Version 2.53 (16 March 2024):
 - Reduced slightly height of buzzRoll (U+E22A), stemBuzzRoll (U+E217).
 - Removed accidental4CommaSharp (U+F673) which is deprecated since
   Version 2.52.
+
+Version 2.54 (28 March 2024):
+- New file: LilyPond path table "ly/ekmelos-paths.ily" with definitions
+  to draw glyphs as paths.
+- Added note name noteheads:
+  noteAFlatWhole (U+E168) - noteHSharpBlack (U+E1AC).
+- Added note name noteheads supplements:
+  noteHFlatWhole (U+F720) - noteHFlatBlack (U+F722).
+- Reduced height of keyboard techniques symbols which were erroneously
+  enlarged in 2.53:
+  keyboardPlayWithRH (U+E66E) - keyboardPlayWithLHEnd (U+E671).
+- Enlarged slightly distance of note heads:
+  Beamed ascending notes (U+1F39C),
+  Beamed eighth note (U+266B) - Beamed sixteenth notes (U+266C).
