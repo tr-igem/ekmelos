@@ -3,8 +3,8 @@
 [Setup]
 AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
-AppVersion="2.53"
-; AppVerName="Ekmelos Font 2.53"
+AppVersion="2.54"
+; AppVerName="Ekmelos Font 2.54"
 AppCopyright="Copyright (c) 2013-2024 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
 AppPublisherURL="http://www.ekmelic-music.org/"
@@ -37,7 +37,7 @@ Source: "..\metadata\glyphnames.json"; DestDir: "{app}\metadata"; Flags: ignorev
 Source: "..\metadata\metadata.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
 Source: "..\metadata\ekmelib.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
 Source: "..\metadata\ekmelily.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\CHANGELOG.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\LICENSE.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\OFL-FAQ.txt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\fonts\CHANGELOG.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\fonts\otf\Ekmelos.otf"; DestDir: "{fonts}"; FontInstall: "Ekmelos"; Flags: uninsneveruninstall fontisnttruetype
