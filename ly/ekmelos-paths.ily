@@ -3385,20 +3385,16 @@
   (#x1FAAB M 36 246 c 0 -15 54 -28 114 -28 c 60 0 114 13 114 28 l 0 325 c -22 -9 -66 -14 -114 -14 c -48 0 -92 5 -114 14 l 0 -325 z M 0 50 l 0 572 c 0 30 59 44 93 44 l 0 20 c 0 8 28 14 57 14 c 29 0 57 -6 57 -14 l 0 -20 c 34 0 93 -14 93 -44 l 0 -572 c 0 -30 -67 -50 -150 -50 c -83 0 -150 20 -150 50 z M 90 411 l 0 32 l 44 0 l 0 44 l 32 0 l 0 -44 l 44 0 l 0 -32 l -44 0 l 0 -44 l -32 0 l 0 44 l -44 0 z M 90 111 l 120 0 l 0 32 l -120 0 l 0 -32 z M 24 622 c 0 -14 56 -29 126 -29 c 70 0 126 15 126 29 c 0 11 -43 23 -69 23 l 0 -20 c 0 -8 -28 -14 -57 -14 c -29 0 -57 6 -57 14 l 0 20 c -26 0 -69 -12 -69 -23 z)
 ))
 
+#(define-public (ekm-path-stencil cp size thickness filled)
+  (let ((path (assv-ref ekmelos-paths cp))
+        (s (/ (magstep size) 256)))
+    (if path
+      (make-path-stencil path (* thickness s) s s filled)
+      empty-stencil)))
+
 #(define-markup-command (ekm-path layout props cp)
   (integer?)
   #:properties ((font-size 0)
                 (thickness 0)
                 (filled #t))
-  (let ((path (assv-ref ekmelos-paths cp))
-        (s (/ (magstep font-size) 256)))
-    (if path
-      (make-path-stencil path (* thickness s) s s filled)
-      (interpret-markup layout props
-        (ly:wide-char->utf-8 cp)))))
-
-#(define-public (ekm-path-stencil cp thickness xscale yscale filled)
-  (let ((path (assv-ref ekmelos-paths cp)))
-    (if path
-      (make-path-stencil path thickness xscale yscale filled)
-      empty-stencil)))
+    (ekm-path-stencil cp font-size thickness filled))
