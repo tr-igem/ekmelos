@@ -1361,3 +1361,34 @@ Version 2.54 (28 March 2024):
 - Enlarged slightly distance of note heads:
   Beamed ascending notes (U+1F39C),
   Beamed eighth note (U+266B) - Beamed sixteenth notes (U+266C).
+
+Version 2.55 (31 May 2024):
+- Added note name noteheads supplements:
+  noteDiWhole (U+EEE0) - noteTeBlack (U+EEFA).
+- Added size variants of staff brace:
+  brace200 (U+F71A) - reversedBrace200 (U+F71B).
+- Changed vertical position of straight and short flags:
+  flag16thUpStraight (U+F412) - flag1024thDownStraight (U+F426),
+  flag8thDownShort (U+F6C0) - flag1024thDownShort (U+F6C7).
+- Changed slightly straight and short flags on individual notes:
+  note16thUpStraight (U+F686) - note16thUpShort (U+F687),
+  note32ndUpStraight (U+F689) - note32ndUpShort (U+F68A).
+- Enlarged hook of some Trojan / Promethean Sagittal extension accidentals:
+  accSagittal5v19CommaUp (U+E372),
+  accSagittalSharp5v19CUp (U+E37E),
+  accSagittal143CommaUp (U+E394),
+  accSagittal5v13MediumDiesisUp (U+E3A0),
+  accSagittal5v49MediumDiesisUp (U+E3A6),
+  accSagittalSharp23SDown (U+E3B0),
+  accSagittalSharp7v19CDown (U+E3B4),
+  accSagittalSharp17kDown (U+E3BC),
+  accSagittalSharp143CUp (U+E3C4),
+  accSagittalSharp5v13MUp (U+E3D0),
+  accSagittalSharp5v49MUp (U+E3D6),
+  accSagittalDoubleSharp23SDown (U+E3E0),
+  accSagittalDoubleSharp7v19CDown (U+E3E4),
+  accSagittalDoubleSharp17kDown (U+E3EC).
+- Enlarged some Basic Latin glyphs:
+  asterisk (U+002A), plus (U+002B), hyphen (U+002D).
+- Lengthened large accent:
+  articAccentAboveLarge (U+F42A) - articAccentBelowLarge (U+F42B).
