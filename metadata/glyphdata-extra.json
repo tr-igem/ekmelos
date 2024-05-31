@@ -1343,6 +1343,12 @@
   "reversedBrace180": {
     "description": "Reversed brace eighteen times the height"
   },
+  "brace200": {
+    "description": "Brace twenty times the height"
+  },
+  "reversedBrace200": {
+    "description": "Reversed brace twenty times the height"
+  },
 
   "noteHFlatWhole": {
     "description": "H flat (whole note)"
