@@ -34,7 +34,7 @@
     "tupletBracketThickness": 0.16
   },
   "fontName": "Ekmelos",
-  "fontVersion": "2.54",
+  "fontVersion": "2.55",
   "glyphBBoxes": {
     "4stringTabClef": {
       "bBoxNE": [
@@ -7308,7 +7308,7 @@
     },
     "articAccentAboveLarge": {
       "bBoxNE": [
-        2.4,
+        2.8,
         1.0
       ],
       "bBoxSW": [
@@ -7338,7 +7338,7 @@
     },
     "articAccentBelowLarge": {
       "bBoxNE": [
-        2.4,
+        2.8,
         0.0
       ],
       "bBoxSW": [
@@ -7958,12 +7958,12 @@
     },
     "asterisk": {
       "bBoxNE": [
-        1.24,
-        0.568
+        1.36,
+        0.452
       ],
       "bBoxSW": [
         0.0,
-        -0.568
+        -0.772
       ]
     },
     "at": {
@@ -8378,8 +8378,18 @@
     },
     "brace180": {
       "bBoxNE": [
-        2.544,
+        2.504,
         72.032
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.032
+      ]
+    },
+    "brace200": {
+      "bBoxNE": [
+        2.704,
+        80.032
       ],
       "bBoxSW": [
         0.0,
@@ -10128,12 +10138,12 @@
     },
     "elecAudioChannelsOne": {
       "bBoxNE": [
-        3.72,
+        3.672,
         4.0
       ],
       "bBoxSW": [
-        0.28,
-        0.28
+        0.328,
+        0.328
       ]
     },
     "elecAudioChannelsSeven": {
@@ -10163,7 +10173,7 @@
       ],
       "bBoxSW": [
         0.0,
-        0.28
+        0.328
       ]
     },
     "elecAudioChannelsThreeSurround": {
@@ -10183,7 +10193,7 @@
       ],
       "bBoxSW": [
         0.0,
-        0.28
+        0.328
       ]
     },
     "elecAudioFile": {
@@ -12039,21 +12049,21 @@
     "flag1024thDownShort": {
       "bBoxNE": [
         1.076,
-        1.096
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -4.568
+        -2.932
       ]
     },
     "flag1024thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.692
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -4.568
+        -4.256
       ]
     },
     "flag1024thUp": {
@@ -12069,21 +12079,21 @@
     "flag1024thUpShort": {
       "bBoxNE": [
         0.956,
-        4.816
+        3.22
       ],
       "bBoxSW": [
         0.0,
-        -1.556
+        -3.16
       ]
     },
     "flag1024thUpStraight": {
       "bBoxNE": [
         0.956,
-        4.816
+        4.416
       ],
       "bBoxSW": [
         0.0,
-        -2.668
+        -3.068
       ]
     },
     "flag128thDown": {
@@ -12099,21 +12109,21 @@
     "flag128thDownShort": {
       "bBoxNE": [
         1.076,
-        1.568
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -2.316
+        -1.152
       ]
     },
     "flag128thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.532
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -2.316
+        -1.844
       ]
     },
     "flag128thUp": {
@@ -12129,21 +12139,21 @@
     "flag128thUpShort": {
       "bBoxNE": [
         0.956,
-        2.568
+        1.444
       ],
       "bBoxSW": [
         0.0,
-        -2.028
+        -3.16
       ]
     },
     "flag128thUpStraight": {
       "bBoxNE": [
         0.956,
-        2.568
+        1.908
       ],
       "bBoxSW": [
         0.0,
-        -2.408
+        -3.068
       ]
     },
     "flag16thDown": {
@@ -12169,7 +12179,7 @@
     "flag16thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.116
+        2.112
       ],
       "bBoxSW": [
         0.0,
@@ -12219,21 +12229,21 @@
     "flag256thDownShort": {
       "bBoxNE": [
         1.076,
-        1.412
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -3.068
+        -1.748
       ]
     },
     "flag256thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.608
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -3.068
+        -2.672
       ]
     },
     "flag256thUp": {
@@ -12249,21 +12259,21 @@
     "flag256thUpShort": {
       "bBoxNE": [
         0.956,
-        3.316
+        2.036
       ],
       "bBoxSW": [
         0.0,
-        -1.872
+        -3.16
       ]
     },
     "flag256thUpStraight": {
       "bBoxNE": [
         0.956,
-        3.316
+        2.768
       ],
       "bBoxSW": [
         0.0,
-        -2.52
+        -3.068
       ]
     },
     "flag32ndDown": {
@@ -12279,21 +12289,21 @@
     "flag32ndDownShort": {
       "bBoxNE": [
         1.076,
-        1.984
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -0.816
+        -0.068
       ]
     },
     "flag32ndDownStraight": {
       "bBoxNE": [
         1.076,
-        2.256
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -0.816
+        -0.068
       ]
     },
     "flag32ndUp": {
@@ -12309,21 +12319,21 @@
     "flag32ndUpShort": {
       "bBoxNE": [
         0.956,
-        0.816
+        0.068
       ],
       "bBoxSW": [
         0.0,
-        -2.404
+        -3.16
       ]
     },
     "flag32ndUpStraight": {
       "bBoxNE": [
         0.956,
-        0.816
+        0.068
       ],
       "bBoxSW": [
         0.0,
-        -2.32
+        -3.068
       ]
     },
     "flag512thDown": {
@@ -12339,21 +12349,21 @@
     "flag512thDownShort": {
       "bBoxNE": [
         1.076,
-        1.244
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -3.82
+        -2.332
       ]
     },
     "flag512thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.664
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -3.816
+        -3.476
       ]
     },
     "flag512thUp": {
@@ -12369,21 +12379,21 @@
     "flag512thUpShort": {
       "bBoxNE": [
         0.956,
-        4.068
+        2.62
       ],
       "bBoxSW": [
         0.0,
-        -1.704
+        -3.16
       ]
     },
     "flag512thUpStraight": {
       "bBoxNE": [
         0.956,
-        4.068
+        3.604
       ],
       "bBoxSW": [
         0.0,
-        -2.604
+        -3.068
       ]
     },
     "flag64thDown": {
@@ -12399,21 +12409,21 @@
     "flag64thDownShort": {
       "bBoxNE": [
         1.076,
-        1.784
+        2.74
       ],
       "bBoxSW": [
         0.0,
-        -1.568
+        -0.62
       ]
     },
     "flag64thDownStraight": {
       "bBoxNE": [
         1.076,
-        2.392
+        3.0
       ],
       "bBoxSW": [
         0.0,
-        -1.568
+        -0.956
       ]
     },
     "flag64thUp": {
@@ -12429,21 +12439,21 @@
     "flag64thUpShort": {
       "bBoxNE": [
         0.956,
-        1.568
+        0.66
       ],
       "bBoxSW": [
         0.0,
-        -2.244
+        -3.16
       ]
     },
     "flag64thUpStraight": {
       "bBoxNE": [
         0.956,
-        1.56
+        0.988
       ],
       "bBoxSW": [
         0.0,
-        -2.496
+        -3.068
       ]
     },
     "flag8thDown": {
@@ -14308,12 +14318,12 @@
     },
     "hyphen": {
       "bBoxNE": [
-        1.24,
-        0.18
+        1.36,
+        0.0
       ],
       "bBoxSW": [
         0.0,
-        -0.18
+        -0.32
       ]
     },
     "i": {
@@ -16106,6 +16116,36 @@
         -0.592
       ]
     },
+    "noteDiBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDiHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteDiWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteDoBlack": {
       "bBoxNE": [
         1.46,
@@ -16396,6 +16436,36 @@
         -0.592
       ]
     },
+    "noteFiBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFiHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteFiWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteGBlack": {
       "bBoxNE": [
         1.46,
@@ -16626,6 +16696,96 @@
         -0.592
       ]
     },
+    "noteLeBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteLeHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteLeWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteLiBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteLiHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteLiWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteMeBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteMeHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteMeWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteMiBlack": {
       "bBoxNE": [
         1.46,
@@ -16676,6 +16836,36 @@
         -0.5
       ]
     },
+    "noteRaBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteRaHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteRaWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
     "noteReBlack": {
       "bBoxNE": [
         1.46,
@@ -16697,6 +16887,66 @@
       ]
     },
     "noteReWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteRiBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteRiHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteRiWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteSeBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteSeHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteSeWhole": {
       "bBoxNE": [
         1.98,
         0.592
@@ -17177,6 +17427,36 @@
       ]
     },
     "noteSoWhole": {
+      "bBoxNE": [
+        1.98,
+        0.592
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.592
+      ]
+    },
+    "noteTeBlack": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteTeHalf": {
+      "bBoxNE": [
+        1.46,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteTeWhole": {
       "bBoxNE": [
         1.98,
         0.592
@@ -23578,12 +23858,12 @@
     },
     "plus": {
       "bBoxNE": [
-        1.24,
-        0.62
+        1.36,
+        0.52
       ],
       "bBoxSW": [
         0.0,
-        -0.62
+        -0.84
       ]
     },
     "q": {
@@ -24138,8 +24418,18 @@
     },
     "reversedBrace180": {
       "bBoxNE": [
-        2.6,
+        2.56,
         72.032
+      ],
+      "bBoxSW": [
+        0.056,
+        -0.032
+      ]
+    },
+    "reversedBrace200": {
+      "bBoxNE": [
+        2.76,
+        80.032
       ],
       "bBoxSW": [
         0.056,
@@ -47044,6 +47334,10 @@
       "classes": [],
       "codepoint": "U+F718"
     },
+    "brace200": {
+      "classes": [],
+      "codepoint": "U+F71A"
+    },
     "brassHarmonMuteStemHalfCross": {
       "classes": [],
       "codepoint": "U+F6A4"
@@ -48236,6 +48530,10 @@
     "reversedBrace180": {
       "classes": [],
       "codepoint": "U+F719"
+    },
+    "reversedBrace200": {
+      "classes": [],
+      "codepoint": "U+F71B"
     },
     "reversedBracket": {
       "classes": [

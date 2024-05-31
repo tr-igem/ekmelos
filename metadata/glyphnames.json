@@ -3340,6 +3340,10 @@
     "codepoint": "U+F718",
     "description": "Brace eighteen times the height"
   },
+  "brace200": {
+    "codepoint": "U+F71A",
+    "description": "Brace twenty times the height"
+  },
   "braceleft": {
     "codepoint": "U+007B",
     "description": "Left curly bracket"
@@ -6428,6 +6432,18 @@
     "codepoint": "U+E172",
     "description": "D (whole note)"
   },
+  "noteDiBlack": {
+    "codepoint": "U+EEF2",
+    "description": "Di (black note)"
+  },
+  "noteDiHalf": {
+    "codepoint": "U+EEE9",
+    "description": "Di (half note)"
+  },
+  "noteDiWhole": {
+    "codepoint": "U+EEE0",
+    "description": "Di (whole note)"
+  },
   "noteDoBlack": {
     "codepoint": "U+E160",
     "description": "Do (black note)"
@@ -6544,6 +6560,18 @@
     "codepoint": "U+E153",
     "description": "Fa (whole note)"
   },
+  "noteFiBlack": {
+    "codepoint": "U+EEF6",
+    "description": "Fi (black note)"
+  },
+  "noteFiHalf": {
+    "codepoint": "U+EEED",
+    "description": "Fi (half note)"
+  },
+  "noteFiWhole": {
+    "codepoint": "U+EEE4",
+    "description": "Fi (whole note)"
+  },
   "noteGBlack": {
     "codepoint": "U+E1A9",
     "description": "G (black note)"
@@ -6636,6 +6664,42 @@
     "codepoint": "U+E155",
     "description": "La (whole note)"
   },
+  "noteLeBlack": {
+    "codepoint": "U+EEF9",
+    "description": "Le (black note)"
+  },
+  "noteLeHalf": {
+    "codepoint": "U+EEF0",
+    "description": "Le (half note)"
+  },
+  "noteLeWhole": {
+    "codepoint": "U+EEE7",
+    "description": "Le (whole note)"
+  },
+  "noteLiBlack": {
+    "codepoint": "U+EEF8",
+    "description": "Li (black note)"
+  },
+  "noteLiHalf": {
+    "codepoint": "U+EEEF",
+    "description": "Li (half note)"
+  },
+  "noteLiWhole": {
+    "codepoint": "U+EEE6",
+    "description": "Li (whole note)"
+  },
+  "noteMeBlack": {
+    "codepoint": "U+EEF5",
+    "description": "Me (black note)"
+  },
+  "noteMeHalf": {
+    "codepoint": "U+EEEC",
+    "description": "Me (half note)"
+  },
+  "noteMeWhole": {
+    "codepoint": "U+EEE3",
+    "description": "Me (whole note)"
+  },
   "noteMiBlack": {
     "codepoint": "U+E162",
     "description": "Mi (black note)"
@@ -6656,6 +6720,18 @@
     "codepoint": "U+E1D5",
     "description": "Quarter note (crotchet) stem up"
   },
+  "noteRaBlack": {
+    "codepoint": "U+EEF4",
+    "description": "Ra (black note)"
+  },
+  "noteRaHalf": {
+    "codepoint": "U+EEEB",
+    "description": "Ra (half note)"
+  },
+  "noteRaWhole": {
+    "codepoint": "U+EEE2",
+    "description": "Ra (whole note)"
+  },
   "noteReBlack": {
     "codepoint": "U+E161",
     "description": "Re (black note)"
@@ -6667,6 +6743,30 @@
   "noteReWhole": {
     "codepoint": "U+E151",
     "description": "Re (whole note)"
+  },
+  "noteRiBlack": {
+    "codepoint": "U+EEF3",
+    "description": "Ri (black note)"
+  },
+  "noteRiHalf": {
+    "codepoint": "U+EEEA",
+    "description": "Ri (half note)"
+  },
+  "noteRiWhole": {
+    "codepoint": "U+EEE1",
+    "description": "Ri (whole note)"
+  },
+  "noteSeBlack": {
+    "codepoint": "U+EEF7",
+    "description": "Se (black note)"
+  },
+  "noteSeHalf": {
+    "codepoint": "U+EEEE",
+    "description": "Se (half note)"
+  },
+  "noteSeWhole": {
+    "codepoint": "U+EEE5",
+    "description": "Se (whole note)"
   },
   "noteShapeArrowheadLeftBlack": {
     "codepoint": "U+E1C9",
@@ -6859,6 +6959,18 @@
   "noteSoWhole": {
     "codepoint": "U+E154",
     "description": "So (whole note)"
+  },
+  "noteTeBlack": {
+    "codepoint": "U+EEFA",
+    "description": "Te (black note)"
+  },
+  "noteTeHalf": {
+    "codepoint": "U+EEF1",
+    "description": "Te (half note)"
+  },
+  "noteTeWhole": {
+    "codepoint": "U+EEE8",
+    "description": "Te (whole note)"
   },
   "noteTiBlack": {
     "codepoint": "U+E166",
@@ -9643,6 +9755,10 @@
   "reversedBrace180": {
     "codepoint": "U+F719",
     "description": "Reversed brace eighteen times the height"
+  },
+  "reversedBrace200": {
+    "codepoint": "U+F71B",
+    "description": "Reversed brace twenty times the height"
   },
   "reversedBracket": {
     "codepoint": "U+F643",

@@ -9018,7 +9018,8 @@
       "12000": "brace120",
       "14000": "brace140",
       "16000": "brace160",
-      "18000": "brace180"
+      "18000": "brace180",
+      "20000": "brace200"
     }
   },
   "brace005": {
@@ -9099,6 +9100,14 @@
     "code": 63256,
     "codepoint": "U+F718",
     "description": "Brace eighteen times the height",
+    "variantOf": "brace"
+  },
+  "brace200": {
+    "block": "F400",
+    "classes": [],
+    "code": 63258,
+    "codepoint": "U+F71A",
+    "description": "Brace twenty times the height",
     "variantOf": "brace"
   },
   "braceleft": {
@@ -16135,6 +16144,27 @@
     "codepoint": "U+E172",
     "description": "D (whole note)"
   },
+  "noteDiBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61170,
+    "codepoint": "U+EEF2",
+    "description": "Di (black note)"
+  },
+  "noteDiHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61161,
+    "codepoint": "U+EEE9",
+    "description": "Di (half note)"
+  },
+  "noteDiWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61152,
+    "codepoint": "U+EEE0",
+    "description": "Di (whole note)"
+  },
   "noteDoBlack": {
     "block": "E000",
     "classes": [
@@ -16450,6 +16480,27 @@
     "codepoint": "U+E153",
     "description": "Fa (whole note)"
   },
+  "noteFiBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61174,
+    "codepoint": "U+EEF6",
+    "description": "Fi (black note)"
+  },
+  "noteFiHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61165,
+    "codepoint": "U+EEED",
+    "description": "Fi (half note)"
+  },
+  "noteFiWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61156,
+    "codepoint": "U+EEE4",
+    "description": "Fi (whole note)"
+  },
   "noteGBlack": {
     "block": "E000",
     "classes": [
@@ -16690,6 +16741,69 @@
     "codepoint": "U+E155",
     "description": "La (whole note)"
   },
+  "noteLeBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61177,
+    "codepoint": "U+EEF9",
+    "description": "Le (black note)"
+  },
+  "noteLeHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61168,
+    "codepoint": "U+EEF0",
+    "description": "Le (half note)"
+  },
+  "noteLeWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61159,
+    "codepoint": "U+EEE7",
+    "description": "Le (whole note)"
+  },
+  "noteLiBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61176,
+    "codepoint": "U+EEF8",
+    "description": "Li (black note)"
+  },
+  "noteLiHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61167,
+    "codepoint": "U+EEEF",
+    "description": "Li (half note)"
+  },
+  "noteLiWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61158,
+    "codepoint": "U+EEE6",
+    "description": "Li (whole note)"
+  },
+  "noteMeBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61173,
+    "codepoint": "U+EEF5",
+    "description": "Me (black note)"
+  },
+  "noteMeHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61164,
+    "codepoint": "U+EEEC",
+    "description": "Me (half note)"
+  },
+  "noteMeWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61155,
+    "codepoint": "U+EEE3",
+    "description": "Me (whole note)"
+  },
   "noteMiBlack": {
     "block": "E000",
     "classes": [
@@ -16744,6 +16858,27 @@
     "codepoint": "U+E1D5",
     "description": "Quarter note (crotchet) stem up"
   },
+  "noteRaBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61172,
+    "codepoint": "U+EEF4",
+    "description": "Ra (black note)"
+  },
+  "noteRaHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61163,
+    "codepoint": "U+EEEB",
+    "description": "Ra (half note)"
+  },
+  "noteRaWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61154,
+    "codepoint": "U+EEE2",
+    "description": "Ra (whole note)"
+  },
   "noteReBlack": {
     "block": "E000",
     "classes": [
@@ -16776,6 +16911,48 @@
     "code": 57681,
     "codepoint": "U+E151",
     "description": "Re (whole note)"
+  },
+  "noteRiBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61171,
+    "codepoint": "U+EEF3",
+    "description": "Ri (black note)"
+  },
+  "noteRiHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61162,
+    "codepoint": "U+EEEA",
+    "description": "Ri (half note)"
+  },
+  "noteRiWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61153,
+    "codepoint": "U+EEE1",
+    "description": "Ri (whole note)"
+  },
+  "noteSeBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61175,
+    "codepoint": "U+EEF7",
+    "description": "Se (black note)"
+  },
+  "noteSeHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61166,
+    "codepoint": "U+EEEE",
+    "description": "Se (half note)"
+  },
+  "noteSeWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61157,
+    "codepoint": "U+EEE5",
+    "description": "Se (whole note)"
   },
   "noteShapeArrowheadLeftBlack": {
     "block": "E000",
@@ -17226,6 +17403,27 @@
     "code": 57684,
     "codepoint": "U+E154",
     "description": "So (whole note)"
+  },
+  "noteTeBlack": {
+    "block": "E000",
+    "classes": [],
+    "code": 61178,
+    "codepoint": "U+EEFA",
+    "description": "Te (black note)"
+  },
+  "noteTeHalf": {
+    "block": "E000",
+    "classes": [],
+    "code": 61169,
+    "codepoint": "U+EEF1",
+    "description": "Te (half note)"
+  },
+  "noteTeWhole": {
+    "block": "E000",
+    "classes": [],
+    "code": 61160,
+    "codepoint": "U+EEE8",
+    "description": "Te (whole note)"
   },
   "noteTiBlack": {
     "block": "E000",
@@ -24071,7 +24269,8 @@
       "12000": "reversedBrace120",
       "14000": "reversedBrace140",
       "16000": "reversedBrace160",
-      "18000": "reversedBrace180"
+      "18000": "reversedBrace180",
+      "20000": "reversedBrace200"
     }
   },
   "reversedBrace005": {
@@ -24152,6 +24351,14 @@
     "code": 63257,
     "codepoint": "U+F719",
     "description": "Reversed brace eighteen times the height",
+    "variantOf": "reversedBrace"
+  },
+  "reversedBrace200": {
+    "block": "F400",
+    "classes": [],
+    "code": 63259,
+    "codepoint": "U+F71B",
+    "description": "Reversed brace twenty times the height",
     "variantOf": "reversedBrace"
   },
   "reversedBracket": {
