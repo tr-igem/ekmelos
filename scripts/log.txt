@@ -2224,3 +2224,28 @@ Glyphs:               3594
     Symbols/Arrows:   122
     Musical Symbols:  172
     Symbols/Pict:     108
+
+Name: Ekmelos, Ekmelos
+Ver:  2.56
+Path: /Ekmelik/Software/Ekmelos/Ekmelos-work.sfd
+EM:   1000
+Map:  ekmelos-map
+Glyphs:               3669
+  SMuFL:              2880
+    Recommended:      2387
+      Accidentals:    480
+      Other:          1907
+    Optional:         493
+  Unicode:            789
+    Latin/ASCII:      96
+    Punctuation:      4
+    Arrows:           88
+    Mathematical:     9
+    Technical:        42
+    Block Elements:   4
+    Geometric Shapes: 84
+    Symbols:          19
+    Dingbats:         41
+    Symbols/Arrows:   122
+    Musical Symbols:  172
+    Symbols/Pict:     108
