@@ -1,6 +1,7 @@
 {
   "accidentals": [
     "accidentalsStandard",
+    "accidentalsSteinZimmermann",
     "accidentalsParenthesised",
     "accidentalsJohnston",
     "accidentalsHelmholtzEllis",
@@ -11,6 +12,8 @@
     "accidentalHabaFlatThreeQuarterTonesLower",
     "accidentals72EDOHaba",
     "accidentals31EDOFerneyhough",
+    "accidentalsTunisian",
+    "accidentalsOpenMusic",
 
     "accidentalRingArrowDown",
     "accidentalRingArrowUp",
@@ -38,6 +41,12 @@
     "accidentalBraceRight",
     "accidentalAngleLeft",
     "accidentalAngleRight"
+  ],
+
+  "accidentalsSteinZimmermann": [
+    "accidentalQuarterToneSharpZimmermann",
+    "accidentalThreeQuarterToneSharpZimmermann",
+    "accidentalQuarterToneSharpZimmermannAndSharp"
   ],
 
   "accidentalsParenthesised": [
@@ -75,7 +84,42 @@
     "accidentalQuarterFlatFilledEqualTempered",
     "accidentalThreeQuarterFlatEqualTempered",
     "accidentalThreeQuarterFlatFilledEqualTempered",
-    "accidentalThreeQuarterSharpEqualTempered"
+    "accidentalThreeQuarterSharpEqualTempered",
+
+    "accidentalEnharmonicLower1Tilde",
+    "accidentalEnharmonicLower2Tildes",
+    "accidentalEnharmonicLower3Tildes",
+    "accidentalEnharmonicRaise1Tilde",
+    "accidentalEnharmonicRaise2Tildes",
+    "accidentalEnharmonicRaise3Tildes",
+    "accidentalCombiningLower2Strokes",
+    "accidentalCombiningRaise2Strokes",
+    "accidentalCombiningLower3Strokes",
+    "accidentalCombiningRaise3Strokes",
+    "accidentalFlatLowerComma",
+    "accidentalNaturalLowerComma",
+    "accidentalSharpLowerComma",
+    "accidentalDoubleSharpLowerComma",
+    "accidentalDoubleFlatLowerComma",
+    "accidentalFlatRaiseComma",
+    "accidentalNaturalRaiseComma",
+    "accidentalSharpRaiseComma",
+    "accidentalDoubleSharpRaiseComma",
+    "accidentalDoubleFlatRaiseComma",
+    "accidentalFlatLowerDot",
+    "accidentalNaturalLowerDot",
+    "accidentalSharpLowerDot",
+    "accidentalDoubleSharpLowerDot",
+    "accidentalDoubleFlatLowerDot",
+    "accidentalFlatRaiseDot",
+    "accidentalNaturalRaiseDot",
+    "accidentalSharpRaiseDot",
+    "accidentalDoubleSharpRaiseDot",
+    "accidentalDoubleFlatRaiseDot",
+    "accidentalCombiningOvertonal",
+    "accidentalCombiningOvertonalBold",
+    "accidentalCombiningUndertonal",
+    "accidentalCombiningUndertonalBold"
   ],
 
   "accidentalsMedRen": [
@@ -151,8 +195,33 @@
     "accidentalFourFifthTonesSharpFerneyhough"
   ],
 
+  "accidentalsTunisian": [
+    "accidentalFlat20Percent",
+    "accidentalFlat30Percent",
+    "accidentalFlat40Percent",
+    "accidentalSharp20Percent",
+    "accidentalSharp30Percent",
+    "accidentalSharp40Percent"
+  ],
+
+  "accidentalsOpenMusic": [
+    "accidentalOpenMusic1by16Sharp",
+    "accidentalOpenMusic3by16Sharp",
+    "accidentalOpenMusic5by16Sharp",
+    "accidentalOpenMusic7by16Sharp",
+    "accidentalOpenMusic9by16Sharp",
+    "accidentalOpenMusic11by16Sharp",
+    "accidentalOpenMusic13by16Sharp",
+    "accidentalOpenMusic15by16Sharp"
+  ],
+
 
   "clefs": [
+    "clefCombining8vaAltaSorabji",
+    "clefCombining15maAltaSorabji",
+    "clefCombining8vaBassaSorabji",
+    "clefCombining15maBassaSorabji",
+
     "clefsC",
     "clefsG",
 
@@ -168,7 +237,11 @@
     "6stringTabClefSerif",
     "4stringTabClefClassic",
     "4stringTabClefTall",
-    "4stringTabClefSerif"
+    "4stringTabClefSerif",
+
+    "gClef8vbFrench",
+    "stringClef",
+    "behindBridgeStringClef"
   ],
 
   "clefsC": [
@@ -329,13 +402,16 @@
     "ornamentTurnNaturalBelow",
     "ornamentTurnSharpAbove",
     "ornamentTurnSharpAboveFlatBelow",
-    "ornamentTurnSharpBelow"
+    "ornamentTurnSharpBelow",
+    "ornamentTurnInvertedSlash"
   ],
 
 
   "pauses": [
     "pausesAbove",
     "pausesBelow",
+
+    "generalPause",
 
     "breathMarkCommaTurned",
     "breathMarkCommaWedge",
@@ -362,10 +438,24 @@
 
     "wiggleWavyNarrower",
     "wiggleWavyWider",
+    "wiggleWavyVeryWide",
+    "wiggleWavyDoubleWide",
+    "wiggleWavyTripleWide",
+    "wiggleWavyQuadrupleWide",
+
     "wiggleSquareWaveNarrower",
     "wiggleSquareWaveWider",
+    "wiggleSquareWaveVeryWide",
+    "wiggleSquareWaveDoubleWide",
+    "wiggleSquareWaveTripleWide",
+    "wiggleSquareWaveQuadrupleWide",
+
     "wiggleSawtoothNarrower",
-    "wiggleSawtoothWider"
+    "wiggleSawtoothWider",
+    "wiggleSawtoothVeryWide",
+    "wiggleSawtoothDoubleWide",
+    "wiggleSawtoothTripleWide",
+    "wiggleSawtoothQuadrupleWide"
   ],
 
 
@@ -444,6 +534,7 @@
     "note32ndUpBeamed",
 
     "repeatRightLeftThick",
+    "repeatAdLibChinese",
 
     "timeSig2over4",
     "timeSig2over2",
@@ -502,7 +593,8 @@
     "ornamentTurnNaturalBelow",
     "ornamentTurnSharpAbove",
     "ornamentTurnSharpAboveFlatBelow",
-    "ornamentTurnSharpBelow"
+    "ornamentTurnSharpBelow",
+    "ornamentTurnInvertedSlash"
   ],
 
 
@@ -532,6 +624,8 @@
 
 
   "tf_pictograms": [
+    "pictHalfOpen3",
+
     "pictTambourineStockhausen",
     "pictXylBassPeinkofer",
     "pictXylTenorPeinkofer",

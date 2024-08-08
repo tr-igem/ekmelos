@@ -1407,6 +1407,10 @@
     "codepoint": "U+EE50",
     "description": "Combining lower by one 29-limit comma"
   },
+  "accidentalCombiningLower2Strokes": {
+    "codepoint": "U+F736",
+    "description": "Combining lower by two 19-limit schisma"
+  },
   "accidentalCombiningLower31Schisma": {
     "codepoint": "U+E2EC",
     "description": "Combining lower by one 31-limit schisma"
@@ -1414,6 +1418,10 @@
   "accidentalCombiningLower37Quartertone": {
     "codepoint": "U+EE52",
     "description": "Combining lower by one 37-limit quartertone"
+  },
+  "accidentalCombiningLower3Strokes": {
+    "codepoint": "U+F738",
+    "description": "Combining lower by three 19-limit schisma"
   },
   "accidentalCombiningLower41Comma": {
     "codepoint": "U+EE54",
@@ -1435,6 +1443,14 @@
     "codepoint": "U+E2EE",
     "description": "Combining open curly brace"
   },
+  "accidentalCombiningOvertonal": {
+    "codepoint": "U+F74E",
+    "description": "Combining overtonal"
+  },
+  "accidentalCombiningOvertonalBold": {
+    "codepoint": "U+F74F",
+    "description": "Combining overtonal bold"
+  },
   "accidentalCombiningRaise17Schisma": {
     "codepoint": "U+E2E7",
     "description": "Combining raise by one 17-limit schisma"
@@ -1451,6 +1467,10 @@
     "codepoint": "U+EE51",
     "description": "Combining raise by one 29-limit comma"
   },
+  "accidentalCombiningRaise2Strokes": {
+    "codepoint": "U+F737",
+    "description": "Combining raise by two 19-limit schisma"
+  },
   "accidentalCombiningRaise31Schisma": {
     "codepoint": "U+E2ED",
     "description": "Combining raise by one 31-limit schisma"
@@ -1458,6 +1478,10 @@
   "accidentalCombiningRaise37Quartertone": {
     "codepoint": "U+EE53",
     "description": "Combining raise by one 37-limit quartertone"
+  },
+  "accidentalCombiningRaise3Strokes": {
+    "codepoint": "U+F739",
+    "description": "Combining raise by three 19-limit schisma"
   },
   "accidentalCombiningRaise41Comma": {
     "codepoint": "U+EE55",
@@ -1474,6 +1498,14 @@
   "accidentalCombiningRaise53LimitComma": {
     "codepoint": "U+E2F8",
     "description": "Combining raise by one 53-limit comma"
+  },
+  "accidentalCombiningUndertonal": {
+    "codepoint": "U+F750",
+    "description": "Combining undertonal"
+  },
+  "accidentalCombiningUndertonalBold": {
+    "codepoint": "U+F751",
+    "description": "Combining undertonal bold"
   },
   "accidentalCommaSlashDown": {
     "codepoint": "U+E47A",
@@ -1499,6 +1531,14 @@
     "codepoint": "U+F4A1",
     "description": "Double flat (joined stems)"
   },
+  "accidentalDoubleFlatLowerComma": {
+    "codepoint": "U+F73E",
+    "description": "Double flat lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatLowerDot": {
+    "codepoint": "U+F748",
+    "description": "Double flat lowered by lesser diesis"
+  },
   "accidentalDoubleFlatOneArrowDown": {
     "codepoint": "U+E2C0",
     "description": "Double flat lowered by one syntonic comma"
@@ -1510,6 +1550,14 @@
   "accidentalDoubleFlatParens": {
     "codepoint": "U+F5E4",
     "description": "Parenthesised double flat"
+  },
+  "accidentalDoubleFlatRaiseComma": {
+    "codepoint": "U+F743",
+    "description": "Double flat raised by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatRaiseDot": {
+    "codepoint": "U+F74D",
+    "description": "Double flat raised by lesser diesis"
   },
   "accidentalDoubleFlatReversed": {
     "codepoint": "U+E483",
@@ -1551,6 +1599,14 @@
     "codepoint": "U+E2F4",
     "description": "Double sharp equal tempered semitone"
   },
+  "accidentalDoubleSharpLowerComma": {
+    "codepoint": "U+F73D",
+    "description": "Double sharp lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpLowerDot": {
+    "codepoint": "U+F747",
+    "description": "Double sharp lowered by lesser diesis"
+  },
   "accidentalDoubleSharpOneArrowDown": {
     "codepoint": "U+E2C4",
     "description": "Double sharp lowered by one syntonic comma"
@@ -1562,6 +1618,14 @@
   "accidentalDoubleSharpParens": {
     "codepoint": "U+F5E3",
     "description": "Parenthesised double sharp"
+  },
+  "accidentalDoubleSharpRaiseComma": {
+    "codepoint": "U+F742",
+    "description": "Double sharp raised by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpRaiseDot": {
+    "codepoint": "U+F74C",
+    "description": "Double sharp raised by lesser diesis"
   },
   "accidentalDoubleSharpThreeArrowsDown": {
     "codepoint": "U+E2D8",
@@ -1586,6 +1650,30 @@
   "accidentalEnharmonicEquals": {
     "codepoint": "U+E2FB",
     "description": "Enharmonically reinterpret accidental equals"
+  },
+  "accidentalEnharmonicLower1Tilde": {
+    "codepoint": "U+F730",
+    "description": "Enharmonically reinterpret accidental lower by one tilde"
+  },
+  "accidentalEnharmonicLower2Tildes": {
+    "codepoint": "U+F731",
+    "description": "Enharmonically reinterpret accidental lower by two tildes"
+  },
+  "accidentalEnharmonicLower3Tildes": {
+    "codepoint": "U+F732",
+    "description": "Enharmonically reinterpret accidental lower by three tildes"
+  },
+  "accidentalEnharmonicRaise1Tilde": {
+    "codepoint": "U+F733",
+    "description": "Enharmonically reinterpret accidental raise by one tilde"
+  },
+  "accidentalEnharmonicRaise2Tildes": {
+    "codepoint": "U+F734",
+    "description": "Enharmonically reinterpret accidental raise by two tildes"
+  },
+  "accidentalEnharmonicRaise3Tildes": {
+    "codepoint": "U+F735",
+    "description": "Enharmonically reinterpret accidental raise by three tildes"
   },
   "accidentalEnharmonicTilde": {
     "codepoint": "U+E2F9",
@@ -1623,6 +1711,18 @@
     "codepoint": "U+E260",
     "description": "Flat"
   },
+  "accidentalFlat20Percent": {
+    "codepoint": "U+F752",
+    "description": "Tunisian 20 percent flat"
+  },
+  "accidentalFlat30Percent": {
+    "codepoint": "U+F753",
+    "description": "Tunisian 30 percent flat"
+  },
+  "accidentalFlat40Percent": {
+    "codepoint": "U+F754",
+    "description": "Tunisian 40 percent flat"
+  },
   "accidentalFlatArabic": {
     "codepoint": "U+ED32",
     "description": "Arabic half-tone flat"
@@ -1659,6 +1759,14 @@
     "codepoint": "U+F674",
     "description": "Flat koron (inverted koron) (three-quarter-tones flat)"
   },
+  "accidentalFlatLowerComma": {
+    "codepoint": "U+F73A",
+    "description": "Flat lowered by quarter syntonic comma"
+  },
+  "accidentalFlatLowerDot": {
+    "codepoint": "U+F744",
+    "description": "Flat lowered by lesser diesis"
+  },
   "accidentalFlatLoweredStockhausen": {
     "codepoint": "U+ED53",
     "description": "Lowered flat (Stockhausen)"
@@ -1674,6 +1782,14 @@
   "accidentalFlatParens": {
     "codepoint": "U+F5E0",
     "description": "Parenthesised flat"
+  },
+  "accidentalFlatRaiseComma": {
+    "codepoint": "U+F73F",
+    "description": "Flat raised by quarter syntonic comma"
+  },
+  "accidentalFlatRaiseDot": {
+    "codepoint": "U+F749",
+    "description": "Flat raised by lesser diesis"
   },
   "accidentalFlatRaisedStockhausen": {
     "codepoint": "U+ED52",
@@ -2015,6 +2131,14 @@
     "codepoint": "U+E267",
     "description": "Natural flat"
   },
+  "accidentalNaturalLowerComma": {
+    "codepoint": "U+F73B",
+    "description": "Natural lowered by quarter syntonic comma"
+  },
+  "accidentalNaturalLowerDot": {
+    "codepoint": "U+F745",
+    "description": "Natural lowered by lesser diesis"
+  },
   "accidentalNaturalLoweredStockhausen": {
     "codepoint": "U+ED55",
     "description": "Lowered natural (Stockhausen)"
@@ -2030,6 +2154,14 @@
   "accidentalNaturalParens": {
     "codepoint": "U+F5E1",
     "description": "Parenthesised natural"
+  },
+  "accidentalNaturalRaiseComma": {
+    "codepoint": "U+F740",
+    "description": "Natural raised by quarter syntonic comma"
+  },
+  "accidentalNaturalRaiseDot": {
+    "codepoint": "U+F74A",
+    "description": "Natural raised by lesser diesis"
   },
   "accidentalNaturalRaisedStockhausen": {
     "codepoint": "U+ED54",
@@ -2094,6 +2226,38 @@
   "accidentalOneThirdToneSharpFerneyhough": {
     "codepoint": "U+E48A",
     "description": "One-third-tone sharp (Ferneyhough)"
+  },
+  "accidentalOpenMusic11by16Sharp": {
+    "codepoint": "U+F75D",
+    "description": "11/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic13by16Sharp": {
+    "codepoint": "U+F75E",
+    "description": "13/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic15by16Sharp": {
+    "codepoint": "U+F75F",
+    "description": "15/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic1by16Sharp": {
+    "codepoint": "U+F758",
+    "description": "1/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic3by16Sharp": {
+    "codepoint": "U+F759",
+    "description": "3/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic5by16Sharp": {
+    "codepoint": "U+F75A",
+    "description": "5/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic7by16Sharp": {
+    "codepoint": "U+F75B",
+    "description": "7/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic9by16Sharp": {
+    "codepoint": "U+F75C",
+    "description": "9/16 tone high (OpenMusic)"
   },
   "accidentalParensLeft": {
     "codepoint": "U+E26A",
@@ -2183,6 +2347,14 @@
     "codepoint": "U+E475",
     "description": "Quarter tone sharp with wiggly tail"
   },
+  "accidentalQuarterToneSharpZimmermann": {
+    "codepoint": "U+E286",
+    "description": "Quarter tone sharp (Zimmermann)"
+  },
+  "accidentalQuarterToneSharpZimmermannAndSharp": {
+    "codepoint": "U+E288",
+    "description": "Quarter tone sharp and sharp (Zimmermann)"
+  },
   "accidentalRHM12Down": {
     "codepoint": "U+F600",
     "description": "1/12 tone low"
@@ -2263,6 +2435,18 @@
     "codepoint": "U+E262",
     "description": "Sharp"
   },
+  "accidentalSharp20Percent": {
+    "codepoint": "U+F755",
+    "description": "Tunisian 20 percent sharp"
+  },
+  "accidentalSharp30Percent": {
+    "codepoint": "U+F756",
+    "description": "Tunisian 30 percent sharp"
+  },
+  "accidentalSharp40Percent": {
+    "codepoint": "U+F757",
+    "description": "Tunisian 40 percent sharp"
+  },
   "accidentalSharpArabic": {
     "codepoint": "U+ED36",
     "description": "Arabic half-tone sharp"
@@ -2295,6 +2479,14 @@
     "codepoint": "U+F5F1",
     "description": "Sharp-up arrow-inverted seven"
   },
+  "accidentalSharpLowerComma": {
+    "codepoint": "U+F73C",
+    "description": "Sharp lowered by quarter syntonic comma"
+  },
+  "accidentalSharpLowerDot": {
+    "codepoint": "U+F746",
+    "description": "Sharp lowered by lesser diesis"
+  },
   "accidentalSharpLoweredStockhausen": {
     "codepoint": "U+ED57",
     "description": "Lowered sharp (Stockhausen)"
@@ -2314,6 +2506,14 @@
   "accidentalSharpParens": {
     "codepoint": "U+F5E2",
     "description": "Parenthesised sharp"
+  },
+  "accidentalSharpRaiseComma": {
+    "codepoint": "U+F741",
+    "description": "Sharp raised by quarter syntonic comma"
+  },
+  "accidentalSharpRaiseDot": {
+    "codepoint": "U+F74B",
+    "description": "Sharp raised by lesser diesis"
   },
   "accidentalSharpRaisedStockhausen": {
     "codepoint": "U+ED56",
@@ -2414,6 +2614,10 @@
   "accidentalThreeQuarterSharpEqualTempered": {
     "codepoint": "U+F623",
     "description": "Raise by three equal tempered quarter-tones"
+  },
+  "accidentalThreeQuarterToneSharpZimmermann": {
+    "codepoint": "U+E287",
+    "description": "Three quarter tones sharp (Zimmermann)"
   },
   "accidentalThreeQuarterTonesFlatArabic": {
     "codepoint": "U+ED31",
@@ -3296,6 +3500,10 @@
     "codepoint": "U+EB03",
     "description": "Accel./rit. beam terminating line"
   },
+  "behindBridgeStringClef": {
+    "codepoint": "U+F71D",
+    "description": "String clef behind bridge"
+  },
   "brace": {
     "codepoint": "U+E000",
     "description": "Brace"
@@ -3632,6 +3840,22 @@
     "codepoint": "U+E07F",
     "description": "Combining clef change"
   },
+  "clefCombining15maAltaSorabji": {
+    "codepoint": "U+ED72",
+    "description": "Combining clef quindicesima alta (Sorabji)"
+  },
+  "clefCombining15maBassaSorabji": {
+    "codepoint": "U+ED74",
+    "description": "Combining clef quindicesima bassa (Sorabji)"
+  },
+  "clefCombining8vaAltaSorabji": {
+    "codepoint": "U+ED71",
+    "description": "Combining clef ottava alta (Sorabji)"
+  },
+  "clefCombining8vaBassaSorabji": {
+    "codepoint": "U+ED73",
+    "description": "Combining clef ottava bassa (Sorabji)"
+  },
   "coda": {
     "codepoint": "U+E048",
     "description": "Coda"
@@ -3683,6 +3907,10 @@
   "conductorRightBeat": {
     "codepoint": "U+E892",
     "description": "Right-hand beat or cue"
+  },
+  "conductorSingleBeat": {
+    "codepoint": "U+E89B",
+    "description": "Single/short beat"
   },
   "conductorStrongBeat": {
     "codepoint": "U+E890",
@@ -5292,6 +5520,10 @@
     "codepoint": "U+F631",
     "description": "G clef ottava bassa with C clef change"
   },
+  "gClef8vbFrench": {
+    "codepoint": "U+F40E",
+    "description": "G clef ottava bassa (French style)"
+  },
   "gClef8vbOld": {
     "codepoint": "U+E055",
     "description": "G clef ottava bassa (old style)"
@@ -5331,6 +5563,10 @@
   "gClefTurned": {
     "codepoint": "U+E074",
     "description": "Turned G clef"
+  },
+  "generalPause": {
+    "codepoint": "U+E4D8",
+    "description": "General pause"
   },
   "graceNoteAcciaccaturaStemDown": {
     "codepoint": "U+E561",
@@ -8140,6 +8376,10 @@
     "codepoint": "U+E568",
     "description": "Inverted turn"
   },
+  "ornamentTurnInvertedSlash": {
+    "codepoint": "U+F723",
+    "description": "Inverted turn with slash"
+  },
   "ornamentTurnNaturalAbove": {
     "codepoint": "U+F5C3",
     "description": "Turn, natural above"
@@ -9004,6 +9244,10 @@
     "codepoint": "U+E7F7",
     "description": "Half-open 2 (Weinberg)"
   },
+  "pictHalfOpen3": {
+    "codepoint": "U+E80F",
+    "description": "Half-open 3 (Gould)"
+  },
   "pictHandbell": {
     "codepoint": "U+E715",
     "description": "Handbell"
@@ -9584,6 +9828,10 @@
     "codepoint": "U+E502",
     "description": "Repeat last four bars"
   },
+  "repeatAdLibChinese": {
+    "codepoint": "U+E04E",
+    "description": "Repeat ad libitum (Chinese)"
+  },
   "repeatBarLowerDot": {
     "codepoint": "U+E505",
     "description": "Repeat bar lower dot"
@@ -10123,6 +10371,10 @@
   "stockhausenTremolo": {
     "codepoint": "U+E232",
     "description": "Stockhausen irregular tremolo (\"Morsen\", like Morse code)"
+  },
+  "stringClef": {
+    "codepoint": "U+F71C",
+    "description": "String clef"
   },
   "stringsArco": {
     "codepoint": "U+F6A9",
@@ -11216,6 +11468,10 @@
     "codepoint": "U+EABB",
     "description": "Sawtooth line segment"
   },
+  "wiggleSawtoothDoubleWide": {
+    "codepoint": "U+F72D",
+    "description": "Double wide sawtooth line segment (2em)"
+  },
   "wiggleSawtoothNarrow": {
     "codepoint": "U+EABA",
     "description": "Narrow sawtooth line segment"
@@ -11223,6 +11479,18 @@
   "wiggleSawtoothNarrower": {
     "codepoint": "U+F6B7",
     "description": "Narrower sawtooth line segment"
+  },
+  "wiggleSawtoothQuadrupleWide": {
+    "codepoint": "U+F72F",
+    "description": "Quadruple wide sawtooth line segment (4em)"
+  },
+  "wiggleSawtoothTripleWide": {
+    "codepoint": "U+F72E",
+    "description": "Triple wide sawtooth line segment (3em)"
+  },
+  "wiggleSawtoothVeryWide": {
+    "codepoint": "U+F72C",
+    "description": "Very wide sawtooth line segment (1.5em)"
   },
   "wiggleSawtoothWide": {
     "codepoint": "U+EABC",
@@ -11236,6 +11504,10 @@
     "codepoint": "U+EAB8",
     "description": "Square wave line segment"
   },
+  "wiggleSquareWaveDoubleWide": {
+    "codepoint": "U+F729",
+    "description": "Double wide square wave line segment (2em)"
+  },
   "wiggleSquareWaveNarrow": {
     "codepoint": "U+EAB7",
     "description": "Narrow square wave line segment"
@@ -11243,6 +11515,18 @@
   "wiggleSquareWaveNarrower": {
     "codepoint": "U+F6B5",
     "description": "Narrower square wave line segment"
+  },
+  "wiggleSquareWaveQuadrupleWide": {
+    "codepoint": "U+F72B",
+    "description": "Quadruple wide square wave line segment (4em)"
+  },
+  "wiggleSquareWaveTripleWide": {
+    "codepoint": "U+F72A",
+    "description": "Triple wide square wave line segment (3em)"
+  },
+  "wiggleSquareWaveVeryWide": {
+    "codepoint": "U+F728",
+    "description": "Very wide square wave line segment (1.5em)"
   },
   "wiggleSquareWaveWide": {
     "codepoint": "U+EAB9",
@@ -11444,6 +11728,10 @@
     "codepoint": "U+EAB5",
     "description": "Wavy line segment"
   },
+  "wiggleWavyDoubleWide": {
+    "codepoint": "U+F725",
+    "description": "Double wide wavy line segment (2em)"
+  },
   "wiggleWavyNarrow": {
     "codepoint": "U+EAB4",
     "description": "Narrow wavy line segment"
@@ -11451,6 +11739,18 @@
   "wiggleWavyNarrower": {
     "codepoint": "U+F6B3",
     "description": "Narrower wavy line segment"
+  },
+  "wiggleWavyQuadrupleWide": {
+    "codepoint": "U+F727",
+    "description": "Quadruple wide wavy line segment (4em)"
+  },
+  "wiggleWavyTripleWide": {
+    "codepoint": "U+F726",
+    "description": "Triple wide wavy line segment (3em)"
+  },
+  "wiggleWavyVeryWide": {
+    "codepoint": "U+F724",
+    "description": "Very wide wavy line segment (1.5em)"
   },
   "wiggleWavyWide": {
     "codepoint": "U+EAB6",

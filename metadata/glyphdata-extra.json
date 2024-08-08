@@ -1,4 +1,46 @@
 {
+  "repeatAdLibChinese": {
+    "description": "Repeat ad libitum (Chinese)"
+  },
+
+  "accidentalQuarterToneSharpZimmermann": {
+    "description": "Quarter tone sharp (Zimmermann)"
+  },
+  "accidentalThreeQuarterToneSharpZimmermann": {
+    "description": "Three quarter tones sharp (Zimmermann)"
+  },
+  "accidentalQuarterToneSharpZimmermannAndSharp": {
+    "description": "Quarter tone sharp and sharp (Zimmermann)"
+  },
+
+  "generalPause": {
+    "description": "General pause"
+  },
+
+  "pictHalfOpen3": {
+    "description": "Half-open 3 (Gould)"
+  },
+
+  "conductorSingleBeat": {
+    "description": "Single/short beat"
+  },
+
+  "clefCombining8vaAltaSorabji": {
+    "description": "Combining clef ottava alta (Sorabji)"
+  },
+  "clefCombining15maAltaSorabji": {
+    "description": "Combining clef quindicesima alta (Sorabji)"
+  },
+  "clefCombining8vaBassaSorabji": {
+    "description": "Combining clef ottava bassa (Sorabji)"
+  },
+  "clefCombining15maBassaSorabji": {
+    "description": "Combining clef quindicesima bassa (Sorabji)"
+  },
+  "gClef8vbFrench": {
+    "description": "G clef ottava bassa (French style)"
+  },
+
   "wiggleVibratoMediumSlower": {
     "description": "Vibrato medium, slower"
   },
@@ -1350,6 +1392,13 @@
     "description": "Reversed brace twenty times the height"
   },
 
+  "stringClef": {
+    "description": "String clef"
+  },
+  "behindBridgeStringClef": {
+    "description": "String clef behind bridge"
+  },
+
   "noteHFlatWhole": {
     "description": "H flat (whole note)"
   },
@@ -1358,5 +1407,196 @@
   },
   "noteHFlatBlack": {
     "description": "H flat (black note)"
+  },
+
+  "ornamentTurnInvertedSlash": {
+    "description": "Inverted turn with slash"
+  },
+
+  "wiggleWavyVeryWide": {
+    "description": "Very wide wavy line segment (1.5em)"
+  },
+  "wiggleWavyDoubleWide": {
+    "description": "Double wide wavy line segment (2em)"
+  },
+  "wiggleWavyTripleWide": {
+    "description": "Triple wide wavy line segment (3em)"
+  },
+  "wiggleWavyQuadrupleWide": {
+    "description": "Quadruple wide wavy line segment (4em)"
+  },
+  "wiggleSquareWaveVeryWide": {
+    "description": "Very wide square wave line segment (1.5em)"
+  },
+  "wiggleSquareWaveDoubleWide": {
+    "description": "Double wide square wave line segment (2em)"
+  },
+  "wiggleSquareWaveTripleWide": {
+    "description": "Triple wide square wave line segment (3em)"
+  },
+  "wiggleSquareWaveQuadrupleWide": {
+    "description": "Quadruple wide square wave line segment (4em)"
+  },
+  "wiggleSawtoothVeryWide": {
+    "description": "Very wide sawtooth line segment (1.5em)"
+  },
+  "wiggleSawtoothDoubleWide": {
+    "description": "Double wide sawtooth line segment (2em)"
+  },
+  "wiggleSawtoothTripleWide": {
+    "description": "Triple wide sawtooth line segment (3em)"
+  },
+  "wiggleSawtoothQuadrupleWide": {
+    "description": "Quadruple wide sawtooth line segment (4em)"
+  },
+
+  "accidentalEnharmonicLower1Tilde": {
+    "description": "Enharmonically reinterpret accidental lower by one tilde"
+  },
+  "accidentalEnharmonicLower2Tildes": {
+    "description": "Enharmonically reinterpret accidental lower by two tildes"
+  },
+  "accidentalEnharmonicLower3Tildes": {
+    "description": "Enharmonically reinterpret accidental lower by three tildes"
+  },
+  "accidentalEnharmonicRaise1Tilde": {
+    "description": "Enharmonically reinterpret accidental raise by one tilde"
+  },
+  "accidentalEnharmonicRaise2Tildes": {
+    "description": "Enharmonically reinterpret accidental raise by two tildes"
+  },
+  "accidentalEnharmonicRaise3Tildes": {
+    "description": "Enharmonically reinterpret accidental raise by three tildes"
+  },
+
+  "accidentalCombiningLower2Strokes": {
+    "description": "Combining lower by two 19-limit schisma"
+  },
+  "accidentalCombiningRaise2Strokes": {
+    "description": "Combining raise by two 19-limit schisma"
+  },
+  "accidentalCombiningLower3Strokes": {
+    "description": "Combining lower by three 19-limit schisma"
+  },
+  "accidentalCombiningRaise3Strokes": {
+    "description": "Combining raise by three 19-limit schisma"
+  },
+
+  "accidentalFlatLowerComma": {
+    "description": "Flat lowered by quarter syntonic comma"
+  },
+  "accidentalNaturalLowerComma": {
+    "description": "Natural lowered by quarter syntonic comma"
+  },
+  "accidentalSharpLowerComma": {
+    "description": "Sharp lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpLowerComma": {
+    "description": "Double sharp lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatLowerComma": {
+    "description": "Double flat lowered by quarter syntonic comma"
+  },
+  "accidentalFlatRaiseComma": {
+    "description": "Flat raised by quarter syntonic comma"
+  },
+  "accidentalNaturalRaiseComma": {
+    "description": "Natural raised by quarter syntonic comma"
+  },
+  "accidentalSharpRaiseComma": {
+    "description": "Sharp raised by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpRaiseComma": {
+    "description": "Double sharp raised by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatRaiseComma": {
+    "description": "Double flat raised by quarter syntonic comma"
+  },
+  "accidentalFlatLowerDot": {
+    "description": "Flat lowered by lesser diesis"
+  },
+  "accidentalNaturalLowerDot": {
+    "description": "Natural lowered by lesser diesis"
+  },
+  "accidentalSharpLowerDot": {
+    "description": "Sharp lowered by lesser diesis"
+  },
+  "accidentalDoubleSharpLowerDot": {
+    "description": "Double sharp lowered by lesser diesis"
+  },
+  "accidentalDoubleFlatLowerDot": {
+    "description": "Double flat lowered by lesser diesis"
+  },
+  "accidentalFlatRaiseDot": {
+    "description": "Flat raised by lesser diesis"
+  },
+  "accidentalNaturalRaiseDot": {
+    "description": "Natural raised by lesser diesis"
+  },
+  "accidentalSharpRaiseDot": {
+    "description": "Sharp raised by lesser diesis"
+  },
+  "accidentalDoubleSharpRaiseDot": {
+    "description": "Double sharp raised by lesser diesis"
+  },
+  "accidentalDoubleFlatRaiseDot": {
+    "description": "Double flat raised by lesser diesis"
+  },
+
+  "accidentalCombiningOvertonal": {
+    "description": "Combining overtonal"
+  },
+  "accidentalCombiningOvertonalBold": {
+    "description": "Combining overtonal bold"
+  },
+  "accidentalCombiningUndertonal": {
+    "description": "Combining undertonal"
+  },
+  "accidentalCombiningUndertonalBold": {
+    "description": "Combining undertonal bold"
+  },
+
+  "accidentalFlat20Percent": {
+    "description": "Tunisian 20 percent flat"
+  },
+  "accidentalFlat30Percent": {
+    "description": "Tunisian 30 percent flat"
+  },
+  "accidentalFlat40Percent": {
+    "description": "Tunisian 40 percent flat"
+  },
+  "accidentalSharp20Percent": {
+    "description": "Tunisian 20 percent sharp"
+  },
+  "accidentalSharp30Percent": {
+    "description": "Tunisian 30 percent sharp"
+  },
+  "accidentalSharp40Percent": {
+    "description": "Tunisian 40 percent sharp"
+  },
+
+  "accidentalOpenMusic1by16Sharp": {
+    "description": "1/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic3by16Sharp": {
+    "description": "3/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic5by16Sharp": {
+    "description": "5/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic7by16Sharp": {
+    "description": "7/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic9by16Sharp": {
+    "description": "9/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic11by16Sharp": {
+    "description": "11/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic13by16Sharp": {
+    "description": "13/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic15by16Sharp": {
+    "description": "15/16 tone high (OpenMusic)"
   }
 }

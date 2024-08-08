@@ -3764,6 +3764,17 @@
     "codepoint": "U+EE50",
     "description": "Combining lower by one 29-limit comma"
   },
+  "accidentalCombiningLower2Strokes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63286,
+    "codepoint": "U+F736",
+    "description": "Combining lower by two 19-limit schisma"
+  },
   "accidentalCombiningLower31Schisma": {
     "block": "E000",
     "classes": [
@@ -3783,6 +3794,17 @@
     "code": 61010,
     "codepoint": "U+EE52",
     "description": "Combining lower by one 37-limit quartertone"
+  },
+  "accidentalCombiningLower3Strokes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63288,
+    "codepoint": "U+F738",
+    "description": "Combining lower by three 19-limit schisma"
   },
   "accidentalCombiningLower41Comma": {
     "block": "E000",
@@ -3832,6 +3854,28 @@
     "codepoint": "U+E2EE",
     "description": "Combining open curly brace"
   },
+  "accidentalCombiningOvertonal": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63310,
+    "codepoint": "U+F74E",
+    "description": "Combining overtonal"
+  },
+  "accidentalCombiningOvertonalBold": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63311,
+    "codepoint": "U+F74F",
+    "description": "Combining overtonal bold"
+  },
   "accidentalCombiningRaise17Schisma": {
     "block": "E000",
     "classes": [
@@ -3874,6 +3918,17 @@
     "codepoint": "U+EE51",
     "description": "Combining raise by one 29-limit comma"
   },
+  "accidentalCombiningRaise2Strokes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63287,
+    "codepoint": "U+F737",
+    "description": "Combining raise by two 19-limit schisma"
+  },
   "accidentalCombiningRaise31Schisma": {
     "block": "E000",
     "classes": [
@@ -3893,6 +3948,17 @@
     "code": 61011,
     "codepoint": "U+EE53",
     "description": "Combining raise by one 37-limit quartertone"
+  },
+  "accidentalCombiningRaise3Strokes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63289,
+    "codepoint": "U+F739",
+    "description": "Combining raise by three 19-limit schisma"
   },
   "accidentalCombiningRaise41Comma": {
     "block": "E000",
@@ -3930,6 +3996,28 @@
     "code": 58104,
     "codepoint": "U+E2F8",
     "description": "Combining raise by one 53-limit comma"
+  },
+  "accidentalCombiningUndertonal": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63312,
+    "codepoint": "U+F750",
+    "description": "Combining undertonal"
+  },
+  "accidentalCombiningUndertonalBold": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63313,
+    "codepoint": "U+F751",
+    "description": "Combining undertonal bold"
   },
   "accidentalCommaSlashDown": {
     "block": "E000",
@@ -4010,6 +4098,28 @@
     "codepoint": "U+F4A1",
     "description": "Double flat (joined stems)"
   },
+  "accidentalDoubleFlatLowerComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63294,
+    "codepoint": "U+F73E",
+    "description": "Double flat lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatLowerDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63304,
+    "codepoint": "U+F748",
+    "description": "Double flat lowered by lesser diesis"
+  },
   "accidentalDoubleFlatOneArrowDown": {
     "block": "E000",
     "classes": [
@@ -4047,6 +4157,28 @@
       "accidentalDoubleFlat",
       "accidentalParensRight"
     ]
+  },
+  "accidentalDoubleFlatRaiseComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63299,
+    "codepoint": "U+F743",
+    "description": "Double flat raised by quarter syntonic comma"
+  },
+  "accidentalDoubleFlatRaiseDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63309,
+    "codepoint": "U+F74D",
+    "description": "Double flat raised by lesser diesis"
   },
   "accidentalDoubleFlatReversed": {
     "block": "E000",
@@ -4158,6 +4290,28 @@
     "codepoint": "U+E2F4",
     "description": "Double sharp equal tempered semitone"
   },
+  "accidentalDoubleSharpLowerComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63293,
+    "codepoint": "U+F73D",
+    "description": "Double sharp lowered by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpLowerDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63303,
+    "codepoint": "U+F747",
+    "description": "Double sharp lowered by lesser diesis"
+  },
   "accidentalDoubleSharpOneArrowDown": {
     "block": "E000",
     "classes": [
@@ -4195,6 +4349,28 @@
       "accidentalDoubleSharp",
       "accidentalParensRight"
     ]
+  },
+  "accidentalDoubleSharpRaiseComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63298,
+    "codepoint": "U+F742",
+    "description": "Double sharp raised by quarter syntonic comma"
+  },
+  "accidentalDoubleSharpRaiseDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63308,
+    "codepoint": "U+F74C",
+    "description": "Double sharp raised by lesser diesis"
   },
   "accidentalDoubleSharpThreeArrowsDown": {
     "block": "E000",
@@ -4259,6 +4435,72 @@
     "code": 58107,
     "codepoint": "U+E2FB",
     "description": "Enharmonically reinterpret accidental equals"
+  },
+  "accidentalEnharmonicLower1Tilde": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63280,
+    "codepoint": "U+F730",
+    "description": "Enharmonically reinterpret accidental lower by one tilde"
+  },
+  "accidentalEnharmonicLower2Tildes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63281,
+    "codepoint": "U+F731",
+    "description": "Enharmonically reinterpret accidental lower by two tildes"
+  },
+  "accidentalEnharmonicLower3Tildes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63282,
+    "codepoint": "U+F732",
+    "description": "Enharmonically reinterpret accidental lower by three tildes"
+  },
+  "accidentalEnharmonicRaise1Tilde": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63283,
+    "codepoint": "U+F733",
+    "description": "Enharmonically reinterpret accidental raise by one tilde"
+  },
+  "accidentalEnharmonicRaise2Tildes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63284,
+    "codepoint": "U+F734",
+    "description": "Enharmonically reinterpret accidental raise by two tildes"
+  },
+  "accidentalEnharmonicRaise3Tildes": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63285,
+    "codepoint": "U+F735",
+    "description": "Enharmonically reinterpret accidental raise by three tildes"
   },
   "accidentalEnharmonicTilde": {
     "block": "E000",
@@ -4365,6 +4607,39 @@
     "description": "Flat",
     "ekmelib": true,
     "ekmelily": true
+  },
+  "accidentalFlat20Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63314,
+    "codepoint": "U+F752",
+    "description": "Tunisian 20 percent flat"
+  },
+  "accidentalFlat30Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63315,
+    "codepoint": "U+F753",
+    "description": "Tunisian 30 percent flat"
+  },
+  "accidentalFlat40Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63316,
+    "codepoint": "U+F754",
+    "description": "Tunisian 40 percent flat"
   },
   "accidentalFlatArabic": {
     "block": "E000",
@@ -4486,6 +4761,28 @@
     "codepoint": "U+F674",
     "description": "Flat koron (inverted koron) (three-quarter-tones flat)"
   },
+  "accidentalFlatLowerComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63290,
+    "codepoint": "U+F73A",
+    "description": "Flat lowered by quarter syntonic comma"
+  },
+  "accidentalFlatLowerDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63300,
+    "codepoint": "U+F744",
+    "description": "Flat lowered by lesser diesis"
+  },
   "accidentalFlatLoweredStockhausen": {
     "block": "E000",
     "classes": [
@@ -4533,6 +4830,28 @@
       "accidentalFlat",
       "accidentalParensRight"
     ]
+  },
+  "accidentalFlatRaiseComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63295,
+    "codepoint": "U+F73F",
+    "description": "Flat raised by quarter syntonic comma"
+  },
+  "accidentalFlatRaiseDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63305,
+    "codepoint": "U+F749",
+    "description": "Flat raised by lesser diesis"
   },
   "accidentalFlatRaisedStockhausen": {
     "block": "E000",
@@ -5569,6 +5888,28 @@
     "codepoint": "U+E267",
     "description": "Natural flat"
   },
+  "accidentalNaturalLowerComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63291,
+    "codepoint": "U+F73B",
+    "description": "Natural lowered by quarter syntonic comma"
+  },
+  "accidentalNaturalLowerDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63301,
+    "codepoint": "U+F745",
+    "description": "Natural lowered by lesser diesis"
+  },
   "accidentalNaturalLoweredStockhausen": {
     "block": "E000",
     "classes": [
@@ -5616,6 +5957,28 @@
       "accidentalNatural",
       "accidentalParensRight"
     ]
+  },
+  "accidentalNaturalRaiseComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63296,
+    "codepoint": "U+F740",
+    "description": "Natural raised by quarter syntonic comma"
+  },
+  "accidentalNaturalRaiseDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63306,
+    "codepoint": "U+F74A",
+    "description": "Natural raised by lesser diesis"
   },
   "accidentalNaturalRaisedStockhausen": {
     "block": "E000",
@@ -5788,6 +6151,94 @@
     "codepoint": "U+E48A",
     "description": "One-third-tone sharp (Ferneyhough)",
     "ekmelily": true
+  },
+  "accidentalOpenMusic11by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63325,
+    "codepoint": "U+F75D",
+    "description": "11/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic13by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63326,
+    "codepoint": "U+F75E",
+    "description": "13/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic15by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63327,
+    "codepoint": "U+F75F",
+    "description": "15/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic1by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63320,
+    "codepoint": "U+F758",
+    "description": "1/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic3by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63321,
+    "codepoint": "U+F759",
+    "description": "3/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic5by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63322,
+    "codepoint": "U+F75A",
+    "description": "5/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic7by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63323,
+    "codepoint": "U+F75B",
+    "description": "7/16 tone high (OpenMusic)"
+  },
+  "accidentalOpenMusic9by16Sharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsOpenMusic",
+      "combiningStaffPositions"
+    ],
+    "code": 63324,
+    "codepoint": "U+F75C",
+    "description": "9/16 tone high (OpenMusic)"
   },
   "accidentalParensLeft": {
     "block": "E000",
@@ -6049,6 +6500,28 @@
     "codepoint": "U+E475",
     "description": "Quarter tone sharp with wiggly tail"
   },
+  "accidentalQuarterToneSharpZimmermann": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 57990,
+    "codepoint": "U+E286",
+    "description": "Quarter tone sharp (Zimmermann)"
+  },
+  "accidentalQuarterToneSharpZimmermannAndSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 57992,
+    "codepoint": "U+E288",
+    "description": "Quarter tone sharp and sharp (Zimmermann)"
+  },
   "accidentalRHM12Down": {
     "block": "F400",
     "classes": [
@@ -6282,6 +6755,39 @@
     "ekmelib": true,
     "ekmelily": true
   },
+  "accidentalSharp20Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63317,
+    "codepoint": "U+F755",
+    "description": "Tunisian 20 percent sharp"
+  },
+  "accidentalSharp30Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63318,
+    "codepoint": "U+F756",
+    "description": "Tunisian 30 percent sharp"
+  },
+  "accidentalSharp40Percent": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsTunisian",
+      "combiningStaffPositions"
+    ],
+    "code": 63319,
+    "codepoint": "U+F757",
+    "description": "Tunisian 40 percent sharp"
+  },
   "accidentalSharpArabic": {
     "block": "E000",
     "classes": [
@@ -6391,6 +6897,28 @@
       "accidentalJohnstonEl"
     ]
   },
+  "accidentalSharpLowerComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63292,
+    "codepoint": "U+F73C",
+    "description": "Sharp lowered by quarter syntonic comma"
+  },
+  "accidentalSharpLowerDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63302,
+    "codepoint": "U+F746",
+    "description": "Sharp lowered by lesser diesis"
+  },
   "accidentalSharpLoweredStockhausen": {
     "block": "E000",
     "classes": [
@@ -6448,6 +6976,28 @@
       "accidentalSharp",
       "accidentalParensRight"
     ]
+  },
+  "accidentalSharpRaiseComma": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63297,
+    "codepoint": "U+F741",
+    "description": "Sharp raised by quarter syntonic comma"
+  },
+  "accidentalSharpRaiseDot": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsHelmholtzEllis",
+      "combiningStaffPositions"
+    ],
+    "code": 63307,
+    "codepoint": "U+F74B",
+    "description": "Sharp raised by lesser diesis"
   },
   "accidentalSharpRaisedStockhausen": {
     "block": "E000",
@@ -6744,6 +7294,17 @@
     "code": 63011,
     "codepoint": "U+F623",
     "description": "Raise by three equal tempered quarter-tones"
+  },
+  "accidentalThreeQuarterToneSharpZimmermann": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 57991,
+    "codepoint": "U+E287",
+    "description": "Three quarter tones sharp (Zimmermann)"
   },
   "accidentalThreeQuarterTonesFlatArabic": {
     "block": "E000",
@@ -9000,6 +9561,15 @@
     "codepoint": "U+EB03",
     "description": "Accel./rit. beam terminating line"
   },
+  "behindBridgeStringClef": {
+    "block": "F400",
+    "classes": [
+      "clefs"
+    ],
+    "code": 63261,
+    "codepoint": "U+F71D",
+    "description": "String clef behind bridge"
+  },
   "brace": {
     "alternateCodepoint": "U+1D114",
     "block": "E000",
@@ -9729,6 +10299,42 @@
     "codepoint": "U+E07F",
     "description": "Combining clef change"
   },
+  "clefCombining15maAltaSorabji": {
+    "block": "E000",
+    "classes": [
+      "clefs"
+    ],
+    "code": 60786,
+    "codepoint": "U+ED72",
+    "description": "Combining clef quindicesima alta (Sorabji)"
+  },
+  "clefCombining15maBassaSorabji": {
+    "block": "E000",
+    "classes": [
+      "clefs"
+    ],
+    "code": 60788,
+    "codepoint": "U+ED74",
+    "description": "Combining clef quindicesima bassa (Sorabji)"
+  },
+  "clefCombining8vaAltaSorabji": {
+    "block": "E000",
+    "classes": [
+      "clefs"
+    ],
+    "code": 60785,
+    "codepoint": "U+ED71",
+    "description": "Combining clef ottava alta (Sorabji)"
+  },
+  "clefCombining8vaBassaSorabji": {
+    "block": "E000",
+    "classes": [
+      "clefs"
+    ],
+    "code": 60787,
+    "codepoint": "U+ED73",
+    "description": "Combining clef ottava bassa (Sorabji)"
+  },
   "coda": {
     "alternateCodepoint": "U+1D10C",
     "alternates": [
@@ -9831,6 +10437,13 @@
     "code": 59538,
     "codepoint": "U+E892",
     "description": "Right-hand beat or cue"
+  },
+  "conductorSingleBeat": {
+    "block": "E000",
+    "classes": [],
+    "code": 59547,
+    "codepoint": "U+E89B",
+    "description": "Single/short beat"
   },
   "conductorStrongBeat": {
     "block": "E000",
@@ -13543,6 +14156,12 @@
   },
   "gClef8vb": {
     "alternateCodepoint": "U+1D120",
+    "alternates": [
+      {
+        "codepoint": "U+F40E",
+        "name": "gClef8vbFrench"
+      }
+    ],
     "block": "E000",
     "classes": [
       "clefs",
@@ -13575,6 +14194,16 @@
       "clefChangeCombining",
       "gClef8vbCClef"
     ]
+  },
+  "gClef8vbFrench": {
+    "alternateOf": "gClef8vb",
+    "block": "F400",
+    "classes": [
+      "clefs"
+    ],
+    "code": 62478,
+    "codepoint": "U+F40E",
+    "description": "G clef ottava bassa (French style)"
   },
   "gClef8vbOld": {
     "block": "E000",
@@ -13682,6 +14311,16 @@
     "code": 57460,
     "codepoint": "U+E074",
     "description": "Turned G clef"
+  },
+  "generalPause": {
+    "block": "E000",
+    "classes": [
+      "pauses",
+      "combiningStaffPositions"
+    ],
+    "code": 58584,
+    "codepoint": "U+E4D8",
+    "description": "General pause"
   },
   "graceNoteAcciaccaturaStemDown": {
     "block": "E000",
@@ -20501,6 +21140,16 @@
     "codepoint": "U+E568",
     "description": "Inverted turn"
   },
+  "ornamentTurnInvertedSlash": {
+    "block": "F400",
+    "classes": [
+      "ornaments",
+      "tf_ornaments"
+    ],
+    "code": 63267,
+    "codepoint": "U+F723",
+    "description": "Inverted turn with slash"
+  },
   "ornamentTurnNaturalAbove": {
     "block": "F400",
     "classes": [
@@ -22506,6 +23155,15 @@
     "codepoint": "U+E7F7",
     "description": "Half-open 2 (Weinberg)"
   },
+  "pictHalfOpen3": {
+    "block": "E000",
+    "classes": [
+      "tf_pictograms"
+    ],
+    "code": 59407,
+    "codepoint": "U+E80F",
+    "description": "Half-open 3 (Gould)"
+  },
   "pictHandbell": {
     "block": "E000",
     "classes": [
@@ -23928,6 +24586,15 @@
     "codepoint": "U+E502",
     "description": "Repeat last four bars"
   },
+  "repeatAdLibChinese": {
+    "block": "E000",
+    "classes": [
+      "forTextBasedApplications"
+    ],
+    "code": 57422,
+    "codepoint": "U+E04E",
+    "description": "Repeat ad libitum (Chinese)"
+  },
   "repeatBarLowerDot": {
     "block": "E000",
     "classes": [],
@@ -25185,6 +25852,15 @@
     "code": 57906,
     "codepoint": "U+E232",
     "description": "Stockhausen irregular tremolo (\"Morsen\", like Morse code)"
+  },
+  "stringClef": {
+    "block": "F400",
+    "classes": [
+      "clefs"
+    ],
+    "code": 63260,
+    "codepoint": "U+F71C",
+    "description": "String clef"
   },
   "stringsArco": {
     "block": "F400",
@@ -32528,6 +33204,15 @@
     "codepoint": "U+EABB",
     "description": "Sawtooth line segment"
   },
+  "wiggleSawtoothDoubleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63277,
+    "codepoint": "U+F72D",
+    "description": "Double wide sawtooth line segment (2em)"
+  },
   "wiggleSawtoothNarrow": {
     "block": "E000",
     "classes": [],
@@ -32543,6 +33228,33 @@
     "code": 63159,
     "codepoint": "U+F6B7",
     "description": "Narrower sawtooth line segment"
+  },
+  "wiggleSawtoothQuadrupleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63279,
+    "codepoint": "U+F72F",
+    "description": "Quadruple wide sawtooth line segment (4em)"
+  },
+  "wiggleSawtoothTripleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63278,
+    "codepoint": "U+F72E",
+    "description": "Triple wide sawtooth line segment (3em)"
+  },
+  "wiggleSawtoothVeryWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63276,
+    "codepoint": "U+F72C",
+    "description": "Very wide sawtooth line segment (1.5em)"
   },
   "wiggleSawtoothWide": {
     "block": "E000",
@@ -32569,6 +33281,15 @@
     "codepoint": "U+EAB8",
     "description": "Square wave line segment"
   },
+  "wiggleSquareWaveDoubleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63273,
+    "codepoint": "U+F729",
+    "description": "Double wide square wave line segment (2em)"
+  },
   "wiggleSquareWaveNarrow": {
     "block": "E000",
     "classes": [],
@@ -32584,6 +33305,33 @@
     "code": 63157,
     "codepoint": "U+F6B5",
     "description": "Narrower square wave line segment"
+  },
+  "wiggleSquareWaveQuadrupleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63275,
+    "codepoint": "U+F72B",
+    "description": "Quadruple wide square wave line segment (4em)"
+  },
+  "wiggleSquareWaveTripleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63274,
+    "codepoint": "U+F72A",
+    "description": "Triple wide square wave line segment (3em)"
+  },
+  "wiggleSquareWaveVeryWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63272,
+    "codepoint": "U+F728",
+    "description": "Very wide square wave line segment (1.5em)"
   },
   "wiggleSquareWaveWide": {
     "block": "E000",
@@ -33074,6 +33822,15 @@
     "codepoint": "U+EAB5",
     "description": "Wavy line segment"
   },
+  "wiggleWavyDoubleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63269,
+    "codepoint": "U+F725",
+    "description": "Double wide wavy line segment (2em)"
+  },
   "wiggleWavyNarrow": {
     "block": "E000",
     "classes": [],
@@ -33089,6 +33846,33 @@
     "code": 63155,
     "codepoint": "U+F6B3",
     "description": "Narrower wavy line segment"
+  },
+  "wiggleWavyQuadrupleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63271,
+    "codepoint": "U+F727",
+    "description": "Quadruple wide wavy line segment (4em)"
+  },
+  "wiggleWavyTripleWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63270,
+    "codepoint": "U+F726",
+    "description": "Triple wide wavy line segment (3em)"
+  },
+  "wiggleWavyVeryWide": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63268,
+    "codepoint": "U+F724",
+    "description": "Very wide wavy line segment (1.5em)"
   },
   "wiggleWavyWide": {
     "block": "E000",
