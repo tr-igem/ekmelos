@@ -1392,3 +1392,43 @@ Version 2.55 (31 May 2024):
   asterisk (U+002A), plus (U+002B), hyphen (U+002D).
 - Lengthened large accent:
   articAccentAboveLarge (U+F42A) - articAccentBelowLarge (U+F42B).
+
+Version 2.56 (7 August 2024):
+- Added repeat ad lib. sign:
+  repeatAdLibChinese (U+E04E).
+- Added Zimmermann sharp accidentals:
+  accidentalQuarterToneSharpZimmermann (U+E286) -
+  accidentalQuarterToneSharpZimmermannAndSharp (U+E288).
+- Added pause G.P. sign:
+  generalPause (U+E4D8).
+- Added half-open hi-hat pictogram:
+  pictHalfOpen3 (U+E80F).
+- Added single/short beat conductor symbol:
+  conductorSingleBeat (U+E89B).
+- Enlarged some conductor symbols:
+  conductorBeat2Simple (U+E894) - conductorBeat4Compound (U+E899).
+- Added combining octave indicators for clefs:
+  clefCombining8vaAltaSorabji (U+ED71) - clefCombining15maBassaSorabji (U+ED74).
+- Added string clefs:
+  stringClef (U+F71C) - behindBridgeStringClef (U+F71D).
+- Added stylistic alternate of G clef:
+  gClef8vbFrench (U+F40E).
+- Added inverted turn with slash:
+  ornamentTurnInvertedSlash (U+F723).
+- Added wide multi-segment wiggle lines:
+  wiggleWavyVeryWide (U+F724) - wiggleWavyQuadrupleWide (U+F727),
+  wiggleSquareWaveVeryWide (U+F728) - wiggleSquareWaveQuadrupleWide (U+F72B),
+  wiggleSawtoothVeryWide (U+F72C) - wiggleSawtoothQuadrupleWide (U+F72F).
+- Added extended Helmholtz-Ellis accidentals supplement:
+  accidentalEnharmonicLower1Tilde (U+F730) - accidentalEnharmonicRaise3Tildes (U+F735),
+  accidentalCombiningLower2Strokes (U+F736) - accidentalCombiningRaise3Strokes (U+F739),
+  accidentalFlatLowerComma (U+F73A) - accidentalDoubleFlatRaiseDot (U+F74D),
+  accidentalCombiningOvertonal (U+F74E) - accidentalCombiningUndertonalBold (U+F751).
+- Added Tunisian accidentals:
+  accidentalFlat20Percent (U+F752) - accidentalSharp40Percent (U+F757).
+- Added OpenMusic accidentals for 96-EDO:
+  accidentalOpenMusic1by16Sharp (U+F758) - accidentalOpenMusic15by16Sharp (U+F75F).
+- Enlarged grace note slash:
+  graceNoteSlashStemUp (U+E564) - graceNoteSlashStemDown (U+E565).
+- Changed shape of 20em brace for lengthening in Esmuflily:
+  brace200 (U+F71A) - reversedBrace200 (U+F71B).
