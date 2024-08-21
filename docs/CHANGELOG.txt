@@ -1432,3 +1432,18 @@ Version 2.56 (7 August 2024):
   graceNoteSlashStemUp (U+E564) - graceNoteSlashStemDown (U+E565).
 - Changed shape of 20em brace for lengthening in Esmuflily:
   brace200 (U+F71A) - reversedBrace200 (U+F71B).
+
+Version 2.57 (21 August 2024):
+- Added OpenMusic accidentals for 72-EDO:
+  accidentalOpenMusicNatural (U+F760) - accidentalOpenMusic11by12 (U+F76B).
+- Changed glyph names of OpenMusic accidentals for 96-EDO:
+  accidentalOpenMusic1by16 (U+F758) - accidentalOpenMusic15by16 (U+F75F).
+- Enlarged space in ligatures of extended Helmholtz-Ellis strokes:
+  accidentalCombiningLower2Strokes (U+F736) - accidentalCombiningRaise3Strokes (U+F739).
+- Enlarged thickness of conductorSingleBeat (U+E89B).
+- Changed slightly ligatures of the Dynamics letters "fp" and "fz":
+  dynamicFortePiano (U+E534), dynamicForzando (U+E535),
+  dynamicSforzandoPiano (U+E537), dynamicSforzandoPianissimo (U+E538),
+  dynamicSforzato (U+E539), dynamicSforzatoPiano (U+E53A),
+  dynamicSforzatoFF (U+E53B), dynamicRinforzando2 (U+E53D),
+  dynamicSforzatoFFF (U+F6F4), dynamicSforzatoFFFF (U+F6F5).
