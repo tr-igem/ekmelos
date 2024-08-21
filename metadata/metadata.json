@@ -34,7 +34,7 @@
     "tupletBracketThickness": 0.16
   },
   "fontName": "Ekmelos",
-  "fontVersion": "2.56",
+  "fontVersion": "2.57",
   "glyphBBoxes": {
     "4stringTabClef": {
       "bBoxNE": [
@@ -3558,7 +3558,7 @@
     },
     "accidentalCombiningLower2Strokes": {
       "bBoxNE": [
-        1.832,
+        1.88,
         0.548
       ],
       "bBoxSW": [
@@ -3588,7 +3588,7 @@
     },
     "accidentalCombiningLower3Strokes": {
       "bBoxNE": [
-        2.588,
+        2.68,
         0.548
       ],
       "bBoxSW": [
@@ -3708,7 +3708,7 @@
     },
     "accidentalCombiningRaise2Strokes": {
       "bBoxNE": [
-        1.832,
+        1.88,
         0.548
       ],
       "bBoxSW": [
@@ -3738,7 +3738,7 @@
     },
     "accidentalCombiningRaise3Strokes": {
       "bBoxNE": [
-        2.588,
+        2.68,
         0.548
       ],
       "bBoxSW": [
@@ -5606,7 +5606,27 @@
         -0.636
       ]
     },
-    "accidentalOpenMusic11by16Sharp": {
+    "accidentalOpenMusic10by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic11by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic11by16": {
       "bBoxNE": [
         1.312,
         2.3
@@ -5616,7 +5636,7 @@
         -1.5
       ]
     },
-    "accidentalOpenMusic13by16Sharp": {
+    "accidentalOpenMusic13by16": {
       "bBoxNE": [
         1.6,
         2.3
@@ -5626,7 +5646,7 @@
         -1.552
       ]
     },
-    "accidentalOpenMusic15by16Sharp": {
+    "accidentalOpenMusic15by16": {
       "bBoxNE": [
         1.6,
         2.3
@@ -5636,7 +5656,17 @@
         -1.552
       ]
     },
-    "accidentalOpenMusic1by16Sharp": {
+    "accidentalOpenMusic1by12": {
+      "bBoxNE": [
+        1.04,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic1by16": {
       "bBoxNE": [
         0.72,
         2.0
@@ -5646,7 +5676,27 @@
         -1.528
       ]
     },
-    "accidentalOpenMusic3by16Sharp": {
+    "accidentalOpenMusic2by12": {
+      "bBoxNE": [
+        1.04,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic3by12": {
+      "bBoxNE": [
+        1.04,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic3by16": {
       "bBoxNE": [
         1.14,
         2.0
@@ -5656,7 +5706,27 @@
         -1.528
       ]
     },
-    "accidentalOpenMusic5by16Sharp": {
+    "accidentalOpenMusic4by12": {
+      "bBoxNE": [
+        1.4,
+        1.412
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic5by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic5by16": {
       "bBoxNE": [
         0.952,
         2.1
@@ -5666,7 +5736,27 @@
         -1.412
       ]
     },
-    "accidentalOpenMusic7by16Sharp": {
+    "accidentalOpenMusic6by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic7by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic7by16": {
       "bBoxNE": [
         1.04,
         2.1
@@ -5676,7 +5766,27 @@
         -1.412
       ]
     },
-    "accidentalOpenMusic9by16Sharp": {
+    "accidentalOpenMusic8by12": {
+      "bBoxNE": [
+        1.4,
+        1.412
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic9by12": {
+      "bBoxNE": [
+        1.4,
+        1.496
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
+      ]
+    },
+    "accidentalOpenMusic9by16": {
       "bBoxNE": [
         1.312,
         2.3
@@ -5684,6 +5794,16 @@
       "bBoxSW": [
         0.0,
         -1.5
+      ]
+    },
+    "accidentalOpenMusicNatural": {
+      "bBoxNE": [
+        1.04,
+        1.412
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.412
       ]
     },
     "accidentalParensLeft": {
@@ -9808,7 +9928,7 @@
     },
     "conductorSingleBeat": {
       "bBoxNE": [
-        0.32,
+        0.4,
         2.48
       ],
       "bBoxSW": [
@@ -24608,7 +24728,7 @@
     },
     "repeatAdLibChinese": {
       "bBoxNE": [
-        4.0,
+        3.84,
         0.76
       ],
       "bBoxSW": [
@@ -30708,7 +30828,7 @@
     },
     "u1F5DA": {
       "bBoxNE": [
-        2.0,
+        2.08,
         1.6
       ],
       "bBoxSW": [
@@ -30718,7 +30838,7 @@
     },
     "u1F5DB": {
       "bBoxNE": [
-        2.0,
+        2.08,
         1.6
       ],
       "bBoxSW": [
@@ -35469,7 +35589,7 @@
     "wiggleCircular": {
       "bBoxNE": [
         1.744,
-        1.82
+        1.896
       ],
       "bBoxSW": [
         -0.36,
@@ -35569,7 +35689,7 @@
     "wiggleCircularSmall": {
       "bBoxNE": [
         1.264,
-        1.64
+        1.704
       ],
       "bBoxSW": [
         -0.36,
@@ -40058,7 +40178,7 @@
     },
     "accidentalCombiningLower2Strokes": {
       "cutOutNE": [
-        1.396,
+        1.444,
         0.744
       ],
       "cutOutSW": [
@@ -40088,7 +40208,7 @@
     },
     "accidentalCombiningLower3Strokes": {
       "cutOutNE": [
-        2.152,
+        2.244,
         0.744
       ],
       "cutOutSW": [
@@ -40194,7 +40314,7 @@
         0.744
       ],
       "cutOutSE": [
-        1.396,
+        1.444,
         0.352
       ]
     },
@@ -40232,7 +40352,7 @@
         0.744
       ],
       "cutOutSE": [
-        2.152,
+        2.244,
         0.352
       ]
     },
@@ -42396,7 +42516,27 @@
         2.164
       ]
     },
-    "accidentalOpenMusic11by16Sharp": {
+    "accidentalOpenMusic10by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.364,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic11by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.364,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic11by16": {
       "cutOutNE": [
         1.124,
         3.476
@@ -42414,7 +42554,7 @@
         0.54
       ]
     },
-    "accidentalOpenMusic13by16Sharp": {
+    "accidentalOpenMusic13by16": {
       "cutOutNE": [
         1.412,
         3.528
@@ -42432,7 +42572,7 @@
         0.524
       ]
     },
-    "accidentalOpenMusic15by16Sharp": {
+    "accidentalOpenMusic15by16": {
       "cutOutNE": [
         1.412,
         3.528
@@ -42450,7 +42590,17 @@
         0.524
       ]
     },
-    "accidentalOpenMusic1by16Sharp": {
+    "accidentalOpenMusic1by12": {
+      "cutOutNE": [
+        0.852,
+        2.584
+      ],
+      "cutOutNW": [
+        0.384,
+        0.812
+      ]
+    },
+    "accidentalOpenMusic1by16": {
       "cutOutNE": [
         0.464,
         3.156
@@ -42460,7 +42610,27 @@
         0.616
       ]
     },
-    "accidentalOpenMusic3by16Sharp": {
+    "accidentalOpenMusic2by12": {
+      "cutOutNE": [
+        0.852,
+        2.584
+      ],
+      "cutOutNW": [
+        0.188,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic3by12": {
+      "cutOutNE": [
+        0.852,
+        2.584
+      ],
+      "cutOutNW": [
+        0.188,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic3by16": {
       "cutOutNE": [
         0.884,
         3.156
@@ -42474,7 +42644,27 @@
         2.612
       ]
     },
-    "accidentalOpenMusic5by16Sharp": {
+    "accidentalOpenMusic4by12": {
+      "cutOutNE": [
+        0.832,
+        1.68
+      ],
+      "cutOutNW": [
+        0.564,
+        1.608
+      ]
+    },
+    "accidentalOpenMusic5by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.564,
+        1.616
+      ]
+    },
+    "accidentalOpenMusic5by16": {
       "cutOutNE": [
         0.764,
         3.188
@@ -42492,7 +42682,27 @@
         0.496
       ]
     },
-    "accidentalOpenMusic7by16Sharp": {
+    "accidentalOpenMusic6by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.364,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic7by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.364,
+        2.584
+      ]
+    },
+    "accidentalOpenMusic7by16": {
       "cutOutNE": [
         0.852,
         3.188
@@ -42510,7 +42720,27 @@
         0.496
       ]
     },
-    "accidentalOpenMusic9by16Sharp": {
+    "accidentalOpenMusic8by12": {
+      "cutOutNE": [
+        0.832,
+        1.968
+      ],
+      "cutOutNW": [
+        0.564,
+        1.896
+      ]
+    },
+    "accidentalOpenMusic9by12": {
+      "cutOutNE": [
+        1.036,
+        2.584
+      ],
+      "cutOutNW": [
+        0.564,
+        1.896
+      ]
+    },
+    "accidentalOpenMusic9by16": {
       "cutOutNE": [
         1.124,
         3.476
@@ -42526,6 +42756,16 @@
       "cutOutSW": [
         0.176,
         0.54
+      ]
+    },
+    "accidentalOpenMusicNatural": {
+      "cutOutNE": [
+        0.652,
+        0.808
+      ],
+      "cutOutNW": [
+        0.384,
+        0.808
       ]
     },
     "accidentalQuadrupleFlat": {
@@ -48388,7 +48628,23 @@
       ],
       "codepoint": "U+F678"
     },
-    "accidentalOpenMusic11by16Sharp": {
+    "accidentalOpenMusic10by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76A"
+    },
+    "accidentalOpenMusic11by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76B"
+    },
+    "accidentalOpenMusic11by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48396,7 +48652,7 @@
       ],
       "codepoint": "U+F75D"
     },
-    "accidentalOpenMusic13by16Sharp": {
+    "accidentalOpenMusic13by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48404,7 +48660,7 @@
       ],
       "codepoint": "U+F75E"
     },
-    "accidentalOpenMusic15by16Sharp": {
+    "accidentalOpenMusic15by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48412,7 +48668,15 @@
       ],
       "codepoint": "U+F75F"
     },
-    "accidentalOpenMusic1by16Sharp": {
+    "accidentalOpenMusic1by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F761"
+    },
+    "accidentalOpenMusic1by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48420,7 +48684,23 @@
       ],
       "codepoint": "U+F758"
     },
-    "accidentalOpenMusic3by16Sharp": {
+    "accidentalOpenMusic2by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F762"
+    },
+    "accidentalOpenMusic3by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F763"
+    },
+    "accidentalOpenMusic3by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48428,7 +48708,23 @@
       ],
       "codepoint": "U+F759"
     },
-    "accidentalOpenMusic5by16Sharp": {
+    "accidentalOpenMusic4by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F764"
+    },
+    "accidentalOpenMusic5by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F765"
+    },
+    "accidentalOpenMusic5by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48436,7 +48732,23 @@
       ],
       "codepoint": "U+F75A"
     },
-    "accidentalOpenMusic7by16Sharp": {
+    "accidentalOpenMusic6by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F766"
+    },
+    "accidentalOpenMusic7by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F767"
+    },
+    "accidentalOpenMusic7by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
@@ -48444,13 +48756,37 @@
       ],
       "codepoint": "U+F75B"
     },
-    "accidentalOpenMusic9by16Sharp": {
+    "accidentalOpenMusic8by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F768"
+    },
+    "accidentalOpenMusic9by12": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F769"
+    },
+    "accidentalOpenMusic9by16": {
       "classes": [
         "accidentals",
         "accidentalsOpenMusic",
         "combiningStaffPositions"
       ],
       "codepoint": "U+F75C"
+    },
+    "accidentalOpenMusicNatural": {
+      "classes": [
+        "accidentals",
+        "accidentalsOpenMusic",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F760"
     },
     "accidentalQuadrupleFlat": {
       "classes": [
