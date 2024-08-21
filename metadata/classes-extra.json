@@ -205,14 +205,26 @@
   ],
 
   "accidentalsOpenMusic": [
-    "accidentalOpenMusic1by16Sharp",
-    "accidentalOpenMusic3by16Sharp",
-    "accidentalOpenMusic5by16Sharp",
-    "accidentalOpenMusic7by16Sharp",
-    "accidentalOpenMusic9by16Sharp",
-    "accidentalOpenMusic11by16Sharp",
-    "accidentalOpenMusic13by16Sharp",
-    "accidentalOpenMusic15by16Sharp"
+    "accidentalOpenMusic1by16",
+    "accidentalOpenMusic3by16",
+    "accidentalOpenMusic5by16",
+    "accidentalOpenMusic7by16",
+    "accidentalOpenMusic9by16",
+    "accidentalOpenMusic11by16",
+    "accidentalOpenMusic13by16",
+    "accidentalOpenMusic15by16",
+    "accidentalOpenMusicNatural",
+    "accidentalOpenMusic1by12",
+    "accidentalOpenMusic2by12",
+    "accidentalOpenMusic3by12",
+    "accidentalOpenMusic4by12",
+    "accidentalOpenMusic5by12",
+    "accidentalOpenMusic6by12",
+    "accidentalOpenMusic7by12",
+    "accidentalOpenMusic8by12",
+    "accidentalOpenMusic9by12",
+    "accidentalOpenMusic10by12",
+    "accidentalOpenMusic11by12"
   ],
 
 
