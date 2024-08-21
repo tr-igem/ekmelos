@@ -3,13 +3,13 @@
 [Setup]
 AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
-AppVersion="2.56"
-; AppVerName="Ekmelos Font 2.56"
+AppVersion="2.57"
+; AppVerName="Ekmelos Font 2.57"
 AppCopyright="Copyright (c) 2013-2024 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
 AppPublisherURL="http://www.ekmelic-music.org/"
-AppSupportURL="http://www.ekmelic-music.org/"
-AppUpdatesURL="http://www.ekmelic-music.org/"
+AppSupportURL="https://github.com/tr-igem/ekmelos"
+AppUpdatesURL="https://github.com/tr-igem/ekmelos"
 DefaultDirName="{commoncf}\SMuFL\Fonts\Ekmelos"
 DisableDirPage=no
 DefaultGroupName="Ekmelos Font"
