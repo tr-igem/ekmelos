@@ -3,8 +3,8 @@
 [Setup]
 AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
-AppVersion="2.57"
-; AppVerName="Ekmelos Font 2.57"
+AppVersion="2.58"
+; AppVerName="Ekmelos Font 2.58"
 AppCopyright="Copyright (c) 2013-2024 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
 AppPublisherURL="http://www.ekmelic-music.org/"
