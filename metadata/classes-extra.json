@@ -135,7 +135,31 @@
     "accidentalFlatKoron",
     "accidentalSoriSharp",
     "accidentalSoriLarge",
-    "accidentalSoriSharpLarge"
+    "accidentalSoriSharpLarge",
+    "accidentalUpperDoubleFlat",
+    "accidentalAcuteDoubleFlat",
+    "accidentalLowerFlatKoron",
+    "accidentalUpperFlatKoron",
+    "accidentalGraveFlat",
+    "accidentalLowerFlat",
+    "accidentalUpperFlat",
+    "accidentalAcuteFlat",
+    "accidentalLowerKoron",
+    "accidentalUpperKoron",
+    "accidentalGraveNatural",
+    "accidentalLowerNatural",
+    "accidentalUpperNatural",
+    "accidentalAcuteNatural",
+    "accidentalLowerSori",
+    "accidentalUpperSori",
+    "accidentalGraveSharp",
+    "accidentalLowerSharp",
+    "accidentalUpperSharp",
+    "accidentalAcuteSharp",
+    "accidentalLowerSoriSharp",
+    "accidentalUpperSoriSharp",
+    "accidentalGraveDoubleSharp",
+    "accidentalLowerDoubleSharp"
   ],
 
   "accidentalsRHM": [
@@ -637,6 +661,9 @@
 
   "tf_pictograms": [
     "pictHalfOpen3",
+
+    "accdnRegisterSwitchOpen",
+    "accdnRegisterSwitchClosed",
 
     "pictTambourineStockhausen",
     "pictXylBassPeinkofer",

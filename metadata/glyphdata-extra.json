@@ -1399,6 +1399,13 @@
     "description": "String clef behind bridge"
   },
 
+  "accdnRegisterSwitchOpen": {
+    "description": "Register switch open"
+  },
+  "accdnRegisterSwitchClosed": {
+    "description": "Register switch closed"
+  },
+
   "noteHFlatWhole": {
     "description": "H flat (whole note)"
   },
@@ -1635,5 +1642,78 @@
   },
   "accidentalOpenMusic11by12": {
     "description": "11/12 tone high (OpenMusic)"
+  },
+
+  "accidentalUpperDoubleFlat": {
+    "description": "Upper double flat (15/16 tone flat)"
+  },
+  "accidentalAcuteDoubleFlat": {
+    "description": "Acute double flat (-7/8 tone flat)"
+  },
+  "accidentalLowerFlatKoron": {
+    "description": "Lower flat koron (-13/16 tone flat)"
+  },
+  "accidentalUpperFlatKoron": {
+    "description": "Upper flat koron (-11/16 tone flat)"
+  },
+  "accidentalGraveFlat": {
+    "description": "Grave flat (-5/8 tone flat)"
+  },
+  "accidentalLowerFlat": {
+    "description": "Lower flat (-9/16 tone flat)"
+  },
+  "accidentalUpperFlat": {
+    "description": "Upper flat (-7/16 tone flat)"
+  },
+  "accidentalAcuteFlat": {
+    "description": "Acute flat (-3/8 tone flat)"
+  },
+  "accidentalLowerKoron": {
+    "description": "Lower koron (-5/16 tone flat)"
+  },
+  "accidentalUpperKoron": {
+    "description": "Upper koron (-3/16 tone flat)"
+  },
+  "accidentalGraveNatural": {
+    "description": "Grave natural (-1/8 tone flat)"
+  },
+  "accidentalLowerNatural": {
+    "description": "Lower natural (-1/16 tone flat)"
+  },
+  "accidentalUpperNatural": {
+    "description": "Upper natural (1/16 tone sharp)"
+  },
+  "accidentalAcuteNatural": {
+    "description": "Acute natural (1/8 tone sharp)"
+  },
+  "accidentalLowerSori": {
+    "description": "Lower sori (3/16 tone sharp)"
+  },
+  "accidentalUpperSori": {
+    "description": "Upper sori (5/16 tone sharp)"
+  },
+  "accidentalGraveSharp": {
+    "description": "Grave sharp (3/8 tone sharp)"
+  },
+  "accidentalLowerSharp": {
+    "description": "Lower sharp (7/16 tone sharp)"
+  },
+  "accidentalUpperSharp": {
+    "description": "Upper sharp (9/16 tone sharp)"
+  },
+  "accidentalAcuteSharp": {
+    "description": "Acute sharp (5/8 tone sharp)"
+  },
+  "accidentalLowerSoriSharp": {
+    "description": "Lower sori sharp (11/16 tone sharp)"
+  },
+  "accidentalUpperSoriSharp": {
+    "description": "Upper sori sharp (13/16 tone sharp)"
+  },
+  "accidentalGraveDoubleSharp": {
+    "description": "Grave double sharp (7/8 tone sharp)"
+  },
+  "accidentalLowerDoubleSharp": {
+    "description": "Lower double sharp (15/16 tone sharp)"
   }
 }

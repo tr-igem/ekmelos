@@ -1267,6 +1267,14 @@
     "codepoint": "U+E8B6",
     "description": "Right hand, 4 ranks, tenor"
   },
+  "accdnRegisterSwitchClosed": {
+    "codepoint": "U+F71F",
+    "description": "Register switch closed"
+  },
+  "accdnRegisterSwitchOpen": {
+    "codepoint": "U+F71E",
+    "description": "Register switch open"
+  },
   "accdnRicochet2": {
     "codepoint": "U+E8CD",
     "description": "Ricochet (2 tones)"
@@ -1338,6 +1346,22 @@
   "accidental5CommaSharp": {
     "codepoint": "U+E453",
     "description": "5-comma sharp"
+  },
+  "accidentalAcuteDoubleFlat": {
+    "codepoint": "U+F76D",
+    "description": "Acute double flat (-7/8 tone flat)"
+  },
+  "accidentalAcuteFlat": {
+    "codepoint": "U+F773",
+    "description": "Acute flat (-3/8 tone flat)"
+  },
+  "accidentalAcuteNatural": {
+    "codepoint": "U+F779",
+    "description": "Acute natural (1/8 tone sharp)"
+  },
+  "accidentalAcuteSharp": {
+    "codepoint": "U+F77F",
+    "description": "Acute sharp (5/8 tone sharp)"
   },
   "accidentalAngleLeft": {
     "codepoint": "U+F6D6",
@@ -1827,6 +1851,22 @@
     "codepoint": "U+F67B",
     "description": "Four-fifth-tones sharp (Ferneyhough)"
   },
+  "accidentalGraveDoubleSharp": {
+    "codepoint": "U+F782",
+    "description": "Grave double sharp (7/8 tone sharp)"
+  },
+  "accidentalGraveFlat": {
+    "codepoint": "U+F770",
+    "description": "Grave flat (-5/8 tone flat)"
+  },
+  "accidentalGraveNatural": {
+    "codepoint": "U+F776",
+    "description": "Grave natural (-1/8 tone flat)"
+  },
+  "accidentalGraveSharp": {
+    "codepoint": "U+F77C",
+    "description": "Grave sharp (3/8 tone sharp)"
+  },
   "accidentalHaba10TwelfthsSharp": {
     "codepoint": "U+F669",
     "description": "5/6 tone sharp"
@@ -2079,6 +2119,26 @@
     "codepoint": "U+E47D",
     "description": "Large double sharp"
   },
+  "accidentalLowerDoubleSharp": {
+    "codepoint": "U+F783",
+    "description": "Lower double sharp (15/16 tone sharp)"
+  },
+  "accidentalLowerFlat": {
+    "codepoint": "U+F771",
+    "description": "Lower flat (-9/16 tone flat)"
+  },
+  "accidentalLowerFlatKoron": {
+    "codepoint": "U+F76E",
+    "description": "Lower flat koron (-13/16 tone flat)"
+  },
+  "accidentalLowerKoron": {
+    "codepoint": "U+F774",
+    "description": "Lower koron (-5/16 tone flat)"
+  },
+  "accidentalLowerNatural": {
+    "codepoint": "U+F777",
+    "description": "Lower natural (-1/16 tone flat)"
+  },
   "accidentalLowerOneSeptimalComma": {
     "codepoint": "U+E2DE",
     "description": "Lower by one septimal comma"
@@ -2090,6 +2150,18 @@
   "accidentalLowerOneUndecimalQuartertone": {
     "codepoint": "U+E2E2",
     "description": "Lower by one undecimal quartertone"
+  },
+  "accidentalLowerSharp": {
+    "codepoint": "U+F77D",
+    "description": "Lower sharp (7/16 tone sharp)"
+  },
+  "accidentalLowerSori": {
+    "codepoint": "U+F77A",
+    "description": "Lower sori (3/16 tone sharp)"
+  },
+  "accidentalLowerSoriSharp": {
+    "codepoint": "U+F780",
+    "description": "Lower sori sharp (11/16 tone sharp)"
   },
   "accidentalLowerTwoSeptimalCommas": {
     "codepoint": "U+E2E0",
@@ -2742,6 +2814,38 @@
   "accidentalTwoThirdTonesSharpFerneyhough": {
     "codepoint": "U+E48C",
     "description": "Two-third-tones sharp (Ferneyhough)"
+  },
+  "accidentalUpperDoubleFlat": {
+    "codepoint": "U+F76C",
+    "description": "Upper double flat (15/16 tone flat)"
+  },
+  "accidentalUpperFlat": {
+    "codepoint": "U+F772",
+    "description": "Upper flat (-7/16 tone flat)"
+  },
+  "accidentalUpperFlatKoron": {
+    "codepoint": "U+F76F",
+    "description": "Upper flat koron (-11/16 tone flat)"
+  },
+  "accidentalUpperKoron": {
+    "codepoint": "U+F775",
+    "description": "Upper koron (-3/16 tone flat)"
+  },
+  "accidentalUpperNatural": {
+    "codepoint": "U+F778",
+    "description": "Upper natural (1/16 tone sharp)"
+  },
+  "accidentalUpperSharp": {
+    "codepoint": "U+F77E",
+    "description": "Upper sharp (9/16 tone sharp)"
+  },
+  "accidentalUpperSori": {
+    "codepoint": "U+F77B",
+    "description": "Upper sori (5/16 tone sharp)"
+  },
+  "accidentalUpperSoriSharp": {
+    "codepoint": "U+F781",
+    "description": "Upper sori sharp (13/16 tone sharp)"
   },
   "accidentalUpsAndDownsDown": {
     "codepoint": "U+EE61",

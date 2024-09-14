@@ -34,7 +34,7 @@
     "tupletBracketThickness": 0.16
   },
   "fontName": "Ekmelos",
-  "fontVersion": "2.57",
+  "fontVersion": "2.58",
   "glyphBBoxes": {
     "4stringTabClef": {
       "bBoxNE": [
@@ -3206,6 +3206,26 @@
         0.0
       ]
     },
+    "accdnRegisterSwitchClosed": {
+      "bBoxNE": [
+        2.128,
+        2.088
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "accdnRegisterSwitchOpen": {
+      "bBoxNE": [
+        2.128,
+        2.088
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
     "accdnRicochet2": {
       "bBoxNE": [
         1.44,
@@ -3384,6 +3404,46 @@
       "bBoxSW": [
         0.0,
         -1.5
+      ]
+    },
+    "accidentalAcuteDoubleFlat": {
+      "bBoxNE": [
+        1.556,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalAcuteFlat": {
+      "bBoxNE": [
+        0.908,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalAcuteNatural": {
+      "bBoxNE": [
+        0.72,
+        2.3
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.528
+      ]
+    },
+    "accidentalAcuteSharp": {
+      "bBoxNE": [
+        1.344,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.3
       ]
     },
     "accidentalAngleLeft": {
@@ -4606,6 +4666,46 @@
         -0.388
       ]
     },
+    "accidentalGraveDoubleSharp": {
+      "bBoxNE": [
+        1.56,
+        0.54
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.7
+      ]
+    },
+    "accidentalGraveFlat": {
+      "bBoxNE": [
+        1.356,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalGraveNatural": {
+      "bBoxNE": [
+        1.176,
+        2.3
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.528
+      ]
+    },
+    "accidentalGraveSharp": {
+      "bBoxNE": [
+        1.344,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.3
+      ]
+    },
     "accidentalHaba10TwelfthsSharp": {
       "bBoxNE": [
         1.388,
@@ -5236,6 +5336,56 @@
         -0.756
       ]
     },
+    "accidentalLowerDoubleSharp": {
+      "bBoxNE": [
+        1.56,
+        0.54
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.1
+      ]
+    },
+    "accidentalLowerFlat": {
+      "bBoxNE": [
+        1.356,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalLowerFlatKoron": {
+      "bBoxNE": [
+        1.648,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalLowerKoron": {
+      "bBoxNE": [
+        1.648,
+        0.652
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.9
+      ]
+    },
+    "accidentalLowerNatural": {
+      "bBoxNE": [
+        1.176,
+        1.7
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.528
+      ]
+    },
     "accidentalLowerOneSeptimalComma": {
       "bBoxNE": [
         0.804,
@@ -5264,6 +5414,36 @@
       "bBoxSW": [
         0.0,
         -0.652
+      ]
+    },
+    "accidentalLowerSharp": {
+      "bBoxNE": [
+        1.344,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.7
+      ]
+    },
+    "accidentalLowerSori": {
+      "bBoxNE": [
+        2.42,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.756
+      ]
+    },
+    "accidentalLowerSoriSharp": {
+      "bBoxNE": [
+        2.42,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.756
       ]
     },
     "accidentalLowerTwoSeptimalCommas": {
@@ -6894,6 +7074,86 @@
       "bBoxSW": [
         0.0,
         -0.636
+      ]
+    },
+    "accidentalUpperDoubleFlat": {
+      "bBoxNE": [
+        1.556,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalUpperFlat": {
+      "bBoxNE": [
+        0.908,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalUpperFlatKoron": {
+      "bBoxNE": [
+        1.2,
+        1.9
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalUpperKoron": {
+      "bBoxNE": [
+        1.2,
+        0.652
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.9
+      ]
+    },
+    "accidentalUpperNatural": {
+      "bBoxNE": [
+        0.72,
+        1.7
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.528
+      ]
+    },
+    "accidentalUpperSharp": {
+      "bBoxNE": [
+        1.344,
+        1.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.7
+      ]
+    },
+    "accidentalUpperSori": {
+      "bBoxNE": [
+        2.42,
+        1.664
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.5
+      ]
+    },
+    "accidentalUpperSoriSharp": {
+      "bBoxNE": [
+        2.42,
+        1.664
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.5
       ]
     },
     "accidentalUpsAndDownsDown": {
@@ -40014,6 +40274,46 @@
         0.54
       ]
     },
+    "accidentalAcuteDoubleFlat": {
+      "cutOutNE": [
+        1.372,
+        1.28
+      ],
+      "cutOutSE": [
+        1.216,
+        0.236
+      ]
+    },
+    "accidentalAcuteFlat": {
+      "cutOutNE": [
+        0.724,
+        1.284
+      ],
+      "cutOutSE": [
+        0.564,
+        0.232
+      ]
+    },
+    "accidentalAcuteNatural": {
+      "cutOutSW": [
+        0.46,
+        0.616
+      ]
+    },
+    "accidentalAcuteSharp": {
+      "cutOutNE": [
+        0.924,
+        3.26
+      ],
+      "cutOutNW": [
+        0.176,
+        2.984
+      ],
+      "cutOutSW": [
+        0.656,
+        0.736
+      ]
+    },
     "accidentalArrowDown": {
       "cutOutNE": [
         0.74,
@@ -41039,7 +41339,7 @@
     "accidentalFlatKoron": {
       "cutOutNE": [
         0.276,
-        1.336
+        1.316
       ],
       "cutOutSE": [
         0.632,
@@ -41270,6 +41570,54 @@
       "cutOutSW": [
         0.556,
         1.288
+      ]
+    },
+    "accidentalGraveDoubleSharp": {
+      "cutOutNW": [
+        0.412,
+        1.168
+      ],
+      "cutOutSE": [
+        0.688,
+        1.096
+      ]
+    },
+    "accidentalGraveFlat": {
+      "cutOutNE": [
+        0.724,
+        1.304
+      ],
+      "cutOutSE": [
+        1.012,
+        0.232
+      ],
+      "cutOutSW": [
+        0.408,
+        1.348
+      ]
+    },
+    "accidentalGraveNatural": {
+      "cutOutNE": [
+        0.72,
+        2.452
+      ],
+      "cutOutSW": [
+        0.404,
+        2.56
+      ]
+    },
+    "accidentalGraveSharp": {
+      "cutOutNE": [
+        1.168,
+        3.26
+      ],
+      "cutOutNW": [
+        0.42,
+        2.976
+      ],
+      "cutOutSE": [
+        0.688,
+        0.912
       ]
     },
     "accidentalHaba10TwelfthsSharp": {
@@ -42031,7 +42379,7 @@
       ],
       "cutOutSE": [
         0.276,
-        1.176
+        1.196
       ]
     },
     "accidentalKucukMucennebFlat": {
@@ -42062,6 +42410,68 @@
         0.296
       ]
     },
+    "accidentalLowerDoubleSharp": {
+      "cutOutNW": [
+        0.412,
+        0.568
+      ],
+      "cutOutSE": [
+        0.688,
+        0.496
+      ]
+    },
+    "accidentalLowerFlat": {
+      "cutOutNE": [
+        0.724,
+        1.304
+      ],
+      "cutOutSE": [
+        1.012,
+        0.232
+      ],
+      "cutOutSW": [
+        0.396,
+        1.916
+      ]
+    },
+    "accidentalLowerFlatKoron": {
+      "cutOutNE": [
+        0.724,
+        1.32
+      ],
+      "cutOutSE": [
+        1.08,
+        0.224
+      ],
+      "cutOutSW": [
+        0.396,
+        1.916
+      ]
+    },
+    "accidentalLowerKoron": {
+      "cutOutNE": [
+        1.08,
+        2.328
+      ],
+      "cutOutNW": [
+        0.396,
+        0.636
+      ],
+      "cutOutSE": [
+        0.724,
+        1.232
+      ]
+    },
+    "accidentalLowerNatural": {
+      "cutOutNE": [
+        0.716,
+        2.44
+      ],
+      "cutOutSW": [
+        0.4,
+        2.56
+      ]
+    },
     "accidentalLowerOneSeptimalComma": {
       "cutOutNE": [
         0.208,
@@ -42086,6 +42496,48 @@
       "cutOutSW": [
         0.344,
         0.232
+      ]
+    },
+    "accidentalLowerSharp": {
+      "cutOutNE": [
+        1.168,
+        2.66
+      ],
+      "cutOutNW": [
+        0.42,
+        2.376
+      ],
+      "cutOutSE": [
+        0.688,
+        0.312
+      ]
+    },
+    "accidentalLowerSori": {
+      "cutOutNE": [
+        1.724,
+        2.248
+      ],
+      "cutOutNW": [
+        0.976,
+        2.836
+      ],
+      "cutOutSE": [
+        1.724,
+        1.168
+      ]
+    },
+    "accidentalLowerSoriSharp": {
+      "cutOutNE": [
+        1.444,
+        2.836
+      ],
+      "cutOutNW": [
+        0.696,
+        2.248
+      ],
+      "cutOutSW": [
+        0.696,
+        1.168
       ]
     },
     "accidentalLowerTwoSeptimalCommas": {
@@ -44390,6 +44842,94 @@
       "cutOutNW": [
         0.196,
         2.168
+      ]
+    },
+    "accidentalUpperDoubleFlat": {
+      "cutOutNE": [
+        1.372,
+        1.28
+      ],
+      "cutOutSE": [
+        1.216,
+        0.236
+      ]
+    },
+    "accidentalUpperFlat": {
+      "cutOutNE": [
+        0.724,
+        1.284
+      ],
+      "cutOutSE": [
+        0.564,
+        0.232
+      ]
+    },
+    "accidentalUpperFlatKoron": {
+      "cutOutNE": [
+        0.724,
+        1.06
+      ],
+      "cutOutSE": [
+        0.632,
+        0.224
+      ]
+    },
+    "accidentalUpperKoron": {
+      "cutOutNE": [
+        0.632,
+        2.328
+      ],
+      "cutOutSE": [
+        0.724,
+        1.492
+      ]
+    },
+    "accidentalUpperNatural": {
+      "cutOutSW": [
+        0.46,
+        0.616
+      ]
+    },
+    "accidentalUpperSharp": {
+      "cutOutNE": [
+        0.924,
+        2.66
+      ],
+      "cutOutNW": [
+        0.176,
+        2.384
+      ],
+      "cutOutSW": [
+        0.176,
+        0.74
+      ]
+    },
+    "accidentalUpperSori": {
+      "cutOutNE": [
+        1.724,
+        1.992
+      ],
+      "cutOutSE": [
+        1.724,
+        0.912
+      ],
+      "cutOutSW": [
+        0.976,
+        0.328
+      ]
+    },
+    "accidentalUpperSoriSharp": {
+      "cutOutNW": [
+        0.696,
+        1.992
+      ],
+      "cutOutSE": [
+        1.444,
+        0.328
+      ],
+      "cutOutSW": [
+        0.696,
+        0.912
       ]
     },
     "accidentalUpsAndDownsDown": {
@@ -47878,6 +48418,50 @@
       ],
       "codepoint": "U+F40A"
     },
+    "accdnRegisterSwitchClosed": {
+      "classes": [
+        "tf_pictograms"
+      ],
+      "codepoint": "U+F71F"
+    },
+    "accdnRegisterSwitchOpen": {
+      "classes": [
+        "tf_pictograms"
+      ],
+      "codepoint": "U+F71E"
+    },
+    "accidentalAcuteDoubleFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76D"
+    },
+    "accidentalAcuteFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F773"
+    },
+    "accidentalAcuteNatural": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F779"
+    },
+    "accidentalAcuteSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77F"
+    },
     "accidentalAngleLeft": {
       "classes": [
         "accidentals",
@@ -48244,6 +48828,38 @@
       ],
       "codepoint": "U+F67B"
     },
+    "accidentalGraveDoubleSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F782"
+    },
+    "accidentalGraveFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F770"
+    },
+    "accidentalGraveNatural": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F776"
+    },
+    "accidentalGraveSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77C"
+    },
     "accidentalHaba10TwelfthsSharp": {
       "classes": [
         "accidentals",
@@ -48565,6 +49181,70 @@
         "combiningStaffPositions"
       ],
       "codepoint": "U+F5EF"
+    },
+    "accidentalLowerDoubleSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F783"
+    },
+    "accidentalLowerFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F771"
+    },
+    "accidentalLowerFlatKoron": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76E"
+    },
+    "accidentalLowerKoron": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F774"
+    },
+    "accidentalLowerNatural": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F777"
+    },
+    "accidentalLowerSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77D"
+    },
+    "accidentalLowerSori": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77A"
+    },
+    "accidentalLowerSoriSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F780"
     },
     "accidentalNarrowReversedFlatSlash": {
       "classes": [
@@ -49071,6 +49751,70 @@
         "combiningStaffPositions"
       ],
       "codepoint": "U+F679"
+    },
+    "accidentalUpperDoubleFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76C"
+    },
+    "accidentalUpperFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F772"
+    },
+    "accidentalUpperFlatKoron": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F76F"
+    },
+    "accidentalUpperKoron": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F775"
+    },
+    "accidentalUpperNatural": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F778"
+    },
+    "accidentalUpperSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77E"
+    },
+    "accidentalUpperSori": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F77B"
+    },
+    "accidentalUpperSoriSharp": {
+      "classes": [
+        "accidentals",
+        "accidentalsPersian",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F781"
     },
     "arrowBlackLeftRight": {
       "classes": [],

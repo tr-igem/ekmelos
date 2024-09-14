@@ -3388,6 +3388,24 @@
     "codepoint": "U+E8B6",
     "description": "Right hand, 4 ranks, tenor"
   },
+  "accdnRegisterSwitchClosed": {
+    "block": "F400",
+    "classes": [
+      "tf_pictograms"
+    ],
+    "code": 63263,
+    "codepoint": "U+F71F",
+    "description": "Register switch closed"
+  },
+  "accdnRegisterSwitchOpen": {
+    "block": "F400",
+    "classes": [
+      "tf_pictograms"
+    ],
+    "code": 63262,
+    "codepoint": "U+F71E",
+    "description": "Register switch open"
+  },
   "accdnRicochet2": {
     "block": "E000",
     "classes": [
@@ -3578,6 +3596,50 @@
     "codepoint": "U+E453",
     "description": "5-comma sharp",
     "ekmelily": true
+  },
+  "accidentalAcuteDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63341,
+    "codepoint": "U+F76D",
+    "description": "Acute double flat (-7/8 tone flat)"
+  },
+  "accidentalAcuteFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63347,
+    "codepoint": "U+F773",
+    "description": "Acute flat (-3/8 tone flat)"
+  },
+  "accidentalAcuteNatural": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63353,
+    "codepoint": "U+F779",
+    "description": "Acute natural (1/8 tone sharp)"
+  },
+  "accidentalAcuteSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63359,
+    "codepoint": "U+F77F",
+    "description": "Acute sharp (5/8 tone sharp)"
   },
   "accidentalAngleLeft": {
     "block": "F400",
@@ -4948,6 +5010,50 @@
     "codepoint": "U+F67B",
     "description": "Four-fifth-tones sharp (Ferneyhough)"
   },
+  "accidentalGraveDoubleSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63362,
+    "codepoint": "U+F782",
+    "description": "Grave double sharp (7/8 tone sharp)"
+  },
+  "accidentalGraveFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63344,
+    "codepoint": "U+F770",
+    "description": "Grave flat (-5/8 tone flat)"
+  },
+  "accidentalGraveNatural": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63350,
+    "codepoint": "U+F776",
+    "description": "Grave natural (-1/8 tone flat)"
+  },
+  "accidentalGraveSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63356,
+    "codepoint": "U+F77C",
+    "description": "Grave sharp (3/8 tone sharp)"
+  },
   "accidentalHaba10TwelfthsSharp": {
     "block": "F400",
     "classes": [
@@ -5739,6 +5845,61 @@
     "ekmelib": true,
     "ekmelily": true
   },
+  "accidentalLowerDoubleSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63363,
+    "codepoint": "U+F783",
+    "description": "Lower double sharp (15/16 tone sharp)"
+  },
+  "accidentalLowerFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63345,
+    "codepoint": "U+F771",
+    "description": "Lower flat (-9/16 tone flat)"
+  },
+  "accidentalLowerFlatKoron": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63342,
+    "codepoint": "U+F76E",
+    "description": "Lower flat koron (-13/16 tone flat)"
+  },
+  "accidentalLowerKoron": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63348,
+    "codepoint": "U+F774",
+    "description": "Lower koron (-5/16 tone flat)"
+  },
+  "accidentalLowerNatural": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63351,
+    "codepoint": "U+F777",
+    "description": "Lower natural (-1/16 tone flat)"
+  },
   "accidentalLowerOneSeptimalComma": {
     "block": "E000",
     "classes": [
@@ -5771,6 +5932,39 @@
     "code": 58082,
     "codepoint": "U+E2E2",
     "description": "Lower by one undecimal quartertone"
+  },
+  "accidentalLowerSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63357,
+    "codepoint": "U+F77D",
+    "description": "Lower sharp (7/16 tone sharp)"
+  },
+  "accidentalLowerSori": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63354,
+    "codepoint": "U+F77A",
+    "description": "Lower sori (3/16 tone sharp)"
+  },
+  "accidentalLowerSoriSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63360,
+    "codepoint": "U+F780",
+    "description": "Lower sori sharp (11/16 tone sharp)"
   },
   "accidentalLowerTwoSeptimalCommas": {
     "block": "E000",
@@ -7667,6 +7861,94 @@
     "codepoint": "U+E48C",
     "description": "Two-third-tones sharp (Ferneyhough)",
     "ekmelily": true
+  },
+  "accidentalUpperDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63340,
+    "codepoint": "U+F76C",
+    "description": "Upper double flat (15/16 tone flat)"
+  },
+  "accidentalUpperFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63346,
+    "codepoint": "U+F772",
+    "description": "Upper flat (-7/16 tone flat)"
+  },
+  "accidentalUpperFlatKoron": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63343,
+    "codepoint": "U+F76F",
+    "description": "Upper flat koron (-11/16 tone flat)"
+  },
+  "accidentalUpperKoron": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63349,
+    "codepoint": "U+F775",
+    "description": "Upper koron (-3/16 tone flat)"
+  },
+  "accidentalUpperNatural": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63352,
+    "codepoint": "U+F778",
+    "description": "Upper natural (1/16 tone sharp)"
+  },
+  "accidentalUpperSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63358,
+    "codepoint": "U+F77E",
+    "description": "Upper sharp (9/16 tone sharp)"
+  },
+  "accidentalUpperSori": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63355,
+    "codepoint": "U+F77B",
+    "description": "Upper sori (5/16 tone sharp)"
+  },
+  "accidentalUpperSoriSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsPersian",
+      "combiningStaffPositions"
+    ],
+    "code": 63361,
+    "codepoint": "U+F781",
+    "description": "Upper sori sharp (13/16 tone sharp)"
   },
   "accidentalUpsAndDownsDown": {
     "block": "E000",
