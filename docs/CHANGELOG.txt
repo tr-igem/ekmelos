@@ -1447,3 +1447,9 @@ Version 2.57 (21 August 2024):
   dynamicSforzato (U+E539), dynamicSforzatoPiano (U+E53A),
   dynamicSforzatoFF (U+E53B), dynamicRinforzando2 (U+E53D),
   dynamicSforzatoFFF (U+F6F4), dynamicSforzatoFFFF (U+F6F5).
+
+Version 2.58 (14 September 2024):
+- Added Persian accidentals for 96-EDO:
+  accidentalUpperDoubleFlat (U+F76C) - accidentalLowerDoubleSharp (U+F783).
+- Added accordion symbols:
+  accdnRegisterSwitchOpen (U+F71E) - accdnRegisterSwitchClosed (U+F71F).
