@@ -3020,3 +3020,17 @@ Based: Adobe Glyph List
 0xf781 accidentalUpperSoriSharp
 0xf782 accidentalGraveDoubleSharp
 0xf783 accidentalLowerDoubleSharp
+0xf784 accidentalRHMKink12Down
+0xf785 accidentalRHMKink6Down
+0xf786 accidentalRHMKink4Down
+0xf787 accidentalRHMKink12Up
+0xf788 accidentalRHMKink6Up
+0xf789 accidentalRHMKink4Up
+0xf78a braceSmall
+0xf78b reversedBraceSmall
+0xf78c braceLarge
+0xf78d reversedBraceLarge
+0xf78e braceLarger
+0xf78f reversedBraceLarger
+0xf790 braceFlat
+0xf791 reversedBraceFlat
