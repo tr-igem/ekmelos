@@ -20,6 +20,8 @@
 ##
 ##
 ## Written by Thomas Richter (<thomas-richter@aon.at>), March 2024
+## Revised for table format, 30 July 2025
+##
 ## This program is free software. Use, redistribute, and modify it as you wish.
 ##
 
@@ -103,5 +105,5 @@ file.close()
 
 path = lilypath + "/" + filename + ".ily"
 file = open(path, 'w', newline = "\n")
-file.write(tpl.format(now.year, font.fullname, filename, str(tab)))
+file.write(tpl.format(now.year, font.fullname, str(tab)))
 file.close()
