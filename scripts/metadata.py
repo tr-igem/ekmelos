@@ -25,7 +25,7 @@
 ## glyphdata.json            summarized glyph metadata
 ## ekmelily.json             glyphs grouped by Ekmelily tunings and notation styles
 ## ekmelib.json              glyphs grouped by ekmelib tunings
-## <fontname>-map.ily        Scheme alist of glyph names for LilyPond
+## FONTNAME-map.ily          Scheme alist of glyph names for LilyPond
 ##
 ## Written by Thomas Richter (<thomas-richter@aon.at>), July 2017
 ## Revised for Ekmelily 3.0, June 2019
@@ -34,7 +34,7 @@
 ## Revised for classes-extra, June 2020
 ## Revised for bounding box cut-outs and stem anchor, September 2020
 ## Revised for repeatOffset and noteheadOrigin, October 2020
-## Revised for <fontname>-map.ily, November 2020
+## Revised for FONTNAME-map.ily, November 2020
 ## Revised for lilypond/ekmelos-map.ily, February 2021
 ## Revised for glyphdata-extra, March 2021
 ## Revised for further Unicode blocks, May 2021
@@ -50,6 +50,8 @@
 ## Revised for size variants, 19 June 2023
 ## Revised for engravingDefaults, 29 August 2023
 ## Revised for path to SMuFL metadata, 23 March 2024
+## Revised for accidentals-TUNING.csv and FONTNAME.json,
+##  Selecting noteheads and flags for stem anchors, 30 July 2025
 ##
 ## Inspired from generate_font_metadata.py by Robert Piéchaud
 ## This program is free software. Use, redistribute, and modify it as you wish.
@@ -70,7 +72,7 @@ smuflpath = metapath + "/smufl"
 aglpath = metapath + "/agl"
 unicodepath = metapath + "/unicode"
 ekmelilypath = "/Ekmelik/Software/Ekmelily"
-alterpath = "/Ekmelik/Software/Tables/alterations"
+accpath = "/Ekmelik/Software/Tables/accidentals"
 
 mapname = font.fullname.lower().split()
 mapname.append("map")
@@ -395,6 +397,17 @@ for n in font:
             log.write("%s: Has referenced glyph %s not in the font.\n" % (n, v[0]))
         break
 
+    # find classes to which the glyph belongs
+    cls = []
+    for o in [smuflClasses, extraClasses, unicodeClasses]:
+        for cn in o.keys():  # available class names
+            if n in o[cn]:
+                cls.append(cn)
+                # found cn for the first time (Python has no autovivification)
+                if cn not in classes: classes[cn] = []
+                classes[cn].append(n)
+    d['classes'] = cls
+
     # bounding box
     bb = g.boundingBox() # xmin,ymin,xmax,ymax
     l = [ round(v / staffSpace, 4) for v in bb ]
@@ -414,10 +427,7 @@ for n in font:
                     SW.coord(co, bb[0], bb[1]) # (xmin,ymin)
 
     # stem anchor of noteheads
-    if ((0xE0A0 <= c <= 0xE0FF or 0xE110 <= c <= 0xE11F or 0xE1B0 <= c <= 0xE1CF)
-        and
-        ("Half" in n or "Black" in n or "White" in n)):
-
+    if (("noteheads" in cls) and ("Half" in n or "Black" in n or "White" in n)):
         x = (bb[0] - g.left_side_bearing,
              bb[2] + g.right_side_bearing)
         l = MAX
@@ -438,7 +448,10 @@ for n in font:
             anchor.add('stemUpSE', x[1], r)
 
     # stem anchor of flags
-    if 0xE240 <= c <= 0xE24F:
+    # 0xE240 - 0xE24F
+    # 0xF40F - 0xF426
+    # 0xF6C0 - 0xF6C7
+    if (n.startswith("flag") and not n.startswith("flagInternal")):
         for co in g.layers[1]: # assume one outer (clockwise) contour
             if co.isClockwise():
                 break
@@ -476,17 +489,6 @@ for n in font:
                 'componentGlyphs': v[2:] }
             break # ignore other tables
 
-    # find classes to which the glyph belongs
-    l = []
-    for o in [smuflClasses, extraClasses, unicodeClasses]:
-        for cn in o.keys():  # available class names
-            if n in o[cn]:
-                l.append(cn)
-                # found cn for the first time (Python has no autovivification)
-                if cn not in classes: classes[cn] = []
-                classes[cn].append(n)
-    d['classes'] = l
-
     # block ranges
     if c >= 0xE000 and c <= 0xF3FF:  # Recommended Character
         countRecommended += 1
@@ -497,7 +499,7 @@ for n in font:
     elif c >= 0xF400 and c <= 0xF8FF:  # Optional Glyph
         countOptional += 1
         d['block'] = 'F400'
-        optionalGlyphs[n] = { 'classes': l, 'codepoint': u }
+        optionalGlyphs[n] = { 'classes': cls, 'codepoint': u }
     elif c >= 0x0020 and c <= 0x007F:  # Basic Latin
         countLatin += 1
         d['block'] = '0000'
@@ -639,19 +641,19 @@ for l in file:
 file.close()
 
 for tuning in notations.keys():
-    file = open(alterpath + "/alterations-" + tuning + ".csv")
+    file = open(accpath + "/accidentals-" + tuning + ".csv")
     tab = csv.DictReader(file, dialect='excel')
     o = {}
     for n in notations[tuning]:
         o[n] = {}
 
     for l in tab:
-        if int(l['Code'], 16) & EKM_EQUIV_CODE == 0:  # not enh. equiv. accidentals
+        if int(l['code'], 16) & EKM_EQUIV_CODE == 0:  # not enh. equiv. accidentals
             for n, v in o.items():
                 c = l[n + "Name"]  # field with glyph name(s)
                 if c != "" and " " not in c:  # single glyph only
                     glyphdata[c]['ekmelily'] = True
-                    v[c] = int(l['Degree'])
+                    v[c] = int(l['step'])
 
     ekmelily[tuning] = o
     file.close()
@@ -712,7 +714,7 @@ for d in sorted(glyphdata.values(), key=lambda x: x['code']):
     d.pop('ref', 0) # del raises an exception if 'ref' is not present
 
 file = open(lilypath + "/" + mapname + ".ily", 'w', newline = "\n")
-file.write(tpl.format(now.year, font.fullname, mapname, l))
+file.write(tpl.format(now.year, font.fullname, l))
 file.close()
 
 
@@ -765,7 +767,7 @@ if len(sets): metadata['sets'] = sets
 
 
 # write all json files
-writeJSON(metapath + "/metadata.json", metadata)
+writeJSON(metapath + "/" + font.fontname.lower() + ".json", metadata)
 writeJSON(metapath + "/classes.json", classes)
 writeJSON(metapath + "/glyphnames.json", glyphnames)
 writeJSON(metapath + "/glyphdata.json", glyphdata)
