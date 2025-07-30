@@ -1,4 +1,4 @@
-Copyright (c) 2013-2024  Thomas Richter (thomas-richter@aon.at),
+Copyright (c) 2013-2025  Thomas Richter (thomas-richter@aon.at),
 with Reserved Font Name "Ekmelos".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
