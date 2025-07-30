@@ -1715,5 +1715,49 @@
   },
   "accidentalLowerDoubleSharp": {
     "description": "Lower double sharp (15/16 tone sharp)"
+  },
+
+  "accidentalRHMKink12Down": {
+    "description": "1/12 tone low (with kink)"
+  },
+  "accidentalRHMKink6Down": {
+    "description": "1/6 tone low (with kink)"
+  },
+  "accidentalRHMKink4Down": {
+    "description": "1/4 tone low (with kink)"
+  },
+  "accidentalRHMKink12Up": {
+    "description": "1/12 tone high (with kink)"
+  },
+  "accidentalRHMKink6Up": {
+    "description": "1/6 tone high (with kink)"
+  },
+  "accidentalRHMKink4Up": {
+    "description": "1/4 tone high (with kink)"
+  },
+
+  "braceSmall": {
+    "description": "Brace small"
+  },
+  "braceLarge": {
+    "description": "Brace large"
+  },
+  "braceLarger": {
+    "description": "Brace larger"
+  },
+  "braceFlat": {
+    "description": "Brace flat"
+  },
+  "reversedBraceSmall": {
+    "description": "Reversed brace small"
+  },
+  "reversedBraceLarge": {
+    "description": "Reversed brace large"
+  },
+  "reversedBraceLarger": {
+    "description": "Reversed brace larger"
+  },
+  "reversedBraceFlat": {
+    "description": "Reversed brace flat"
   }
 }

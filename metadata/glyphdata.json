@@ -739,7 +739,8 @@
     ],
     "code": 58127,
     "codepoint": "U+E30F",
-    "description": "35 large diesis down, 2\u00b0 down [50 EDO], 5/18-tone down"
+    "description": "35 large diesis down, 2\u00b0 down [50 EDO], 5/18-tone down",
+    "ekmelily": true
   },
   "accSagittal35LargeDiesisUp": {
     "block": "E000",
@@ -750,7 +751,8 @@
     ],
     "code": 58126,
     "codepoint": "U+E30E",
-    "description": "35 large diesis up, (35L, ~13L, ~125L, sharp less 35M), 2\u00b050 up"
+    "description": "35 large diesis up, (35L, ~13L, ~125L, sharp less 35M), 2\u00b050 up",
+    "ekmelily": true
   },
   "accSagittal35MediumDiesisDown": {
     "block": "E000",
@@ -885,7 +887,8 @@
     ],
     "code": 58181,
     "codepoint": "U+E345",
-    "description": "55 comma down, 3\u00b0 down [96 EDO], 3/16-tone down"
+    "description": "55 comma down, 3\u00b0 down [96 EDO], 3/16-tone down",
+    "ekmelily": true
   },
   "accSagittal55CommaUp": {
     "block": "E000",
@@ -896,7 +899,8 @@
     ],
     "code": 58180,
     "codepoint": "U+E344",
-    "description": "55 comma up, (55C, 11M less 5C), 3\u00b0up [96 EDO], 3/16-tone up"
+    "description": "55 comma up, (55C, 11M less 5C), 3\u00b0up [96 EDO], 3/16-tone up",
+    "ekmelily": true
   },
   "accSagittal5CommaDown": {
     "block": "E000",
@@ -1403,7 +1407,8 @@
     ],
     "code": 58211,
     "codepoint": "U+E363",
-    "description": "Double flat 55C-up, 13\u00b0 down [96 EDO], 13/16-tone down"
+    "description": "Double flat 55C-up, 13\u00b0 down [96 EDO], 13/16-tone down",
+    "ekmelily": true
   },
   "accSagittalDoubleFlat5CUp": {
     "block": "E000",
@@ -1642,7 +1647,8 @@
     ],
     "code": 58210,
     "codepoint": "U+E362",
-    "description": "Double sharp 55C-down, 13\u00b0 up [96 EDO], 13/16-tone up"
+    "description": "Double sharp 55C-down, 13\u00b0 up [96 EDO], 13/16-tone up",
+    "ekmelily": true
   },
   "accSagittalDoubleSharp5CDown": {
     "block": "E000",
@@ -2017,7 +2023,8 @@
     ],
     "code": 58155,
     "codepoint": "U+E32B",
-    "description": "Flat 35L-down, 5\u00b0 down [50 EDO]"
+    "description": "Flat 35L-down, 5\u00b0 down [50 EDO]",
+    "ekmelily": true
   },
   "accSagittalFlat35MDown": {
     "block": "E000",
@@ -2083,7 +2090,8 @@
     ],
     "code": 58201,
     "codepoint": "U+E359",
-    "description": "Flat 55C-down, 11\u00b0 down [96 EDO], 11/16-tone down"
+    "description": "Flat 55C-down, 11\u00b0 down [96 EDO], 11/16-tone down",
+    "ekmelily": true
   },
   "accSagittalFlat55CUp": {
     "block": "E000",
@@ -2094,7 +2102,8 @@
     ],
     "code": 58191,
     "codepoint": "U+E34F",
-    "description": "Flat 55C-up, 5\u00b0 down [96 EDO], 5/16-tone down"
+    "description": "Flat 55C-up, 5\u00b0 down [96 EDO], 5/16-tone down",
+    "ekmelily": true
   },
   "accSagittalFlat5CDown": {
     "block": "E000",
@@ -2656,7 +2665,8 @@
     ],
     "code": 58154,
     "codepoint": "U+E32A",
-    "description": "Sharp 35L-up, 5\u00b0 up [50 EDO]"
+    "description": "Sharp 35L-up, 5\u00b0 up [50 EDO]",
+    "ekmelily": true
   },
   "accSagittalSharp35MUp": {
     "block": "E000",
@@ -2722,7 +2732,8 @@
     ],
     "code": 58190,
     "codepoint": "U+E34E",
-    "description": "Sharp 55C-down, 5\u00b0 up [96 EDO], 5/16-tone up"
+    "description": "Sharp 55C-down, 5\u00b0 up [96 EDO], 5/16-tone up",
+    "ekmelily": true
   },
   "accSagittalSharp55CUp": {
     "block": "E000",
@@ -2733,7 +2744,8 @@
     ],
     "code": 58200,
     "codepoint": "U+E358",
-    "description": "Sharp 55C-up, 11\u00b0 up [96 EDO], 11/16-tone up"
+    "description": "Sharp 55C-up, 11\u00b0 up [96 EDO], 11/16-tone up",
+    "ekmelily": true
   },
   "accSagittalSharp5CDown": {
     "block": "E000",
@@ -3606,7 +3618,8 @@
     ],
     "code": 63341,
     "codepoint": "U+F76D",
-    "description": "Acute double flat (-7/8 tone flat)"
+    "description": "Acute double flat (-7/8 tone flat)",
+    "ekmelily": true
   },
   "accidentalAcuteFlat": {
     "block": "F400",
@@ -3617,7 +3630,8 @@
     ],
     "code": 63347,
     "codepoint": "U+F773",
-    "description": "Acute flat (-3/8 tone flat)"
+    "description": "Acute flat (-3/8 tone flat)",
+    "ekmelily": true
   },
   "accidentalAcuteNatural": {
     "block": "F400",
@@ -3628,7 +3642,8 @@
     ],
     "code": 63353,
     "codepoint": "U+F779",
-    "description": "Acute natural (1/8 tone sharp)"
+    "description": "Acute natural (1/8 tone sharp)",
+    "ekmelily": true
   },
   "accidentalAcuteSharp": {
     "block": "F400",
@@ -3639,7 +3654,8 @@
     ],
     "code": 63359,
     "codepoint": "U+F77F",
-    "description": "Acute sharp (5/8 tone sharp)"
+    "description": "Acute sharp (5/8 tone sharp)",
+    "ekmelily": true
   },
   "accidentalAngleLeft": {
     "block": "F400",
@@ -4191,7 +4207,8 @@
     ],
     "code": 58048,
     "codepoint": "U+E2C0",
-    "description": "Double flat lowered by one syntonic comma"
+    "description": "Double flat lowered by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalDoubleFlatOneArrowUp": {
     "block": "E000",
@@ -4202,7 +4219,8 @@
     ],
     "code": 58053,
     "codepoint": "U+E2C5",
-    "description": "Double flat raised by one syntonic comma"
+    "description": "Double flat raised by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalDoubleFlatParens": {
     "block": "F400",
@@ -4260,7 +4278,8 @@
     ],
     "code": 63003,
     "codepoint": "U+F61B",
-    "description": "Double flat with slash"
+    "description": "Double flat with slash",
+    "ekmelily": true
   },
   "accidentalDoubleFlatThreeArrowsDown": {
     "block": "E000",
@@ -4271,7 +4290,8 @@
     ],
     "code": 58068,
     "codepoint": "U+E2D4",
-    "description": "Double flat lowered by three syntonic commas"
+    "description": "Double flat lowered by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleFlatThreeArrowsUp": {
     "block": "E000",
@@ -4282,7 +4302,8 @@
     ],
     "code": 58073,
     "codepoint": "U+E2D9",
-    "description": "Double flat raised by three syntonic commas"
+    "description": "Double flat raised by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleFlatTurned": {
     "block": "E000",
@@ -4303,7 +4324,8 @@
     ],
     "code": 58058,
     "codepoint": "U+E2CA",
-    "description": "Double flat lowered by two syntonic commas"
+    "description": "Double flat lowered by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleFlatTwoArrowsUp": {
     "block": "E000",
@@ -4314,7 +4336,8 @@
     ],
     "code": 58063,
     "codepoint": "U+E2CF",
-    "description": "Double flat raised by two syntonic commas"
+    "description": "Double flat raised by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleSharp": {
     "alternateCodepoint": "U+1D12A",
@@ -4383,7 +4406,8 @@
     ],
     "code": 58052,
     "codepoint": "U+E2C4",
-    "description": "Double sharp lowered by one syntonic comma"
+    "description": "Double sharp lowered by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalDoubleSharpOneArrowUp": {
     "block": "E000",
@@ -4394,7 +4418,8 @@
     ],
     "code": 58057,
     "codepoint": "U+E2C9",
-    "description": "Double sharp raised by one syntonic comma"
+    "description": "Double sharp raised by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalDoubleSharpParens": {
     "block": "F400",
@@ -4443,7 +4468,8 @@
     ],
     "code": 58072,
     "codepoint": "U+E2D8",
-    "description": "Double sharp lowered by three syntonic commas"
+    "description": "Double sharp lowered by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleSharpThreeArrowsUp": {
     "block": "E000",
@@ -4454,7 +4480,8 @@
     ],
     "code": 58077,
     "codepoint": "U+E2DD",
-    "description": "Double sharp raised by three syntonic commas"
+    "description": "Double sharp raised by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleSharpTwoArrowsDown": {
     "block": "E000",
@@ -4465,7 +4492,8 @@
     ],
     "code": 58062,
     "codepoint": "U+E2CE",
-    "description": "Double sharp lowered by two syntonic commas"
+    "description": "Double sharp lowered by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalDoubleSharpTwoArrowsUp": {
     "block": "E000",
@@ -4476,7 +4504,8 @@
     ],
     "code": 58067,
     "codepoint": "U+E2D3",
-    "description": "Double sharp raised by two syntonic commas"
+    "description": "Double sharp raised by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalEnharmonicAlmostEqualTo": {
     "block": "E000",
@@ -4821,7 +4850,8 @@
     ],
     "code": 63092,
     "codepoint": "U+F674",
-    "description": "Flat koron (inverted koron) (three-quarter-tones flat)"
+    "description": "Flat koron (inverted koron) (three-quarter-tones flat)",
+    "ekmelily": true
   },
   "accidentalFlatLowerComma": {
     "block": "F400",
@@ -4864,7 +4894,8 @@
     ],
     "code": 58049,
     "codepoint": "U+E2C1",
-    "description": "Flat lowered by one syntonic comma"
+    "description": "Flat lowered by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalFlatOneArrowUp": {
     "block": "E000",
@@ -4875,7 +4906,8 @@
     ],
     "code": 58054,
     "codepoint": "U+E2C6",
-    "description": "Flat raised by one syntonic comma"
+    "description": "Flat raised by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalFlatParens": {
     "block": "F400",
@@ -4954,7 +4986,8 @@
     ],
     "code": 58069,
     "codepoint": "U+E2D5",
-    "description": "Flat lowered by three syntonic commas"
+    "description": "Flat lowered by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalFlatThreeArrowsUp": {
     "block": "E000",
@@ -4965,7 +4998,8 @@
     ],
     "code": 58074,
     "codepoint": "U+E2DA",
-    "description": "Flat raised by three syntonic commas"
+    "description": "Flat raised by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalFlatTurned": {
     "block": "E000",
@@ -4986,7 +5020,8 @@
     ],
     "code": 58059,
     "codepoint": "U+E2CB",
-    "description": "Flat lowered by two syntonic commas"
+    "description": "Flat lowered by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalFlatTwoArrowsUp": {
     "block": "E000",
@@ -4997,7 +5032,8 @@
     ],
     "code": 58064,
     "codepoint": "U+E2D0",
-    "description": "Flat raised by two syntonic commas"
+    "description": "Flat raised by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalFourFifthTonesSharpFerneyhough": {
     "block": "F400",
@@ -5019,7 +5055,8 @@
     ],
     "code": 63362,
     "codepoint": "U+F782",
-    "description": "Grave double sharp (7/8 tone sharp)"
+    "description": "Grave double sharp (7/8 tone sharp)",
+    "ekmelily": true
   },
   "accidentalGraveFlat": {
     "block": "F400",
@@ -5030,7 +5067,8 @@
     ],
     "code": 63344,
     "codepoint": "U+F770",
-    "description": "Grave flat (-5/8 tone flat)"
+    "description": "Grave flat (-5/8 tone flat)",
+    "ekmelily": true
   },
   "accidentalGraveNatural": {
     "block": "F400",
@@ -5041,7 +5079,8 @@
     ],
     "code": 63350,
     "codepoint": "U+F776",
-    "description": "Grave natural (-1/8 tone flat)"
+    "description": "Grave natural (-1/8 tone flat)",
+    "ekmelily": true
   },
   "accidentalGraveSharp": {
     "block": "F400",
@@ -5052,7 +5091,8 @@
     ],
     "code": 63356,
     "codepoint": "U+F77C",
-    "description": "Grave sharp (3/8 tone sharp)"
+    "description": "Grave sharp (3/8 tone sharp)",
+    "ekmelily": true
   },
   "accidentalHaba10TwelfthsSharp": {
     "block": "F400",
@@ -5450,7 +5490,8 @@
     ],
     "code": 58009,
     "codepoint": "U+E299",
-    "description": "Half sharp with arrow up"
+    "description": "Half sharp with arrow up",
+    "ekmelily": true
   },
   "accidentalHesse12Down": {
     "block": "F400",
@@ -5854,7 +5895,8 @@
     ],
     "code": 63363,
     "codepoint": "U+F783",
-    "description": "Lower double sharp (15/16 tone sharp)"
+    "description": "Lower double sharp (15/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalLowerFlat": {
     "block": "F400",
@@ -5865,7 +5907,8 @@
     ],
     "code": 63345,
     "codepoint": "U+F771",
-    "description": "Lower flat (-9/16 tone flat)"
+    "description": "Lower flat (-9/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalLowerFlatKoron": {
     "block": "F400",
@@ -5876,7 +5919,8 @@
     ],
     "code": 63342,
     "codepoint": "U+F76E",
-    "description": "Lower flat koron (-13/16 tone flat)"
+    "description": "Lower flat koron (-13/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalLowerKoron": {
     "block": "F400",
@@ -5887,7 +5931,8 @@
     ],
     "code": 63348,
     "codepoint": "U+F774",
-    "description": "Lower koron (-5/16 tone flat)"
+    "description": "Lower koron (-5/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalLowerNatural": {
     "block": "F400",
@@ -5898,7 +5943,8 @@
     ],
     "code": 63351,
     "codepoint": "U+F777",
-    "description": "Lower natural (-1/16 tone flat)"
+    "description": "Lower natural (-1/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalLowerOneSeptimalComma": {
     "block": "E000",
@@ -5942,7 +5988,8 @@
     ],
     "code": 63357,
     "codepoint": "U+F77D",
-    "description": "Lower sharp (7/16 tone sharp)"
+    "description": "Lower sharp (7/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalLowerSori": {
     "block": "F400",
@@ -5953,7 +6000,8 @@
     ],
     "code": 63354,
     "codepoint": "U+F77A",
-    "description": "Lower sori (3/16 tone sharp)"
+    "description": "Lower sori (3/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalLowerSoriSharp": {
     "block": "F400",
@@ -5964,7 +6012,8 @@
     ],
     "code": 63360,
     "codepoint": "U+F780",
-    "description": "Lower sori sharp (11/16 tone sharp)"
+    "description": "Lower sori sharp (11/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalLowerTwoSeptimalCommas": {
     "block": "E000",
@@ -6123,7 +6172,8 @@
     ],
     "code": 58050,
     "codepoint": "U+E2C2",
-    "description": "Natural lowered by one syntonic comma"
+    "description": "Natural lowered by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalNaturalOneArrowUp": {
     "block": "E000",
@@ -6134,7 +6184,8 @@
     ],
     "code": 58055,
     "codepoint": "U+E2C7",
-    "description": "Natural raised by one syntonic comma"
+    "description": "Natural raised by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalNaturalParens": {
     "block": "F400",
@@ -6214,7 +6265,8 @@
     ],
     "code": 58070,
     "codepoint": "U+E2D6",
-    "description": "Natural lowered by three syntonic commas"
+    "description": "Natural lowered by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalNaturalThreeArrowsUp": {
     "block": "E000",
@@ -6225,7 +6277,8 @@
     ],
     "code": 58075,
     "codepoint": "U+E2DB",
-    "description": "Natural raised by three syntonic commas"
+    "description": "Natural raised by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalNaturalTwoArrowsDown": {
     "block": "E000",
@@ -6236,7 +6289,8 @@
     ],
     "code": 58060,
     "codepoint": "U+E2CC",
-    "description": "Natural lowered by two syntonic commas"
+    "description": "Natural lowered by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalNaturalTwoArrowsUp": {
     "block": "E000",
@@ -6247,7 +6301,8 @@
     ],
     "code": 58065,
     "codepoint": "U+E2D1",
-    "description": "Natural raised by two syntonic commas"
+    "description": "Natural raised by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalOneAndAHalfSharpsArrowDown": {
     "block": "E000",
@@ -6269,7 +6324,8 @@
     ],
     "code": 58011,
     "codepoint": "U+E29B",
-    "description": "One and a half sharps with arrow up"
+    "description": "One and a half sharps with arrow up",
+    "ekmelily": true
   },
   "accidentalOneFifthToneSharpFerneyhough": {
     "block": "F400",
@@ -6290,7 +6346,6 @@
     "code": 58511,
     "codepoint": "U+E48F",
     "description": "One-quarter-tone flat (Ferneyhough)",
-    "ekmelib": true,
     "ekmelily": true
   },
   "accidentalOneQuarterToneFlatStockhausen": {
@@ -6311,7 +6366,6 @@
     "code": 58510,
     "codepoint": "U+E48E",
     "description": "One-quarter-tone sharp (Ferneyhough)",
-    "ekmelib": true,
     "ekmelily": true
   },
   "accidentalOneQuarterToneSharpStockhausen": {
@@ -6377,7 +6431,8 @@
     ],
     "code": 63325,
     "codepoint": "U+F75D",
-    "description": "11/16 tone high (OpenMusic)"
+    "description": "11/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic13by16": {
     "block": "F400",
@@ -6388,7 +6443,8 @@
     ],
     "code": 63326,
     "codepoint": "U+F75E",
-    "description": "13/16 tone high (OpenMusic)"
+    "description": "13/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic15by16": {
     "block": "F400",
@@ -6399,7 +6455,8 @@
     ],
     "code": 63327,
     "codepoint": "U+F75F",
-    "description": "15/16 tone high (OpenMusic)"
+    "description": "15/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic1by12": {
     "block": "F400",
@@ -6421,7 +6478,8 @@
     ],
     "code": 63320,
     "codepoint": "U+F758",
-    "description": "1/16 tone high (OpenMusic)"
+    "description": "1/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic2by12": {
     "block": "F400",
@@ -6454,7 +6512,8 @@
     ],
     "code": 63321,
     "codepoint": "U+F759",
-    "description": "3/16 tone high (OpenMusic)"
+    "description": "3/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic4by12": {
     "block": "F400",
@@ -6487,7 +6546,8 @@
     ],
     "code": 63322,
     "codepoint": "U+F75A",
-    "description": "5/16 tone high (OpenMusic)"
+    "description": "5/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic6by12": {
     "block": "F400",
@@ -6520,7 +6580,8 @@
     ],
     "code": 63323,
     "codepoint": "U+F75B",
-    "description": "7/16 tone high (OpenMusic)"
+    "description": "7/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusic8by12": {
     "block": "F400",
@@ -6553,7 +6614,8 @@
     ],
     "code": 63324,
     "codepoint": "U+F75C",
-    "description": "9/16 tone high (OpenMusic)"
+    "description": "9/16 tone high (OpenMusic)",
+    "ekmelily": true
   },
   "accidentalOpenMusicNatural": {
     "block": "F400",
@@ -6849,6 +6911,12 @@
     "description": "Quarter tone sharp and sharp (Zimmermann)"
   },
   "accidentalRHM12Down": {
+    "alternates": [
+      {
+        "codepoint": "U+F784",
+        "name": "accidentalRHMKink12Down"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6862,6 +6930,12 @@
     "ekmelily": true
   },
   "accidentalRHM12Up": {
+    "alternates": [
+      {
+        "codepoint": "U+F787",
+        "name": "accidentalRHMKink12Up"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6875,6 +6949,12 @@
     "ekmelily": true
   },
   "accidentalRHM4Down": {
+    "alternates": [
+      {
+        "codepoint": "U+F786",
+        "name": "accidentalRHMKink4Down"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6888,6 +6968,12 @@
     "ekmelily": true
   },
   "accidentalRHM4Up": {
+    "alternates": [
+      {
+        "codepoint": "U+F789",
+        "name": "accidentalRHMKink4Up"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6901,6 +6987,12 @@
     "ekmelily": true
   },
   "accidentalRHM6Down": {
+    "alternates": [
+      {
+        "codepoint": "U+F785",
+        "name": "accidentalRHMKink6Down"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6914,6 +7006,12 @@
     "ekmelily": true
   },
   "accidentalRHM6Up": {
+    "alternates": [
+      {
+        "codepoint": "U+F788",
+        "name": "accidentalRHMKink6Up"
+      }
+    ],
     "block": "F400",
     "classes": [
       "accidentals",
@@ -6925,6 +7023,78 @@
     "description": "1/6 tone high",
     "ekmelib": true,
     "ekmelily": true
+  },
+  "accidentalRHMKink12Down": {
+    "alternateOf": "accidentalRHM12Down",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63364,
+    "codepoint": "U+F784",
+    "description": "1/12 tone low (with kink)"
+  },
+  "accidentalRHMKink12Up": {
+    "alternateOf": "accidentalRHM12Up",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63367,
+    "codepoint": "U+F787",
+    "description": "1/12 tone high (with kink)"
+  },
+  "accidentalRHMKink4Down": {
+    "alternateOf": "accidentalRHM4Down",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63366,
+    "codepoint": "U+F786",
+    "description": "1/4 tone low (with kink)"
+  },
+  "accidentalRHMKink4Up": {
+    "alternateOf": "accidentalRHM4Up",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63369,
+    "codepoint": "U+F789",
+    "description": "1/4 tone high (with kink)"
+  },
+  "accidentalRHMKink6Down": {
+    "alternateOf": "accidentalRHM6Down",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63365,
+    "codepoint": "U+F785",
+    "description": "1/6 tone low (with kink)"
+  },
+  "accidentalRHMKink6Up": {
+    "alternateOf": "accidentalRHM6Up",
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 63368,
+    "codepoint": "U+F788",
+    "description": "1/6 tone high (with kink)"
   },
   "accidentalRHMNatural": {
     "block": "F400",
@@ -7264,7 +7434,8 @@
     ],
     "code": 58051,
     "codepoint": "U+E2C3",
-    "description": "Sharp lowered by one syntonic comma"
+    "description": "Sharp lowered by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalSharpOneArrowUp": {
     "block": "E000",
@@ -7275,7 +7446,8 @@
     ],
     "code": 58056,
     "codepoint": "U+E2C8",
-    "description": "Sharp raised by one syntonic comma"
+    "description": "Sharp raised by one syntonic comma",
+    "ekmelily": true
   },
   "accidentalSharpOneHorizontalStroke": {
     "block": "E000",
@@ -7385,7 +7557,8 @@
     ],
     "code": 58071,
     "codepoint": "U+E2D7",
-    "description": "Sharp lowered by three syntonic commas"
+    "description": "Sharp lowered by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalSharpThreeArrowsUp": {
     "block": "E000",
@@ -7396,7 +7569,8 @@
     ],
     "code": 58076,
     "codepoint": "U+E2DC",
-    "description": "Sharp raised by three syntonic commas"
+    "description": "Sharp raised by three syntonic commas",
+    "ekmelily": true
   },
   "accidentalSharpTwoArrowsDown": {
     "block": "E000",
@@ -7407,7 +7581,8 @@
     ],
     "code": 58061,
     "codepoint": "U+E2CD",
-    "description": "Sharp lowered by two syntonic commas"
+    "description": "Sharp lowered by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalSharpTwoArrowsUp": {
     "block": "E000",
@@ -7418,7 +7593,8 @@
     ],
     "code": 58066,
     "codepoint": "U+E2D2",
-    "description": "Sharp raised by two syntonic commas"
+    "description": "Sharp raised by two syntonic commas",
+    "ekmelily": true
   },
   "accidentalSims12Down": {
     "block": "E000",
@@ -7526,7 +7702,8 @@
     ],
     "code": 63094,
     "codepoint": "U+F676",
-    "description": "Large sori (quarter tone sharp)"
+    "description": "Large sori (quarter tone sharp)",
+    "ekmelily": true
   },
   "accidentalSoriSharp": {
     "alternates": [
@@ -7555,7 +7732,8 @@
     ],
     "code": 63095,
     "codepoint": "U+F677",
-    "description": "Large Sori sharp (reversed sori) (three-quarter-tones sharp)"
+    "description": "Large Sori sharp (reversed sori) (three-quarter-tones sharp)",
+    "ekmelily": true
   },
   "accidentalTavenerFlat": {
     "block": "E000",
@@ -7871,7 +8049,8 @@
     ],
     "code": 63340,
     "codepoint": "U+F76C",
-    "description": "Upper double flat (15/16 tone flat)"
+    "description": "Upper double flat (15/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalUpperFlat": {
     "block": "F400",
@@ -7882,7 +8061,8 @@
     ],
     "code": 63346,
     "codepoint": "U+F772",
-    "description": "Upper flat (-7/16 tone flat)"
+    "description": "Upper flat (-7/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalUpperFlatKoron": {
     "block": "F400",
@@ -7893,7 +8073,8 @@
     ],
     "code": 63343,
     "codepoint": "U+F76F",
-    "description": "Upper flat koron (-11/16 tone flat)"
+    "description": "Upper flat koron (-11/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalUpperKoron": {
     "block": "F400",
@@ -7904,7 +8085,8 @@
     ],
     "code": 63349,
     "codepoint": "U+F775",
-    "description": "Upper koron (-3/16 tone flat)"
+    "description": "Upper koron (-3/16 tone flat)",
+    "ekmelily": true
   },
   "accidentalUpperNatural": {
     "block": "F400",
@@ -7915,7 +8097,8 @@
     ],
     "code": 63352,
     "codepoint": "U+F778",
-    "description": "Upper natural (1/16 tone sharp)"
+    "description": "Upper natural (1/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalUpperSharp": {
     "block": "F400",
@@ -7926,7 +8109,8 @@
     ],
     "code": 63358,
     "codepoint": "U+F77E",
-    "description": "Upper sharp (9/16 tone sharp)"
+    "description": "Upper sharp (9/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalUpperSori": {
     "block": "F400",
@@ -7937,7 +8121,8 @@
     ],
     "code": 63355,
     "codepoint": "U+F77B",
-    "description": "Upper sori (5/16 tone sharp)"
+    "description": "Upper sori (5/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalUpperSoriSharp": {
     "block": "F400",
@@ -7948,7 +8133,8 @@
     ],
     "code": 63361,
     "codepoint": "U+F781",
-    "description": "Upper sori sharp (13/16 tone sharp)"
+    "description": "Upper sori sharp (13/16 tone sharp)",
+    "ekmelily": true
   },
   "accidentalUpsAndDownsDown": {
     "block": "E000",
@@ -9986,6 +10172,24 @@
   },
   "brace": {
     "alternateCodepoint": "U+1D114",
+    "alternates": [
+      {
+        "codepoint": "U+F78A",
+        "name": "braceSmall"
+      },
+      {
+        "codepoint": "U+F78C",
+        "name": "braceLarge"
+      },
+      {
+        "codepoint": "U+F78E",
+        "name": "braceLarger"
+      },
+      {
+        "codepoint": "U+F790",
+        "name": "braceFlat"
+      }
+    ],
     "block": "E000",
     "classes": [],
     "code": 57344,
@@ -10093,6 +10297,38 @@
     "codepoint": "U+F71A",
     "description": "Brace twenty times the height",
     "variantOf": "brace"
+  },
+  "braceFlat": {
+    "alternateOf": "brace",
+    "block": "F400",
+    "classes": [],
+    "code": 63376,
+    "codepoint": "U+F790",
+    "description": "Brace flat"
+  },
+  "braceLarge": {
+    "alternateOf": "brace",
+    "block": "F400",
+    "classes": [],
+    "code": 63372,
+    "codepoint": "U+F78C",
+    "description": "Brace large"
+  },
+  "braceLarger": {
+    "alternateOf": "brace",
+    "block": "F400",
+    "classes": [],
+    "code": 63374,
+    "codepoint": "U+F78E",
+    "description": "Brace larger"
+  },
+  "braceSmall": {
+    "alternateOf": "brace",
+    "block": "F400",
+    "classes": [],
+    "code": 63370,
+    "codepoint": "U+F78A",
+    "description": "Brace small"
   },
   "braceleft": {
     "block": "0000",
@@ -25334,6 +25570,24 @@
     "description": "Whole rest on leger line"
   },
   "reversedBrace": {
+    "alternates": [
+      {
+        "codepoint": "U+F78B",
+        "name": "reversedBraceSmall"
+      },
+      {
+        "codepoint": "U+F78D",
+        "name": "reversedBraceLarge"
+      },
+      {
+        "codepoint": "U+F78F",
+        "name": "reversedBraceLarger"
+      },
+      {
+        "codepoint": "U+F791",
+        "name": "reversedBraceFlat"
+      }
+    ],
     "block": "E000",
     "classes": [],
     "code": 57345,
@@ -25441,6 +25695,38 @@
     "codepoint": "U+F71B",
     "description": "Reversed brace twenty times the height",
     "variantOf": "reversedBrace"
+  },
+  "reversedBraceFlat": {
+    "alternateOf": "reversedBrace",
+    "block": "F400",
+    "classes": [],
+    "code": 63377,
+    "codepoint": "U+F791",
+    "description": "Reversed brace flat"
+  },
+  "reversedBraceLarge": {
+    "alternateOf": "reversedBrace",
+    "block": "F400",
+    "classes": [],
+    "code": 63373,
+    "codepoint": "U+F78D",
+    "description": "Reversed brace large"
+  },
+  "reversedBraceLarger": {
+    "alternateOf": "reversedBrace",
+    "block": "F400",
+    "classes": [],
+    "code": 63375,
+    "codepoint": "U+F78F",
+    "description": "Reversed brace larger"
+  },
+  "reversedBraceSmall": {
+    "alternateOf": "reversedBrace",
+    "block": "F400",
+    "classes": [],
+    "code": 63371,
+    "codepoint": "U+F78B",
+    "description": "Reversed brace small"
   },
   "reversedBracket": {
     "block": "F400",

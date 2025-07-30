@@ -2499,6 +2499,30 @@
     "codepoint": "U+F604",
     "description": "1/6 tone high"
   },
+  "accidentalRHMKink12Down": {
+    "codepoint": "U+F784",
+    "description": "1/12 tone low (with kink)"
+  },
+  "accidentalRHMKink12Up": {
+    "codepoint": "U+F787",
+    "description": "1/12 tone high (with kink)"
+  },
+  "accidentalRHMKink4Down": {
+    "codepoint": "U+F786",
+    "description": "1/4 tone low (with kink)"
+  },
+  "accidentalRHMKink4Up": {
+    "codepoint": "U+F789",
+    "description": "1/4 tone high (with kink)"
+  },
+  "accidentalRHMKink6Down": {
+    "codepoint": "U+F785",
+    "description": "1/6 tone low (with kink)"
+  },
+  "accidentalRHMKink6Up": {
+    "codepoint": "U+F788",
+    "description": "1/6 tone high (with kink)"
+  },
   "accidentalRHMNatural": {
     "codepoint": "U+F615",
     "description": "Cancellation stroke for arrows"
@@ -3703,6 +3727,22 @@
   "brace200": {
     "codepoint": "U+F71A",
     "description": "Brace twenty times the height"
+  },
+  "braceFlat": {
+    "codepoint": "U+F790",
+    "description": "Brace flat"
+  },
+  "braceLarge": {
+    "codepoint": "U+F78C",
+    "description": "Brace large"
+  },
+  "braceLarger": {
+    "codepoint": "U+F78E",
+    "description": "Brace larger"
+  },
+  "braceSmall": {
+    "codepoint": "U+F78A",
+    "description": "Brace small"
   },
   "braceleft": {
     "codepoint": "U+007B",
@@ -10159,6 +10199,22 @@
   "reversedBrace200": {
     "codepoint": "U+F71B",
     "description": "Reversed brace twenty times the height"
+  },
+  "reversedBraceFlat": {
+    "codepoint": "U+F791",
+    "description": "Reversed brace flat"
+  },
+  "reversedBraceLarge": {
+    "codepoint": "U+F78D",
+    "description": "Reversed brace large"
+  },
+  "reversedBraceLarger": {
+    "codepoint": "U+F78F",
+    "description": "Reversed brace larger"
+  },
+  "reversedBraceSmall": {
+    "codepoint": "U+F78B",
+    "description": "Reversed brace small"
   },
   "reversedBracket": {
     "codepoint": "U+F643",
