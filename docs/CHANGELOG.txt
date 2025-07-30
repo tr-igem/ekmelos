@@ -1453,3 +1453,19 @@ Version 2.58 (14 September 2024):
   accidentalUpperDoubleFlat (U+F76C) - accidentalLowerDoubleSharp (U+F783).
 - Added accordion symbols:
   accdnRegisterSwitchOpen (U+F71E) - accdnRegisterSwitchClosed (U+F71F).
+
+Version 2.59 (30 July 2025):
+- Changed repeatDot (U+E044) to vertically centered (issue #8).
+- Added stylistic alternates of Richter Herf / Maedel accidentals with kink (issue #9):
+  accidentalRHMKink12Down (U+F784) - accidentalRHMKink4Up (U+F789).
+- Added stylistic alternates of brace (U+E000) (issue #10):
+  braceSmall (U+F78A) - reversedBraceFlat (U+F791).
+- Reduced width of large Persian Sori accidentals:
+  accidentalSoriLarge (U+F676), accidentalSoriSharpLarge (U+F677),
+  accidentalLowerSori (U+F77A), accidentalUpperSori (U+F77B),
+  accidentalLowerSoriSharp (U+F780), accidentalUpperSoriSharp (U+F781).
+- Reduced slightly width of symbols:
+  BLACK QUESTION MARK ORNAMENT (U+2753), WHITE QUESTION MARK ORNAMENT (U+2754).
+- Renamed "metadata.json" to "ekmelos.json".
+- ekmelos-setup.iss: Changed DestDir of metadata files to "{app}".
+- ekmelos-map.ily, ekmelos-paths.ily: Changed table.
