@@ -641,7 +641,13 @@
     "accidentalLowerSoriSharp",
     "accidentalUpperSoriSharp",
     "accidentalGraveDoubleSharp",
-    "accidentalLowerDoubleSharp"
+    "accidentalLowerDoubleSharp",
+    "accidentalRHMKink12Down",
+    "accidentalRHMKink6Down",
+    "accidentalRHMKink4Down",
+    "accidentalRHMKink12Up",
+    "accidentalRHMKink6Up",
+    "accidentalRHMKink4Up"
   ],
   "accidentals24EDOArrows": [
     "accidentalQuarterToneFlatArrowUp",
@@ -971,7 +977,13 @@
     "accidentalRHM12Up",
     "accidentalRHM6Up",
     "accidentalRHM4Up",
-    "accidentalRHMNatural"
+    "accidentalRHMNatural",
+    "accidentalRHMKink12Down",
+    "accidentalRHMKink6Down",
+    "accidentalRHMKink4Down",
+    "accidentalRHMKink12Up",
+    "accidentalRHMKink6Up",
+    "accidentalRHMKink4Up"
   ],
   "accidentalsSagittalAthenian": [
     "accSagittal7v11KleismaUp",
@@ -2635,7 +2647,13 @@
     "accidentalLowerSoriSharp",
     "accidentalUpperSoriSharp",
     "accidentalGraveDoubleSharp",
-    "accidentalLowerDoubleSharp"
+    "accidentalLowerDoubleSharp",
+    "accidentalRHMKink12Down",
+    "accidentalRHMKink6Down",
+    "accidentalRHMKink4Down",
+    "accidentalRHMKink12Up",
+    "accidentalRHMKink6Up",
+    "accidentalRHMKink4Up"
   ],
   "dynamics": [
     "dynamicPiano",

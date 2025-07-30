@@ -169,7 +169,13 @@
     "accidentalRHM4Up",
     "accidentalRHM6Down",
     "accidentalRHM6Up",
-    "accidentalRHMNatural"
+    "accidentalRHMNatural",
+    "accidentalRHMKink12Down",
+    "accidentalRHMKink6Down",
+    "accidentalRHMKink4Down",
+    "accidentalRHMKink12Up",
+    "accidentalRHMKink6Up",
+    "accidentalRHMKink4Up"
   ],
 
   "accidentalsHesse": [
