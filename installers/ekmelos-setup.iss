@@ -3,11 +3,11 @@
 [Setup]
 AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
-AppVersion="2.58"
-; AppVerName="Ekmelos Font 2.58"
-AppCopyright="Copyright (c) 2013-2024 by Thomas Richter (thomas-richter@aon.at)"
+AppVersion="2.59"
+; AppVerName="Ekmelos Font 2.59"
+AppCopyright="Copyright (c) 2013-2025 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
-AppPublisherURL="http://www.ekmelic-music.org/"
+AppPublisherURL="https://github.com/tr-igem/ekmelos"
 AppSupportURL="https://github.com/tr-igem/ekmelos"
 AppUpdatesURL="https://github.com/tr-igem/ekmelos"
 DefaultDirName="{commoncf}\SMuFL\Fonts\Ekmelos"
@@ -31,12 +31,12 @@ de.SelectDirDesc=Wo sollen die Extradateien von Ekmelos installiert werden?
 de.SelectDirLabel3=Das Setup wird die Extradateien von Ekmelos in den folgenden Ordner (und den Unterordner metadata) installieren.
 
 [Files]
-Source: "..\metadata\classes.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\metadata\glyphdata.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\metadata\glyphnames.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\metadata\metadata.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\metadata\ekmelib.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
-Source: "..\metadata\ekmelily.json"; DestDir: "{app}\metadata"; Flags: ignoreversion
+Source: "..\metadata\ekmelos.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\metadata\classes.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\metadata\glyphdata.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\metadata\glyphnames.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\metadata\ekmelib.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\metadata\ekmelily.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\LICENSE.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\OFL-FAQ.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\docs\CHANGELOG.txt"; DestDir: "{app}"; Flags: ignoreversion
