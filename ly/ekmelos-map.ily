@@ -1,4 +1,4 @@
-%% Copyright (C) 2017-2024 Thomas Richter
+%% Copyright (C) 2017-2025 Thomas Richter
 %%
 %% This program is free software: you can redistribute it and/or modify
 %% it under the terms of the GNU General Public License as published by
@@ -14,7 +14,8 @@
 
 \version "2.22.0"
 
-#(define-public ekmelos-map '(
+#(define-public ekm-font-map '(
+  "Ekmelos"
   ("space" . #x0020)
   ("exclam" . #x0021)
   ("quotedbl" . #x0022)
@@ -3025,26 +3026,40 @@
   ("accidentalUpperSoriSharp" . #xF781)
   ("accidentalGraveDoubleSharp" . #xF782)
   ("accidentalLowerDoubleSharp" . #xF783)
+  ("accidentalRHMKink12Down" . #xF784)
+  ("accidentalRHMKink6Down" . #xF785)
+  ("accidentalRHMKink4Down" . #xF786)
+  ("accidentalRHMKink12Up" . #xF787)
+  ("accidentalRHMKink6Up" . #xF788)
+  ("accidentalRHMKink4Up" . #xF789)
+  ("braceSmall" . #xF78A)
+  ("reversedBraceSmall" . #xF78B)
+  ("braceLarge" . #xF78C)
+  ("reversedBraceLarge" . #xF78D)
+  ("braceLarger" . #xF78E)
+  ("reversedBraceLarger" . #xF78F)
+  ("braceFlat" . #xF790)
+  ("reversedBraceFlat" . #xF791)
 ))
 
 #(define-markup-command (ekm-glyph layout props name)
   (string?)
   #:properties ((font-size 0))
-  (let ((cp (assoc-ref ekmelos-map name)))
+  (let ((cp (assoc-ref (cdr ekm-font-map) name)))
     (if cp
       (interpret-markup layout
         (cons
           `((font-size . ,(+ font-size 5))
-            (font-name . "Ekmelos"))
+            (font-name . ,(car ekm-font-map)))
           props)
         (ly:wide-char->utf-8 cp))
       (interpret-markup layout props
         (make-musicglyph-markup name)))))
 
-#(define (ekm-has-glyph? name)
-   (pair? (assoc name ekmelos-map)))
+#(define-public (ekm-has-glyph? name)
+   (pair? (assoc name (cdr ekm-font-map))))
 
-#(define (ekm-glyphname code)
-  (let name ((l ekmelos-map))
+#(define-public (ekm-glyphname code)
+  (let name ((l (cdr ekm-font-map)))
     (if (null? l)
       #f (if (= code (cdar l)) (caar l) (name (cdr l))))))
