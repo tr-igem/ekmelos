@@ -52,6 +52,7 @@
 ## Revised for path to SMuFL metadata, 23 March 2024
 ## Revised for accidentals-TUNING.csv and FONTNAME.json,
 ##  Selecting noteheads and flags for stem anchors, 30 July 2025
+## Revised for stem length of flags, 11 August 2025
 ##
 ## Inspired from generate_font_metadata.py by Robert Piéchaud
 ## This program is free software. Use, redistribute, and modify it as you wish.
@@ -167,6 +168,10 @@ class Anchors:
     def add(self, k, x, y):
         if None == self.d: self.d = {}
         self.d[k] = (round(x / staffSpace, 3), round(y / staffSpace, 3))
+
+    def addSS(self, k, x, y):
+        if None == self.d: self.d = {}
+        self.d[k] = (x, y)
 
     def finish(self, n):
         if self.d != None:
@@ -353,6 +358,63 @@ noteheadOrigin = {
     0xF639: 36 }
 
 
+# stem length (in staff spaces) of flags
+flagStemLength = {
+    # default
+    0xE240: 0,
+    0xE242: 0,
+    0xE244: 0.73,
+    0xE246: 1.45,
+    0xE248: 2.18,
+    0xE24A: 2.92,
+    0xE24C: 3.65,
+    0xE24E: 4.39,
+    0xE241: 0,
+    0xE243: 0,
+    0xE245: 0.73,
+    0xE247: 1.45,
+    0xE249: 2.18,
+    0xE24B: 2.92,
+    0xE24D: 3.65,
+    0xE24F: 4.39,
+
+    # short
+    0xF410: 0,
+    0xF413: 0,
+    0xF416: 0,
+    0xF419: 0.53,
+    0xF41C: 1.03,
+    0xF41F: 1.61,
+    0xF422: 2.18,
+    0xF425: 2.76,
+    0xF6C0: 0,
+    0xF6C1: 0,
+    0xF6C2: 0,
+    0xF6C3: 0.53,
+    0xF6C4: 1.03,
+    0xF6C5: 1.61,
+    0xF6C6: 2.18,
+    0xF6C7: 2.76,
+
+    # straight
+    0xF40F: 0,
+    0xF412: 0,
+    0xF415: 0,
+    0xF418: 0.85,
+    0xF41B: 1.71,
+    0xF41E: 2.5,
+    0xF421: 3.29,
+    0xF424: 4.05,
+    0xF411: 0,
+    0xF414: 0,
+    0xF417: 0,
+    0xF41A: 0.85,
+    0xF41D: 1.71,
+    0xF420: 2.5,
+    0xF423: 3.29,
+    0xF426: 4.05 }
+
+
 # classes to which glyphs of the font belong
 classes = {}
 
@@ -448,26 +510,11 @@ for n in font:
             anchor.add('stemUpSE', x[1], r)
 
     # stem anchor of flags
-    # 0xE240 - 0xE24F
-    # 0xF40F - 0xF426
-    # 0xF6C0 - 0xF6C7
-    if (n.startswith("flag") and not n.startswith("flagInternal")):
-        for co in g.layers[1]: # assume one outer (clockwise) contour
-            if co.isClockwise():
-                break
-
+    if n.startswith("flag") and not n.startswith("flagInternal") and c in flagStemLength:
         if "Up" in n:
-            for y in range(int(bb[3]), int(bb[1]), -1):
-                x = co.xBoundsAtY(y)
-                if x != None and (x[1] - x[0]) > 35:
-                    anchor.add('stemUpNW', int(x[0]), y)
-                    break
+            anchor.addSS('stemUpNW', 0, flagStemLength[c])
         else:
-            for y in range(int(bb[1]), int(bb[3])):
-                x = co.xBoundsAtY(y)
-                if x != None and (x[1] - x[0]) > 35:
-                    anchor.add('stemDownSW', int(x[0]), y)
-                    break
+            anchor.addSS('stemDownSW', 0, -flagStemLength[c])
 
     # offset of repeating glyphs
     # (Combining strokes for trills and mordents, Multi-segment lines)
