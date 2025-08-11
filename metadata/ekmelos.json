@@ -45708,290 +45708,290 @@
     },
     "flag1024thDown": {
       "stemDownSW": [
-        0.0,
-        -4.316
+        0,
+        -4.39
       ]
     },
     "flag1024thDownShort": {
       "stemDownSW": [
-        0.0,
-        -2.768
+        0,
+        -2.76
       ]
     },
     "flag1024thDownStraight": {
       "stemDownSW": [
-        0.0,
-        -3.316
+        0,
+        -4.05
       ]
     },
     "flag1024thUp": {
       "stemUpNW": [
-        0.0,
-        4.56
+        0,
+        4.39
       ]
     },
     "flag1024thUpShort": {
       "stemUpNW": [
-        0.0,
-        3.012
+        0,
+        2.76
       ]
     },
     "flag1024thUpStraight": {
       "stemUpNW": [
-        0.0,
-        3.444
+        0,
+        4.05
       ]
     },
     "flag128thDown": {
       "stemDownSW": [
-        0.0,
-        -2.052
+        0,
+        -2.18
       ]
     },
     "flag128thDownShort": {
       "stemDownSW": [
-        0.0,
-        -0.988
+        0,
+        -1.03
       ]
     },
     "flag128thDownStraight": {
       "stemDownSW": [
-        0.0,
-        -0.868
+        0,
+        -1.71
       ]
     },
     "flag128thUp": {
       "stemUpNW": [
-        0.0,
-        2.3
+        0,
+        2.18
       ]
     },
     "flag128thUpShort": {
       "stemUpNW": [
-        0.0,
-        1.22
+        0,
+        1.03
       ]
     },
     "flag128thUpStraight": {
       "stemUpNW": [
-        0.0,
-        0.9
+        0,
+        1.71
       ]
     },
     "flag16thDown": {
       "stemDownSW": [
-        0.0,
-        0.196
+        0,
+        0
       ]
     },
     "flag16thDownShort": {
       "stemDownSW": [
-        0.0,
-        0.152
+        0,
+        0
       ]
     },
     "flag16thDownStraight": {
       "stemDownSW": [
-        0.0,
-        0.908
+        0,
+        0
       ]
     },
     "flag16thUp": {
       "stemUpNW": [
-        0.0,
-        -0.22
+        0,
+        0
       ]
     },
     "flag16thUpShort": {
       "stemUpNW": [
-        0.0,
-        -0.164
+        0,
+        0
       ]
     },
     "flag16thUpStraight": {
       "stemUpNW": [
-        0.0,
-        -0.94
+        0,
+        0
       ]
     },
     "flag256thDown": {
       "stemDownSW": [
-        0.0,
-        -2.804
+        0,
+        -2.92
       ]
     },
     "flag256thDownShort": {
       "stemDownSW": [
-        0.0,
-        -1.584
+        0,
+        -1.61
       ]
     },
     "flag256thDownStraight": {
       "stemDownSW": [
-        0.0,
-        -1.708
+        0,
+        -2.5
       ]
     },
     "flag256thUp": {
       "stemUpNW": [
-        0.0,
-        3.048
+        0,
+        2.92
       ]
     },
     "flag256thUpShort": {
       "stemUpNW": [
-        0.0,
-        1.812
+        0,
+        1.61
       ]
     },
     "flag256thUpStraight": {
       "stemUpNW": [
-        0.0,
-        1.772
+        0,
+        2.5
       ]
     },
     "flag32ndDown": {
       "stemDownSW": [
-        0.0,
-        -0.552
+        0,
+        -0.73
       ]
     },
     "flag32ndDownShort": {
       "stemDownSW": [
-        0.0,
-        0.12
+        0,
+        0
       ]
     },
     "flag32ndDownStraight": {
       "stemDownSW": [
-        0.0,
-        0.908
+        0,
+        0
       ]
     },
     "flag32ndUp": {
       "stemUpNW": [
-        0.0,
-        0.532
+        0,
+        0.73
       ]
     },
     "flag32ndUpShort": {
       "stemUpNW": [
-        0.0,
-        -0.16
+        0,
+        0
       ]
     },
     "flag32ndUpStraight": {
       "stemUpNW": [
-        0.0,
-        -0.94
+        0,
+        0
       ]
     },
     "flag512thDown": {
       "stemDownSW": [
-        0.0,
-        -3.556
+        0,
+        -3.65
       ]
     },
     "flag512thDownShort": {
       "stemDownSW": [
-        0.0,
-        -2.168
+        0,
+        -2.18
       ]
     },
     "flag512thDownStraight": {
       "stemDownSW": [
-        0.0,
-        -2.524
+        0,
+        -3.29
       ]
     },
     "flag512thUp": {
       "stemUpNW": [
-        0.0,
-        3.804
+        0,
+        3.65
       ]
     },
     "flag512thUpShort": {
       "stemUpNW": [
-        0.0,
-        2.408
+        0,
+        2.18
       ]
     },
     "flag512thUpStraight": {
       "stemUpNW": [
-        0.0,
-        2.62
+        0,
+        3.29
       ]
     },
     "flag64thDown": {
       "stemDownSW": [
-        0.0,
-        -1.304
+        0,
+        -1.45
       ]
     },
     "flag64thDownShort": {
       "stemDownSW": [
-        0.0,
-        -0.456
+        0,
+        -0.53
       ]
     },
     "flag64thDownStraight": {
       "stemDownSW": [
-        0.0,
-        0.02
+        0,
+        -0.85
       ]
     },
     "flag64thUp": {
       "stemUpNW": [
-        0.0,
-        1.348
+        0,
+        1.45
       ]
     },
     "flag64thUpShort": {
       "stemUpNW": [
-        0.0,
-        0.476
+        0,
+        0.53
       ]
     },
     "flag64thUpStraight": {
       "stemUpNW": [
-        0.0,
-        -0.02
+        0,
+        0.85
       ]
     },
     "flag8thDown": {
       "stemDownSW": [
-        0.0,
-        0.2
+        0,
+        0
       ]
     },
     "flag8thDownShort": {
       "stemDownSW": [
-        0.0,
-        0.148
+        0,
+        0
       ]
     },
     "flag8thDownStraight": {
       "stemDownSW": [
-        0.0,
-        -0.016
+        0,
+        0
       ]
     },
     "flag8thUp": {
       "stemUpNW": [
-        0.0,
-        -0.216
+        0,
+        0
       ]
     },
     "flag8thUpShort": {
       "stemUpNW": [
-        0.0,
-        -0.16
+        0,
+        0
       ]
     },
     "flag8thUpStraight": {
       "stemUpNW": [
-        0.0,
-        0.016
+        0,
+        0
       ]
     },
     "functionSlashedD": {
