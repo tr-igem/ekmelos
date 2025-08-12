@@ -358,6 +358,21 @@ noteheadOrigin = {
     0xF639: 36 }
 
 
+# stem anchor data of some note heads
+# where the data are missing or wrong determined from the glyph
+noteheadStemAnchor = {
+    0xE117: (422, 161,  68, -161),
+    0xE116: (422, 161,  68, -161),
+    0xE1C0: (250, 100,  0, 100),
+    0xE1C1: (250, 100,  0, 100),
+    0xE1B0: (326, 45,   0, -45),
+    0xE1B1: (326, 45,   0, -45),
+    0xE1BA: (326, -100, 0, -100),
+    0xE1BB: (326, -100, 0, -100),
+    0xE1BE: (326, 30,   0, 30),
+    0xE1BF: (326, 30,   0, 30) }
+
+
 # stem length (in staff spaces) of flags
 flagStemLength = {
     # default
@@ -489,25 +504,27 @@ for n in font:
                     SW.coord(co, bb[0], bb[1]) # (xmin,ymin)
 
     # stem anchor of noteheads
-    if (("noteheads" in cls) and ("Half" in n or "Black" in n or "White" in n)):
-        x = (bb[0] - g.left_side_bearing,
-             bb[2] + g.right_side_bearing)
-        l = MAX
-        r = -MAX
-
-        for co in g.layers[1]: # assume one outer (clockwise) contour
-            if co.isClockwise():
-                break
-
-        for p in co:
-            if p.on_curve:
-                if p.x == x[0]: l = min(l, p.y)
-                if p.x == x[1]: r = max(r, p.y)
-
-        if l != MAX:
-            anchor.add('stemDownNW', x[0], l)
-        if r != -MAX:
-            anchor.add('stemUpSE', x[1], r)
+    if (("noteheads" in cls) and ("Half" in n or "Black" in n or "White" in n)) or c in noteheadStemAnchor:
+        if c in noteheadStemAnchor:
+            l = noteheadStemAnchor[c]
+            anchor.add('stemUpSE', l[0], l[1])
+            anchor.add('stemDownNW', l[2], l[3])
+        else:
+            x = (bb[0] - g.left_side_bearing,
+                 bb[2] + g.right_side_bearing)
+            l = MAX
+            r = -MAX
+            for co in g.layers[1]: # assume one outer (clockwise) contour
+                if co.isClockwise():
+                    break
+            for p in co:
+                if p.on_curve:
+                    if p.x == x[0]: l = min(l, p.y)
+                    if p.x == x[1]: r = max(r, p.y)
+            if l != MAX:
+                anchor.add('stemDownNW', x[0], l)
+            if r != -MAX:
+                anchor.add('stemUpSE', x[1], r)
 
     # stem anchor of flags
     if n.startswith("flag") and not n.startswith("flagInternal") and c in flagStemLength:
