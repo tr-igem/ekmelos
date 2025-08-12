@@ -7034,7 +7034,8 @@
     ],
     "code": 63364,
     "codepoint": "U+F784",
-    "description": "1/12 tone low (with kink)"
+    "description": "1/12 tone low (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMKink12Up": {
     "alternateOf": "accidentalRHM12Up",
@@ -7046,7 +7047,8 @@
     ],
     "code": 63367,
     "codepoint": "U+F787",
-    "description": "1/12 tone high (with kink)"
+    "description": "1/12 tone high (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMKink4Down": {
     "alternateOf": "accidentalRHM4Down",
@@ -7058,7 +7060,8 @@
     ],
     "code": 63366,
     "codepoint": "U+F786",
-    "description": "1/4 tone low (with kink)"
+    "description": "1/4 tone low (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMKink4Up": {
     "alternateOf": "accidentalRHM4Up",
@@ -7070,7 +7073,8 @@
     ],
     "code": 63369,
     "codepoint": "U+F789",
-    "description": "1/4 tone high (with kink)"
+    "description": "1/4 tone high (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMKink6Down": {
     "alternateOf": "accidentalRHM6Down",
@@ -7082,7 +7086,8 @@
     ],
     "code": 63365,
     "codepoint": "U+F785",
-    "description": "1/6 tone low (with kink)"
+    "description": "1/6 tone low (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMKink6Up": {
     "alternateOf": "accidentalRHM6Up",
@@ -7094,7 +7099,8 @@
     ],
     "code": 63368,
     "codepoint": "U+F788",
-    "description": "1/6 tone high (with kink)"
+    "description": "1/6 tone high (with kink)",
+    "ekmelily": true
   },
   "accidentalRHMNatural": {
     "block": "F400",
@@ -7234,7 +7240,8 @@
     ],
     "code": 62993,
     "codepoint": "U+F611",
-    "description": "Arrow up with ring (raise for 15-edo and 21-edo)"
+    "description": "Arrow up with ring (raise for 15-edo and 21-edo)",
+    "ekmelily": true
   },
   "accidentalSharp": {
     "alternateCodepoint": "U+266F",

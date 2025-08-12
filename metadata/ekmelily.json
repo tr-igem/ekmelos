@@ -66,6 +66,14 @@
       "accidentalNatural": 0,
       "accidentalSharp": 2
     },
+    "bl": {
+      "accidentalDoubleFlat": -4,
+      "accidentalDoubleSharp": 4,
+      "accidentalFlat": -2,
+      "accidentalNatural": 0,
+      "accidentalRingArrowUp": 1,
+      "accidentalSharp": 2
+    },
     "four": {
       "accidentalDoubleFlat": -4,
       "accidentalDoubleSharp": 4,
@@ -659,6 +667,19 @@
       "accidentalRHM4Up": 3,
       "accidentalRHM6Down": -2,
       "accidentalRHM6Up": 2,
+      "accidentalSharp": 6
+    },
+    "rhmk": {
+      "accidentalDoubleFlat": -12,
+      "accidentalDoubleSharp": 12,
+      "accidentalFlat": -6,
+      "accidentalNatural": 0,
+      "accidentalRHMKink12Down": -1,
+      "accidentalRHMKink12Up": 1,
+      "accidentalRHMKink4Down": -3,
+      "accidentalRHMKink4Up": 3,
+      "accidentalRHMKink6Down": -2,
+      "accidentalRHMKink6Up": 2,
       "accidentalSharp": 6
     },
     "sag": {
