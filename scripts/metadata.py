@@ -53,6 +53,7 @@
 ## Revised for accidentals-TUNING.csv and FONTNAME.json,
 ##  Selecting noteheads and flags for stem anchors, 30 July 2025
 ## Revised for stem length of flags, 11 August 2025
+## Revised for engravingDefaults, 4 January 2026
 ##
 ## Inspired from generate_font_metadata.py by Robert Piéchaud
 ## This program is free software. Use, redistribute, and modify it as you wish.
@@ -210,7 +211,7 @@ SW = Cutout("SW", 1, 1)
 
 def upm(v):
     """Convert upm to staff spaces (1 ss = 1/4 em)"""
-    return round(v / staffSpace, 3)
+    return round(v / staffSpace, 4)
 
 
 # read SMuFL metadata for the characters in the font
@@ -790,16 +791,15 @@ metadata = {
     # 'designSize': 100,
     # 'sizeRange': [ 80, 160 ],
     'engravingDefaults': {
-        'textFontFamily': [ "sans-serif" ], # not sure
-        'staffLineThickness': upm(28),
+        'staffLineThickness': 0.1,
         'legerLineThickness': upm(56),
-        'legerLineExtension': upm(98),
+        'legerLineExtension': upm(98.5),
         'stemThickness': upm(30),
         'beamThickness': upm(120),
         'beamSpacing': upm(80),
-        'slurEndpointThickness': upm(28.4),
-        'slurMidpointThickness': upm(50),
-        'tieEndpointThickness': upm(28.4),
+        'slurEndpointThickness': upm(33),
+        'slurMidpointThickness': upm(55),
+        'tieEndpointThickness': upm(28),
         'tieMidpointThickness': upm(42),
         'thinBarlineThickness': upm(47),
         'thickBarlineThickness': upm(147),
@@ -810,16 +810,17 @@ metadata = {
         'thinThickBarlineSeparation': upm(76),
         'repeatBarlineDotSeparation': upm(76),
         'bracketThickness': upm(75),
-        'subBracketThickness': upm(47),
+        'subBracketThickness': 0.1792,
         'hairpinThickness': upm(28),
-        'octaveLineThickness': upm(42),
+        'octaveLineThickness': upm(43),
         'pedalLineThickness': upm(36),
-        'repeatEndingLineThickness': 0.16, # from Bravura
+        'repeatEndingLineThickness': 0.1792,
         'arrowShaftThickness': upm(40),
-        'lyricLineThickness': upm(55),
-        'textEnclosureThickness': upm(40), # or upm(32) ?
-        'tupletBracketThickness': 0.16, # from Bravura
-        'hBarThickness': upm(164) }}
+        'lyricLineThickness': upm(54),
+        'tupletBracketThickness': upm(38),
+        'hBarThickness': upm(164),
+        'textEnclosureThickness': upm(40),
+        'textFontFamily': [ "sans-serif" ] }}
 
 
 if len(anchor.data): metadata['glyphsWithAnchors'] = anchor.data
