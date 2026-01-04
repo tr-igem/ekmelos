@@ -5,7 +5,7 @@ AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
 AppVersion="2.59"
 ; AppVerName="Ekmelos Font 2.59"
-AppCopyright="Copyright (c) 2013-2025 by Thomas Richter (thomas-richter@aon.at)"
+AppCopyright="Copyright (c) 2013-2026 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
 AppPublisherURL="https://github.com/tr-igem/ekmelos"
 AppSupportURL="https://github.com/tr-igem/ekmelos"
@@ -40,4 +40,4 @@ Source: "..\metadata\ekmelily.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\LICENSE.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\OFL-FAQ.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\docs\CHANGELOG.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "..\fonts\otf\Ekmelos.otf"; DestDir: "{fonts}"; FontInstall: "Ekmelos"; Flags: uninsneveruninstall fontisnttruetype
+Source: "..\fonts\otf\Ekmelos.otf"; DestDir: "{commonfonts}"; FontInstall: "Ekmelos"; Flags: uninsneveruninstall fontisnttruetype
