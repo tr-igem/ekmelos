@@ -27,7 +27,7 @@
 ## ekmelib.json              glyphs grouped by ekmelib tunings
 ## FONTNAME-map.ily          Scheme alist of glyph names for LilyPond
 ##
-## Written by Thomas Richter (<thomas-richter@aon.at>), July 2017
+## Written by Thomas Richter (thomas-richter@aon.at), July 2017
 ## Revised for Ekmelily 3.0, June 2019
 ## Revised for ekmelib and Ekmelos 2.6, January 2020
 ## Revised for Ekmelily/tunings.txt and alterations-TUNING.csv, April 2020
@@ -53,7 +53,8 @@
 ## Revised for accidentals-TUNING.csv and FONTNAME.json,
 ##  Selecting noteheads and flags for stem anchors, 30 July 2025
 ## Revised for stem length of flags, 11 August 2025
-## Revised for engravingDefaults, 4 January 2026
+## 2026-01-04: Fix engravingDefaults
+## 2026-01-17: Fix glyph name table and template file
 ##
 ## Inspired from generate_font_metadata.py by Robert Piéchaud
 ## This program is free software. Use, redistribute, and modify it as you wish.
@@ -62,12 +63,11 @@
 import fontforge
 import json
 import csv
-from datetime import date
 
 
 font = fontforge.activeFont()  # or fontforge.fonts()[0]
 
-basepath = font.path.rsplit("/", 1)[0]  # "/Ekmelik/Software/Ekmelos"
+basepath = font.path.rsplit("/", 1)[0]
 metapath = basepath + "/metadata"
 lilypath = basepath + "/ly"
 smuflpath = metapath + "/smufl"
@@ -78,13 +78,11 @@ accpath = "/Ekmelik/Software/Tables/accidentals"
 
 mapname = font.fullname.lower().split()
 mapname.append("map")
-mapname = "-".join(mapname)  # "ekmelos-map"
+mapname = "-".join(mapname)
 
 staffSpace = font.em / 4.0  # usually 250
 
 MAX = 10000
-
-now = date.today()
 
 
 # staff-line thickness in upm (for engravingDefaults)
@@ -730,7 +728,7 @@ for tuning in notations.keys():
 glyphnames = {}
 l = ''
 
-file = open(lilypath + "/" + mapname + "-template.ily")
+file = open(lilypath + "/template-map.ily")
 tpl = file.read(-1)
 file.close()
 
@@ -779,7 +777,7 @@ for d in sorted(glyphdata.values(), key=lambda x: x['code']):
     d.pop('ref', 0) # del raises an exception if 'ref' is not present
 
 file = open(lilypath + "/" + mapname + ".ily", 'w', newline = "\n")
-file.write(tpl.format(now.year, font.fullname, l))
+file.write(tpl.format(font.copyright, font.fullname, l))
 file.close()
 
 

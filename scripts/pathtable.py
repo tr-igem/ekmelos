@@ -6,39 +6,38 @@
 ##
 ## Script for FontForge generating a LilyPond path table
 ## from the currently active font.
+## Reads "FONTPATH/ly/template-paths.ily" and saves it with the
+## included path table under "FONTPATH/ly/FONTNAME-paths.ily".
 ##
-## Format:
+## Table format:
 ## A Scheme alist with all glyphs of the font mapped onto codepoints,
 ## except for glyphs without contour (space, glyphs with reference).
-## Each value (cdr) is a command list describing the path of the glyph
-## for use with (make-path-stencil):
+## Each value is a command list describing the path of the glyph
+## for use with `make-path-stencil`:
 ##
-##  (codepoint M x y command ... x y ... z ...)
+##  (CODEPOINT COMMAND X Y ...)
 ##
-## x,y: integers
-## command: l or c
+## COMMAND: M, l, c, or z
+## X,Y: integers
 ##
 ##
-## Written by Thomas Richter (<thomas-richter@aon.at>), March 2024
+## Written by Thomas Richter (thomas-richter@aon.at), March 2024
 ## Revised for table format, 30 July 2025
+## 2026-01-17: Fix template file
 ##
 ## This program is free software. Use, redistribute, and modify it as you wish.
 ##
 
 import fontforge
-from datetime import date
-
 
 font = fontforge.activeFont()
 
-basepath = font.path.rsplit("/", 1)[0]  # "/Ekmelik/Software/Ekmelos"
+basepath = font.path.rsplit("/", 1)[0]
 lilypath = basepath + "/ly"
 
 filename = font.fullname.lower().split()
 filename.append("paths")
-filename = "-".join(filename)  # "ekmelos-paths"
-
-now = date.today()
+filename = "-".join(filename)
 
 
 class PathTable:
@@ -98,12 +97,12 @@ for n in font:
             tab.closepath()
         tab.glyph()
 
-path = lilypath + "/" + filename + "-template.ily"
+path = lilypath + "/template-paths.ily"
 file = open(path)
 tpl = file.read(-1)
 file.close()
 
 path = lilypath + "/" + filename + ".ily"
 file = open(path, 'w', newline = "\n")
-file.write(tpl.format(now.year, font.fullname, str(tab)))
+file.write(tpl.format(font.copyright, font.fullname, str(tab)))
 file.close()
