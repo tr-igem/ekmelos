@@ -20,8 +20,7 @@
 ## FILENAME is TITLE in kebab-case, or the glyphname or codepoint
 ## of the first glyph.
 ##
-## The template file may include the following replacement fields
-## with overall data:
+## The template file may include replacement fields:
 ##
 ##  {0.font}        Font name (fullname)
 ##  {0.copyright}   Font copyright notice
@@ -34,12 +33,15 @@
 ##  {0.height}
 ##  {0.max_height}  Maximum height of all glyphs
 ##  {0.x}           Position for the next glyph
-##  {0.path}        Sequence of <path> elements of all glyphs
+##  {0.elements}    Sequence of the elements of all glyphs
 ##
-## The first <path> element in the template file is used for each glyph.
-## It is replaced internally with "{0.path}".
-## It may include the above and the following replacement fields
-## with glyph specific data:
+## and an element "sub-template" used for each glyph:
+##
+##  {}ELEMENT{}
+##  {}ELEMENT{}PADDING{}
+##
+## It is replaced internally with "{0.elements}".
+## It may include further replacement fields for glyph specific data:
 ##
 ##  {1.unicode}     Codepoint
 ##  {1.code}        Codepoint as hex string
@@ -49,14 +51,15 @@
 ##  {1.descent}
 ##  {1.width}
 ##  {1.height}
-##  {1.path}        SVG path, for attribute "d"
+##  {1.path}        SVG path for <path d="..." />
 ##
-## The glyphs are stacked in a line with a padding of 1/20 em.
-## Another padding can be specified immediately after the <path> element.
+## The glyphs are stacked in a line with PADDING (must be a number).
+## Default is 1/20 em.
 ##
 ##
 ## Written by Thomas Richter (thomas-richter@aon.at), 2026-01-25
 ## 2026-01-26: Add codepoint, title, desc.
+## 2026-01-27: Add element template. Change 0.path to 0.elements.
 ##
 ## This program is free software. Use, redistribute, and modify it as you wish.
 ##
@@ -70,7 +73,7 @@ svgpath = basepath + "/svg"
 
 glyphnames = []
 
-pathElement = '''\
+element_tpl = '''\
   <path transform="translate({0.x} 0)" style="fill:#000000"
     d="{1.path}"
   />'''
@@ -92,7 +95,6 @@ class SvgData:
         self.height = 0
         self.max_height = 0
         self.x = 0
-        self.path = ''
 
     def name(self, n):
         n = n.strip()
@@ -116,7 +118,7 @@ class SvgData:
         self.name(n)
 
     def finish(self):
-        self.path = "\n".join([str(g) for g in self.glyphs])
+        self.elements = "".join([g.element for g in self.glyphs])
 
 
 class SvgGlyph:
@@ -133,7 +135,6 @@ class SvgGlyph:
         self.width = int(box[2] - box[0])
         self.height = int(box[3] - box[1])
 
-        self.path_element = ''
         self.path = ''
         self.m = None
         self.closepath()
@@ -169,10 +170,7 @@ class SvgGlyph:
         self.c = ''
 
     def format(self, svg):
-        self.path_element = pathElement.format(svg, self)
-
-    def __str__(self):
-        return self.path_element
+        self.element = element_tpl.format(svg, self)
 
 
 svg = SvgData(font)
@@ -180,9 +178,8 @@ svg = SvgData(font)
 
 ## read list of glyphs
 
-path = svgpath + "/svg.txt"
 try:
-    file = open(path)
+    file = open(svgpath + "/svg.txt")
 except OSError:
     pass
 else:
@@ -201,23 +198,16 @@ else:
 
 ## read template
 
-path = svgpath + "/template.svg"
-file = open(path)
+file = open(svgpath + "/template.svg")
 tpl = file.read(-1)
 file.close()
 
-p = tpl.partition("<path")
-if len(p[1]) != 0:
-    e = p[2].partition("/>")
-    if len(e[1]) != 0:
-        n = ''
-        for c in e[2]:
-            if c.isdigit(): n += c
-            else: break
-        tpl = p[0] + "{0.path}" + e[2][len(n):]
-        pathElement = p[1] + e[0] + e[1]
-        if len(n) != 0:
-            svg.pad = int(n)
+p = tpl.split("{}", 3)
+if len(p) > 2:
+    tpl = p[0] + "{0.elements}" + p[-1]
+    element_tpl = p[1]
+    if len(p) > 3:
+        svg.pad = int(p[2])
 
 
 ## generate SVG for all glyphs
@@ -242,7 +232,6 @@ svg.finish()
 
 
 if svg.filename:
-    path = svgpath + "/" + svg.filename + ".svg"
-    file = open(path, 'w', newline = "\n")
+    file = open(svgpath + "/" + svg.filename + ".svg", 'w', newline = "\n")
     file.write(tpl.format(svg))
     file.close()
