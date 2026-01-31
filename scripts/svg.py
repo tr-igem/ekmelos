@@ -11,6 +11,7 @@
 ## Format: Each line is one of:
 ##    = TITLE
 ##    == DESCRIPTION
+##    -- STYLE
 ##    Glyphname
 ##    #xCodepoint or U+Codepoint
 ##    Empty or with ## (comment), is ignored
@@ -27,6 +28,7 @@
 ##  {0.filename}    FILENAME
 ##  {0.title}       TITLE
 ##  {0.desc}        Font comment or DESCRIPTION
+##  {0.style}       STYLE... (one or more STYLE lines)
 ##  {0.ascent}      Extent acc. to all glyph bounding boxes
 ##  {0.descent}
 ##  {0.width}
@@ -60,6 +62,7 @@
 ## Written by Thomas Richter (thomas-richter@aon.at), 2026-01-25
 ## 2026-01-26: Add codepoint, title, desc.
 ## 2026-01-27: Add element template. Change 0.path to 0.elements.
+## 2026-02-01: Add style
 ##
 ## This program is free software. Use, redistribute, and modify it as you wish.
 ##
@@ -75,8 +78,8 @@ glyphnames = []
 
 element_tpl = '''\
   <path transform="translate({0.x} 0)" style="fill:#000000"
-    d="{1.path}"
-  />'''
+    d="{1.path}" />
+'''
 
 
 class SvgData:
@@ -87,6 +90,7 @@ class SvgData:
         self.filename = None
         self.title = None
         self.desc = font.comment
+        self.style = ''
         self.pad = int(font.em / 20)
         self.glyphs = []
         self.ascent = 0
@@ -191,6 +195,8 @@ else:
                 svg.desc = l[2:].strip()
             else:
                 svg.name(l[1:])
+        elif l.startswith("--"):
+            svg.style += l[2:].strip()
         else:
             glyphnames.append(l.strip())
     file.close()
