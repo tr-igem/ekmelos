@@ -32,7 +32,8 @@ import fontforge
 
 font = fontforge.activeFont()
 
-basepath = font.path.rsplit("/", 1)[0]
+# basepath = font.path.rsplit("/", 1)[0]
+basepath = "/Ekmelik/Software/Ekmelos"
 lilypath = basepath + "/ly"
 
 filename = font.fullname.lower().split()

@@ -1469,3 +1469,37 @@ Version 2.59 (30 July 2025):
 - Renamed "metadata.json" to "ekmelos.json".
 - ekmelos-setup.iss: Changed DestDir of metadata files to "{app}".
 - ekmelos-map.ily, ekmelos-paths.ily: Changed table.
+
+Version 2.60 (3 May 2026):
+- Add extended Zimmermann accidentals:
+  accidentalReversedFlatAndFlatArrowUpZim (U+E29D) -
+  accidentalFilledReversedFlatAndFlatZim (U+E29F),
+  accidentalFilledReversedFlatAndFlatArrowUpZim (U+F792),
+  accidentalFilledReversedFlatAndFlatArrowDownZim (U+F793).
+- Add narrow reversed flats and corresponding extended Zimmermann accidentals:
+  accidentalNarrowReversedFlatArrowUp (U+F794) -
+  accidentalNarrowFilledReversedFlatAndFlatArrowDown (U+F79D).
+- Change position of attow up on flats for better legibility:
+  accidentalQuarterToneFlatArrowUp (U+E270),
+  accidentalFlatArrowBoth (U+F616),
+  accidentalThreeQuarterTonesFlatArrowUp (U+E278),
+  accidentalReversedFlatArrowUp (U+E290),
+  accidentalFilledReversedFlatArrowUp (U+E292),
+  accidentalReversedFlatAndFlatArrowUp (U+E294),
+  accidentalFilledReversedFlatAndFlatArrowUp (U+E297),
+  accidentalFlatRaisedStockhausen (U+ED52).
+- Change glyph names of accidentalRingArrowDown/Up (U+F610, U+F611)
+  to accidentalBlackwoodDown/Up.
+- Add multi-segment lines supplements:
+  wiggleWavyVeryNarrow (U+F7A0) - wiggleSawtoothExtraNarrow (U+F7A5).
+- Enlarge width of *Narrower multi-segment lines:
+  wiggleWavyNarrower (U+F6B3), wiggleSquareWaveNarrower (U+F6B5),
+  wiggleSawtoothNarrower (U+F6B7).
+  Now *VeryNarrow has the width of prior *Narrower.
+- Add keyboard techniques supplements:
+  keyboardPedalConPed (U+F79E), keyboardPedalSenzaPed (U+F79F).
+- Define keyboardPedalSos2 (U+F6D1) and keyboardPedalSos (U+F6D0)
+  as stylistic alternates of keyboardPedalSost (U+E659)
+- Shorten standard accidentals for chord symbols to match letters:
+  csymAccidentalFlat (U+ED60) - csymAccidentalTripleFlat (U+ED66),
+  csymAccidentalQuadrupleSharp (U+F6F6), csymAccidentalQuadrupleFlat (U+F6F7).

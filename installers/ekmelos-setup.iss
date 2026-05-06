@@ -3,8 +3,8 @@
 [Setup]
 AppId={{469FFC9C-9901-498D-8EE5-095628BF292D}
 AppName="Ekmelos Font"
-AppVersion="2.59"
-; AppVerName="Ekmelos Font 2.59"
+AppVersion="2.60"
+; AppVerName="Ekmelos Font 2.60"
 AppCopyright="Copyright (c) 2013-2026 by Thomas Richter (thomas-richter@aon.at)"
 AppPublisher="Thomas Richter"
 AppPublisherURL="https://github.com/tr-igem/ekmelos"

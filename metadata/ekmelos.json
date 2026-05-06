@@ -1,38 +1,40 @@
 {
-  "fontName": "Ekmelos",
-  "fontVersion": "2.59",
   "engravingDefaults": {
-    "staffLineThickness": 0.1,
-    "legerLineThickness": 0.224,
-    "legerLineExtension": 0.394,
-    "stemThickness": 0.12,
-    "beamThickness": 0.48,
+    "arrowShaftThickness": 0.16,
+    "barlineSeparation": 0.304,
     "beamSpacing": 0.32,
-    "slurEndpointThickness": 0.132,
-    "slurMidpointThickness": 0.22,
-    "tieEndpointThickness": 0.112,
-    "tieMidpointThickness": 0.168,
-    "thinBarlineThickness": 0.188,
-    "thickBarlineThickness": 0.588,
-    "dashedBarlineThickness": 0.188,
+    "beamThickness": 0.48,
+    "bracketThickness": 0.3,
     "dashedBarlineDashLength": 0.6,
     "dashedBarlineGapLength": 0.4,
-    "barlineSeparation": 0.304,
-    "thinThickBarlineSeparation": 0.304,
-    "repeatBarlineDotSeparation": 0.304,
-    "bracketThickness": 0.3,
-    "subBracketThickness": 0.1792,
+    "dashedBarlineThickness": 0.188,
+    "hBarThickness": 0.656,
     "hairpinThickness": 0.112,
+    "legerLineExtension": 0.394,
+    "legerLineThickness": 0.224,
+    "lyricLineThickness": 0.216,
     "octaveLineThickness": 0.172,
     "pedalLineThickness": 0.144,
+    "repeatBarlineDotSeparation": 0.304,
     "repeatEndingLineThickness": 0.1792,
-    "arrowShaftThickness": 0.16,
-    "lyricLineThickness": 0.216,
-    "tupletBracketThickness": 0.152,
-    "hBarThickness": 0.656,
+    "slurEndpointThickness": 0.132,
+    "slurMidpointThickness": 0.22,
+    "staffLineThickness": 0.1,
+    "stemThickness": 0.12,
+    "subBracketThickness": 0.1792,
     "textEnclosureThickness": 0.16,
-    "textFontFamily": [ "sans-serif" ]
+    "textFontFamily": [
+      "sans-serif"
+    ],
+    "thickBarlineThickness": 0.588,
+    "thinBarlineThickness": 0.188,
+    "thinThickBarlineSeparation": 0.304,
+    "tieEndpointThickness": 0.112,
+    "tieMidpointThickness": 0.168,
+    "tupletBracketThickness": 0.152
   },
+  "fontName": "Ekmelos",
+  "fontVersion": "2.60",
   "glyphBBoxes": {
     "4stringTabClef": {
       "bBoxNE": [
@@ -3504,6 +3506,26 @@
         -1.5
       ]
     },
+    "accidentalBlackwoodDown": {
+      "bBoxNE": [
+        1.096,
+        0.892
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.404
+      ]
+    },
+    "accidentalBlackwoodUp": {
+      "bBoxNE": [
+        1.096,
+        1.404
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.892
+      ]
+    },
     "accidentalBraceLeft": {
       "bBoxNE": [
         0.7,
@@ -4314,10 +4336,40 @@
         -1.628
       ]
     },
+    "accidentalFilledReversedFlatAndFlatArrowDownZim": {
+      "bBoxNE": [
+        1.868,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
     "accidentalFilledReversedFlatAndFlatArrowUp": {
       "bBoxNE": [
         1.6,
-        2.332
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+      "bBoxNE": [
+        1.868,
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalFilledReversedFlatAndFlatZim": {
+      "bBoxNE": [
+        1.868,
+        1.86
       ],
       "bBoxSW": [
         0.0,
@@ -4337,7 +4389,7 @@
     "accidentalFilledReversedFlatArrowUp": {
       "bBoxNE": [
         1.32,
-        2.332
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -4416,8 +4468,8 @@
     },
     "accidentalFlatArrowBoth": {
       "bBoxNE": [
-        1.32,
-        2.332
+        1.324,
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -4577,7 +4629,7 @@
     "accidentalFlatRaisedStockhausen": {
       "bBoxNE": [
         1.32,
-        2.332
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -5464,6 +5516,66 @@
         -0.892
       ]
     },
+    "accidentalNarrowFilledReversedFlat": {
+      "bBoxNE": [
+        0.684,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlat": {
+      "bBoxNE": [
+        1.644,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+      "bBoxNE": [
+        1.644,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+      "bBoxNE": [
+        1.644,
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatArrowDown": {
+      "bBoxNE": [
+        1.116,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatArrowUp": {
+      "bBoxNE": [
+        1.124,
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
     "accidentalNarrowReversedFlat": {
       "bBoxNE": [
         0.684,
@@ -5478,6 +5590,46 @@
       "bBoxNE": [
         1.644,
         1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowDown": {
+      "bBoxNE": [
+        1.644,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowUp": {
+      "bBoxNE": [
+        1.644,
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalNarrowReversedFlatArrowDown": {
+      "bBoxNE": [
+        1.116,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
+    "accidentalNarrowReversedFlatArrowUp": {
+      "bBoxNE": [
+        1.124,
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -6077,7 +6229,7 @@
     "accidentalQuarterToneFlatArrowUp": {
       "bBoxNE": [
         1.32,
-        2.332
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -6414,10 +6566,30 @@
         -1.628
       ]
     },
+    "accidentalReversedFlatAndFlatArrowDownZim": {
+      "bBoxNE": [
+        1.868,
+        1.86
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.516
+      ]
+    },
     "accidentalReversedFlatAndFlatArrowUp": {
       "bBoxNE": [
         1.6,
-        2.332
+        2.516
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.652
+      ]
+    },
+    "accidentalReversedFlatAndFlatArrowUpZim": {
+      "bBoxNE": [
+        1.868,
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -6437,7 +6609,7 @@
     "accidentalReversedFlatArrowUp": {
       "bBoxNE": [
         1.32,
-        2.332
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -6452,26 +6624,6 @@
       "bBoxSW": [
         0.0,
         -0.652
-      ]
-    },
-    "accidentalRingArrowDown": {
-      "bBoxNE": [
-        1.096,
-        0.892
-      ],
-      "bBoxSW": [
-        0.0,
-        -1.404
-      ]
-    },
-    "accidentalRingArrowUp": {
-      "bBoxNE": [
-        1.096,
-        1.404
-      ],
-      "bBoxSW": [
-        0.0,
-        -0.892
       ]
     },
     "accidentalSharp": {
@@ -6967,7 +7119,7 @@
     "accidentalThreeQuarterTonesFlatArrowUp": {
       "bBoxNE": [
         1.556,
-        2.72
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -10327,7 +10479,7 @@
     "csymAccidentalDoubleFlat": {
       "bBoxNE": [
         2.2,
-        3.0
+        2.508
       ],
       "bBoxSW": [
         0.08,
@@ -10347,7 +10499,7 @@
     "csymAccidentalFlat": {
       "bBoxNE": [
         1.28,
-        3.0
+        2.508
       ],
       "bBoxSW": [
         0.08,
@@ -10356,8 +10508,8 @@
     },
     "csymAccidentalNatural": {
       "bBoxNE": [
-        0.808,
-        3.0
+        0.84,
+        2.616
       ],
       "bBoxSW": [
         0.08,
@@ -10366,8 +10518,8 @@
     },
     "csymAccidentalQuadrupleFlat": {
       "bBoxNE": [
-        4.044,
-        3.0
+        4.04,
+        2.508
       ],
       "bBoxSW": [
         0.08,
@@ -10376,7 +10528,7 @@
     },
     "csymAccidentalQuadrupleSharp": {
       "bBoxNE": [
-        3.432,
+        3.44,
         1.552
       ],
       "bBoxSW": [
@@ -10387,7 +10539,7 @@
     "csymAccidentalSharp": {
       "bBoxNE": [
         1.18,
-        3.0
+        2.688
       ],
       "bBoxSW": [
         0.08,
@@ -10397,7 +10549,7 @@
     "csymAccidentalTripleFlat": {
       "bBoxNE": [
         3.12,
-        3.0
+        2.508
       ],
       "bBoxSW": [
         0.08,
@@ -10406,8 +10558,8 @@
     },
     "csymAccidentalTripleSharp": {
       "bBoxNE": [
-        2.7,
-        3.0
+        2.56,
+        2.688
       ],
       "bBoxSW": [
         0.08,
@@ -15514,6 +15666,16 @@
         0.0
       ]
     },
+    "keyboardPedalConPed": {
+      "bBoxNE": [
+        7.052,
+        2.0
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.024
+      ]
+    },
     "keyboardPedalD": {
       "bBoxNE": [
         0.928,
@@ -15792,6 +15954,16 @@
       "bBoxSW": [
         0.0,
         0.0
+      ]
+    },
+    "keyboardPedalSenzaPed": {
+      "bBoxNE": [
+        9.304,
+        2.0
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.024
       ]
     },
     "keyboardPedalSos": {
@@ -29047,7 +29219,7 @@
     "u1D12C": {
       "bBoxNE": [
         1.32,
-        2.332
+        2.516
       ],
       "bBoxSW": [
         0.0,
@@ -36204,6 +36376,16 @@
         -0.08
       ]
     },
+    "wiggleSawtoothExtraNarrow": {
+      "bBoxNE": [
+        0.784,
+        2.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
     "wiggleSawtoothNarrow": {
       "bBoxNE": [
         2.032,
@@ -36216,7 +36398,7 @@
     },
     "wiggleSawtoothNarrower": {
       "bBoxNE": [
-        1.032,
+        1.536,
         2.08
       ],
       "bBoxSW": [
@@ -36237,6 +36419,16 @@
     "wiggleSawtoothTripleWide": {
       "bBoxNE": [
         12.032,
+        2.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
+    "wiggleSawtoothVeryNarrow": {
+      "bBoxNE": [
+        1.032,
         2.08
       ],
       "bBoxSW": [
@@ -36294,6 +36486,16 @@
         -0.08
       ]
     },
+    "wiggleSquareWaveExtraNarrow": {
+      "bBoxNE": [
+        0.784,
+        1.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
     "wiggleSquareWaveNarrow": {
       "bBoxNE": [
         2.032,
@@ -36306,7 +36508,7 @@
     },
     "wiggleSquareWaveNarrower": {
       "bBoxNE": [
-        1.032,
+        1.536,
         1.08
       ],
       "bBoxSW": [
@@ -36327,6 +36529,16 @@
     "wiggleSquareWaveTripleWide": {
       "bBoxNE": [
         12.032,
+        1.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
+    "wiggleSquareWaveVeryNarrow": {
+      "bBoxNE": [
+        1.032,
         1.08
       ],
       "bBoxSW": [
@@ -36854,6 +37066,16 @@
         -0.08
       ]
     },
+    "wiggleWavyExtraNarrow": {
+      "bBoxNE": [
+        0.784,
+        2.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
     "wiggleWavyNarrow": {
       "bBoxNE": [
         2.032,
@@ -36866,7 +37088,7 @@
     },
     "wiggleWavyNarrower": {
       "bBoxNE": [
-        1.032,
+        1.536,
         2.08
       ],
       "bBoxSW": [
@@ -36887,6 +37109,16 @@
     "wiggleWavyTripleWide": {
       "bBoxNE": [
         12.032,
+        2.08
+      ],
+      "bBoxSW": [
+        -0.032,
+        -0.08
+      ]
+    },
+    "wiggleWavyVeryNarrow": {
+      "bBoxNE": [
+        1.032,
         2.08
       ],
       "bBoxSW": [
@@ -37703,6 +37935,14 @@
         {
           "codepoint": "U+F435",
           "name": "keyboardPedalSostNoDot"
+        },
+        {
+          "codepoint": "U+F6D1",
+          "name": "keyboardPedalSos2"
+        },
+        {
+          "codepoint": "U+F6D0",
+          "name": "keyboardPedalSos"
         }
       ]
     },
@@ -40608,6 +40848,26 @@
         0.54
       ]
     },
+    "accidentalBlackwoodDown": {
+      "cutOutNE": [
+        0.668,
+        2.008
+      ],
+      "cutOutNW": [
+        0.424,
+        2.008
+      ]
+    },
+    "accidentalBlackwoodUp": {
+      "cutOutSE": [
+        0.672,
+        0.288
+      ],
+      "cutOutSW": [
+        0.428,
+        0.288
+      ]
+    },
     "accidentalBuyukMucennebFlat": {
       "cutOutSE": [
         0.776,
@@ -41308,17 +41568,71 @@
         1.276
       ]
     },
-    "accidentalFilledReversedFlatAndFlatArrowUp": {
+    "accidentalFilledReversedFlatAndFlatArrowDownZim": {
       "cutOutNE": [
-        1.368,
-        1.316
+        1.236,
+        2.164
       ],
       "cutOutNW": [
-        0.24,
-        1.32
+        0.632,
+        2.164
+      ],
+      "cutOutSE": [
+        1.384,
+        0.996
+      ],
+      "cutOutSW": [
+        0.224,
+        1.184
+      ]
+    },
+    "accidentalFilledReversedFlatAndFlatArrowUp": {
+      "cutOutNE": [
+        1.38,
+        1.324
+      ],
+      "cutOutNW": [
+        0.22,
+        1.324
       ],
       "cutOutSE": [
         1.256,
+        0.232
+      ],
+      "cutOutSW": [
+        0.344,
+        0.232
+      ]
+    },
+    "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+      "cutOutNE": [
+        1.648,
+        1.324
+      ],
+      "cutOutNW": [
+        0.488,
+        1.336
+      ],
+      "cutOutSE": [
+        1.524,
+        0.232
+      ],
+      "cutOutSW": [
+        0.344,
+        0.232
+      ]
+    },
+    "accidentalFilledReversedFlatAndFlatZim": {
+      "cutOutNE": [
+        1.236,
+        1.3
+      ],
+      "cutOutNW": [
+        0.632,
+        1.3
+      ],
+      "cutOutSE": [
+        1.524,
         0.232
       ],
       "cutOutSW": [
@@ -41346,16 +41660,16 @@
     },
     "accidentalFilledReversedFlatArrowUp": {
       "cutOutNE": [
-        1.128,
-        2.668
+        1.132,
+        2.844
       ],
       "cutOutNW": [
-        0.24,
-        1.32
+        0.22,
+        1.324
       ],
       "cutOutSE": [
-        0.964,
-        2.1
+        0.968,
+        2.272
       ],
       "cutOutSW": [
         0.344,
@@ -41467,11 +41781,11 @@
     "accidentalFlatArrowBoth": {
       "cutOutNE": [
         1.1,
-        2.176
+        2.192
       ],
       "cutOutNW": [
         0.188,
-        3.524
+        3.708
       ],
       "cutOutSE": [
         1.1,
@@ -41674,20 +41988,20 @@
     },
     "accidentalFlatRaisedStockhausen": {
       "cutOutNE": [
-        1.092,
-        1.316
+        1.1,
+        1.324
       ],
       "cutOutNW": [
-        0.196,
-        2.668
+        0.188,
+        2.844
       ],
       "cutOutSE": [
         0.976,
         0.232
       ],
       "cutOutSW": [
-        0.356,
-        2.1
+        0.352,
+        2.272
       ]
     },
     "accidentalFlatRepeatedLineStockhausen": {
@@ -42790,6 +43104,106 @@
         0.324
       ]
     },
+    "accidentalNarrowFilledReversedFlat": {
+      "cutOutNW": [
+        0.46,
+        1.3
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlat": {
+      "cutOutNE": [
+        1.012,
+        1.3
+      ],
+      "cutOutNW": [
+        0.46,
+        1.3
+      ],
+      "cutOutSE": [
+        1.3,
+        0.232
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+      "cutOutNE": [
+        1.012,
+        2.164
+      ],
+      "cutOutNW": [
+        0.46,
+        2.164
+      ],
+      "cutOutSE": [
+        1.16,
+        0.996
+      ],
+      "cutOutSW": [
+        0.232,
+        0.372
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+      "cutOutNE": [
+        1.424,
+        1.324
+      ],
+      "cutOutNW": [
+        0.264,
+        1.336
+      ],
+      "cutOutSE": [
+        1.3,
+        0.232
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatArrowDown": {
+      "cutOutNE": [
+        0.744,
+        0.908
+      ],
+      "cutOutNW": [
+        0.46,
+        2.164
+      ],
+      "cutOutSE": [
+        0.928,
+        0.324
+      ],
+      "cutOutSW": [
+        0.232,
+        0.372
+      ]
+    },
+    "accidentalNarrowFilledReversedFlatArrowUp": {
+      "cutOutNE": [
+        0.936,
+        2.844
+      ],
+      "cutOutNW": [
+        0.248,
+        2.796
+      ],
+      "cutOutSE": [
+        0.744,
+        2.272
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
     "accidentalNarrowReversedFlat": {
       "cutOutNW": [
         0.46,
@@ -42812,6 +43226,78 @@
       "cutOutSE": [
         1.3,
         0.232
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowDown": {
+      "cutOutNE": [
+        1.012,
+        2.164
+      ],
+      "cutOutNW": [
+        0.46,
+        2.164
+      ],
+      "cutOutSE": [
+        1.16,
+        0.996
+      ],
+      "cutOutSW": [
+        0.232,
+        0.372
+      ]
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowUp": {
+      "cutOutNE": [
+        1.424,
+        1.324
+      ],
+      "cutOutNW": [
+        0.264,
+        1.336
+      ],
+      "cutOutSE": [
+        1.3,
+        0.232
+      ],
+      "cutOutSW": [
+        0.236,
+        0.24
+      ]
+    },
+    "accidentalNarrowReversedFlatArrowDown": {
+      "cutOutNE": [
+        0.744,
+        0.908
+      ],
+      "cutOutNW": [
+        0.46,
+        2.164
+      ],
+      "cutOutSE": [
+        0.928,
+        0.324
+      ],
+      "cutOutSW": [
+        0.232,
+        0.372
+      ]
+    },
+    "accidentalNarrowReversedFlatArrowUp": {
+      "cutOutNE": [
+        0.936,
+        2.844
+      ],
+      "cutOutNW": [
+        0.248,
+        2.796
+      ],
+      "cutOutSE": [
+        0.744,
+        2.272
       ],
       "cutOutSW": [
         0.236,
@@ -43533,19 +44019,19 @@
     "accidentalQuarterToneFlatArrowUp": {
       "cutOutNE": [
         1.1,
-        1.312
+        1.324
       ],
       "cutOutNW": [
         0.188,
-        2.66
+        2.844
       ],
       "cutOutSE": [
         0.976,
         0.232
       ],
       "cutOutSW": [
-        0.356,
-        2.096
+        0.352,
+        2.272
       ]
     },
     "accidentalQuarterToneFlatFilledReversed": {
@@ -44042,17 +44528,53 @@
         1.276
       ]
     },
-    "accidentalReversedFlatAndFlatArrowUp": {
+    "accidentalReversedFlatAndFlatArrowDownZim": {
       "cutOutNE": [
-        1.368,
-        1.316
+        1.24,
+        2.164
       ],
       "cutOutNW": [
-        0.24,
-        1.32
+        0.632,
+        2.164
+      ],
+      "cutOutSE": [
+        1.384,
+        0.996
+      ],
+      "cutOutSW": [
+        0.224,
+        1.184
+      ]
+    },
+    "accidentalReversedFlatAndFlatArrowUp": {
+      "cutOutNE": [
+        1.38,
+        1.324
+      ],
+      "cutOutNW": [
+        0.22,
+        1.324
       ],
       "cutOutSE": [
         1.256,
+        0.232
+      ],
+      "cutOutSW": [
+        0.344,
+        0.232
+      ]
+    },
+    "accidentalReversedFlatAndFlatArrowUpZim": {
+      "cutOutNE": [
+        1.648,
+        1.324
+      ],
+      "cutOutNW": [
+        0.488,
+        1.336
+      ],
+      "cutOutSE": [
+        1.524,
         0.232
       ],
       "cutOutSW": [
@@ -44080,16 +44602,16 @@
     },
     "accidentalReversedFlatArrowUp": {
       "cutOutNE": [
-        1.128,
-        2.668
+        1.132,
+        2.844
       ],
       "cutOutNW": [
-        0.24,
-        1.32
+        0.22,
+        1.324
       ],
       "cutOutSE": [
-        0.964,
-        2.1
+        0.968,
+        2.272
       ],
       "cutOutSW": [
         0.344,
@@ -44112,26 +44634,6 @@
       "cutOutSW": [
         0.344,
         0.232
-      ]
-    },
-    "accidentalRingArrowDown": {
-      "cutOutNE": [
-        0.668,
-        2.008
-      ],
-      "cutOutNW": [
-        0.424,
-        2.008
-      ]
-    },
-    "accidentalRingArrowUp": {
-      "cutOutSE": [
-        0.672,
-        0.288
-      ],
-      "cutOutSW": [
-        0.428,
-        0.288
       ]
     },
     "accidentalSharp": {
@@ -44914,12 +45416,12 @@
     },
     "accidentalThreeQuarterTonesFlatArrowUp": {
       "cutOutNE": [
-        1.328,
-        1.372
+        1.336,
+        1.324
       ],
       "cutOutNW": [
-        0.416,
-        3.032
+        0.332,
+        2.712
       ],
       "cutOutSE": [
         1.216,
@@ -49498,6 +50000,20 @@
       ],
       "codepoint": "U+F6D7"
     },
+    "accidentalBlackwoodDown": {
+      "classes": [
+        "accidentals",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F610"
+    },
+    "accidentalBlackwoodUp": {
+      "classes": [
+        "accidentals",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F611"
+    },
     "accidentalBraceLeft": {
       "classes": [
         "accidentals",
@@ -49720,6 +50236,22 @@
         "combiningStaffPositions"
       ],
       "codepoint": "U+F735"
+    },
+    "accidentalFilledReversedFlatAndFlatArrowDownZim": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F793"
+    },
+    "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F792"
     },
     "accidentalFlat20Percent": {
       "classes": [
@@ -50266,6 +50798,86 @@
       ],
       "codepoint": "U+F780"
     },
+    "accidentalNarrowFilledReversedFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F798"
+    },
+    "accidentalNarrowFilledReversedFlatAndFlat": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F79B"
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F79D"
+    },
+    "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F79C"
+    },
+    "accidentalNarrowFilledReversedFlatArrowDown": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F79A"
+    },
+    "accidentalNarrowFilledReversedFlatArrowUp": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F799"
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowDown": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F797"
+    },
+    "accidentalNarrowReversedFlatAndFlatArrowUp": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F796"
+    },
+    "accidentalNarrowReversedFlatArrowDown": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F795"
+    },
+    "accidentalNarrowReversedFlatArrowUp": {
+      "classes": [
+        "accidentals",
+        "accidentalsSteinZimmermann",
+        "combiningStaffPositions"
+      ],
+      "codepoint": "U+F794"
+    },
     "accidentalNarrowReversedFlatSlash": {
       "classes": [
         "accidentals",
@@ -50622,20 +51234,6 @@
         "combiningStaffPositions"
       ],
       "codepoint": "U+F619"
-    },
-    "accidentalRingArrowDown": {
-      "classes": [
-        "accidentals",
-        "combiningStaffPositions"
-      ],
-      "codepoint": "U+F610"
-    },
-    "accidentalRingArrowUp": {
-      "classes": [
-        "accidentals",
-        "combiningStaffPositions"
-      ],
-      "codepoint": "U+F611"
     },
     "accidentalSharp20Percent": {
       "classes": [
@@ -51648,6 +52246,12 @@
       ],
       "codepoint": "U+F648"
     },
+    "keyboardPedalConPed": {
+      "classes": [
+        "tf_pedals"
+      ],
+      "codepoint": "U+F79E"
+    },
     "keyboardPedalHalf4": {
       "classes": [
         "tf_pedals"
@@ -51697,6 +52301,12 @@
         "tf_pedals"
       ],
       "codepoint": "U+F6BC"
+    },
+    "keyboardPedalSenzaPed": {
+      "classes": [
+        "tf_pedals"
+      ],
+      "codepoint": "U+F79F"
     },
     "keyboardPedalSos": {
       "classes": [
@@ -52836,6 +53446,12 @@
       ],
       "codepoint": "U+F72D"
     },
+    "wiggleSawtoothExtraNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A5"
+    },
     "wiggleSawtoothNarrower": {
       "classes": [
         "multiGlyphForms"
@@ -52853,6 +53469,12 @@
         "multiGlyphForms"
       ],
       "codepoint": "U+F72E"
+    },
+    "wiggleSawtoothVeryNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A4"
     },
     "wiggleSawtoothVeryWide": {
       "classes": [
@@ -52872,6 +53494,12 @@
       ],
       "codepoint": "U+F729"
     },
+    "wiggleSquareWaveExtraNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A3"
+    },
     "wiggleSquareWaveNarrower": {
       "classes": [
         "multiGlyphForms"
@@ -52889,6 +53517,12 @@
         "multiGlyphForms"
       ],
       "codepoint": "U+F72A"
+    },
+    "wiggleSquareWaveVeryNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A2"
     },
     "wiggleSquareWaveVeryWide": {
       "classes": [
@@ -52908,6 +53542,12 @@
       ],
       "codepoint": "U+F725"
     },
+    "wiggleWavyExtraNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A1"
+    },
     "wiggleWavyNarrower": {
       "classes": [
         "multiGlyphForms"
@@ -52925,6 +53565,12 @@
         "multiGlyphForms"
       ],
       "codepoint": "U+F726"
+    },
+    "wiggleWavyVeryNarrow": {
+      "classes": [
+        "multiGlyphForms"
+      ],
+      "codepoint": "U+F7A0"
     },
     "wiggleWavyVeryWide": {
       "classes": [

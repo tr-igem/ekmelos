@@ -3729,6 +3729,27 @@
     "description": "Bakiye (sharp)",
     "ekmelily": true
   },
+  "accidentalBlackwoodDown": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62992,
+    "codepoint": "U+F610",
+    "description": "Arrow down with ring (Blackwood)"
+  },
+  "accidentalBlackwoodUp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62993,
+    "codepoint": "U+F611",
+    "description": "Arrow up with ring (Blackwood)",
+    "ekmelily": true
+  },
   "accidentalBraceLeft": {
     "block": "F400",
     "classes": [
@@ -4625,6 +4646,17 @@
     "codepoint": "U+E298",
     "description": "Filled reversed flat and flat with arrow down"
   },
+  "accidentalFilledReversedFlatAndFlatArrowDownZim": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63379,
+    "codepoint": "U+F793",
+    "description": "Filled reversed flat and flat with arrow down (Zimmermann)"
+  },
   "accidentalFilledReversedFlatAndFlatArrowUp": {
     "block": "E000",
     "classes": [
@@ -4635,6 +4667,28 @@
     "code": 58007,
     "codepoint": "U+E297",
     "description": "Filled reversed flat and flat with arrow up"
+  },
+  "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63378,
+    "codepoint": "U+F792",
+    "description": "Filled reversed flat and flat with arrow up (Zimmermann)"
+  },
+  "accidentalFilledReversedFlatAndFlatZim": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 58015,
+    "codepoint": "U+E29F",
+    "description": "Filled reversed flat and flat (Zimmermann)"
   },
   "accidentalFilledReversedFlatArrowDown": {
     "block": "E000",
@@ -6036,6 +6090,72 @@
     "codepoint": "U+ED51",
     "description": "Lowered (Stockhausen)"
   },
+  "accidentalNarrowFilledReversedFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63384,
+    "codepoint": "U+F798",
+    "description": "Narrow filled reversed flat"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63387,
+    "codepoint": "U+F79B",
+    "description": "Narrow filled reversed flat and flat"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63389,
+    "codepoint": "U+F79D",
+    "description": "Narrow filled reversed flat and flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63388,
+    "codepoint": "U+F79C",
+    "description": "Narrow filled reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowFilledReversedFlatArrowDown": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63386,
+    "codepoint": "U+F79A",
+    "description": "Narrow filled reversed flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlatArrowUp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63385,
+    "codepoint": "U+F799",
+    "description": "Narrow filled reversed flat with arrow up"
+  },
   "accidentalNarrowReversedFlat": {
     "block": "E000",
     "classes": [
@@ -6061,6 +6181,50 @@
     "description": "Narrow reversed flat and flat(three-quarter-tones flat)",
     "ekmelib": true,
     "ekmelily": true
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowDown": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63383,
+    "codepoint": "U+F797",
+    "description": "Narrow reversed flat and flat with arrow down"
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowUp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63382,
+    "codepoint": "U+F796",
+    "description": "Narrow reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowReversedFlatArrowDown": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63381,
+    "codepoint": "U+F795",
+    "description": "Narrow reversed flat with arrow down"
+  },
+  "accidentalNarrowReversedFlatArrowUp": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 63380,
+    "codepoint": "U+F794",
+    "description": "Narrow reversed flat with arrow up"
   },
   "accidentalNarrowReversedFlatSlash": {
     "block": "F400",
@@ -7178,6 +7342,17 @@
     "codepoint": "U+E295",
     "description": "Reversed flat and flat with arrow down"
   },
+  "accidentalReversedFlatAndFlatArrowDownZim": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 58014,
+    "codepoint": "U+E29E",
+    "description": "Reversed flat and flat with arrow down (Zimmermann)"
+  },
   "accidentalReversedFlatAndFlatArrowUp": {
     "block": "E000",
     "classes": [
@@ -7188,6 +7363,17 @@
     "code": 58004,
     "codepoint": "U+E294",
     "description": "Reversed flat and flat with arrow up"
+  },
+  "accidentalReversedFlatAndFlatArrowUpZim": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsSteinZimmermann",
+      "combiningStaffPositions"
+    ],
+    "code": 58013,
+    "codepoint": "U+E29D",
+    "description": "Reversed flat and flat with arrow up (Zimmermann)"
   },
   "accidentalReversedFlatArrowDown": {
     "block": "E000",
@@ -7220,27 +7406,6 @@
     "code": 63001,
     "codepoint": "U+F619",
     "description": "Reversed flat with slash",
-    "ekmelily": true
-  },
-  "accidentalRingArrowDown": {
-    "block": "F400",
-    "classes": [
-      "accidentals",
-      "combiningStaffPositions"
-    ],
-    "code": 62992,
-    "codepoint": "U+F610",
-    "description": "Arrow down with ring (lower for 15-edo and 21-edo)"
-  },
-  "accidentalRingArrowUp": {
-    "block": "F400",
-    "classes": [
-      "accidentals",
-      "combiningStaffPositions"
-    ],
-    "code": 62993,
-    "codepoint": "U+F611",
-    "description": "Arrow up with ring (raise for 15-edo and 21-edo)",
     "ekmelily": true
   },
   "accidentalSharp": {
@@ -15801,6 +15966,15 @@
     "codepoint": "U+E65F",
     "description": "Middle pedal pictogram"
   },
+  "keyboardPedalConPed": {
+    "block": "F400",
+    "classes": [
+      "tf_pedals"
+    ],
+    "code": 63390,
+    "codepoint": "U+F79E",
+    "description": "Con Pedale pedal mark"
+  },
   "keyboardPedalD": {
     "block": "E000",
     "classes": [
@@ -16010,7 +16184,7 @@
     ],
     "code": 62516,
     "codepoint": "U+F434",
-    "description": "Pedal mark (no dot) "
+    "description": "Pedal mark (no dot)"
   },
   "keyboardPedalPosFull": {
     "block": "F400",
@@ -16057,7 +16231,17 @@
     "codepoint": "U+E65A",
     "description": "Pedal S"
   },
+  "keyboardPedalSenzaPed": {
+    "block": "F400",
+    "classes": [
+      "tf_pedals"
+    ],
+    "code": 63391,
+    "codepoint": "U+F79F",
+    "description": "Senza Pedale pedal mark"
+  },
   "keyboardPedalSos": {
+    "alternateOf": "keyboardPedalSost",
     "block": "F400",
     "classes": [
       "tf_pedals"
@@ -16067,6 +16251,7 @@
     "description": "Sostenuto pedal mark 2 (lower case)"
   },
   "keyboardPedalSos2": {
+    "alternateOf": "keyboardPedalSost",
     "block": "F400",
     "classes": [
       "tf_pedals"
@@ -16080,6 +16265,14 @@
       {
         "codepoint": "U+F435",
         "name": "keyboardPedalSostNoDot"
+      },
+      {
+        "codepoint": "U+F6D1",
+        "name": "keyboardPedalSos2"
+      },
+      {
+        "codepoint": "U+F6D0",
+        "name": "keyboardPedalSos"
       }
     ],
     "block": "E000",
@@ -33920,6 +34113,15 @@
     "codepoint": "U+F72D",
     "description": "Double wide sawtooth line segment (2em)"
   },
+  "wiggleSawtoothExtraNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63397,
+    "codepoint": "U+F7A5",
+    "description": "Extra narrow sawtooth line segment"
+  },
   "wiggleSawtoothNarrow": {
     "block": "E000",
     "classes": [],
@@ -33953,6 +34155,15 @@
     "code": 63278,
     "codepoint": "U+F72E",
     "description": "Triple wide sawtooth line segment (3em)"
+  },
+  "wiggleSawtoothVeryNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63396,
+    "codepoint": "U+F7A4",
+    "description": "Very narrow sawtooth line segment"
   },
   "wiggleSawtoothVeryWide": {
     "block": "F400",
@@ -33997,6 +34208,15 @@
     "codepoint": "U+F729",
     "description": "Double wide square wave line segment (2em)"
   },
+  "wiggleSquareWaveExtraNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63395,
+    "codepoint": "U+F7A3",
+    "description": "Extra narrow square wave line segment"
+  },
   "wiggleSquareWaveNarrow": {
     "block": "E000",
     "classes": [],
@@ -34030,6 +34250,15 @@
     "code": 63274,
     "codepoint": "U+F72A",
     "description": "Triple wide square wave line segment (3em)"
+  },
+  "wiggleSquareWaveVeryNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63394,
+    "codepoint": "U+F7A2",
+    "description": "Very narrow square wave line segment"
   },
   "wiggleSquareWaveVeryWide": {
     "block": "F400",
@@ -34538,6 +34767,15 @@
     "codepoint": "U+F725",
     "description": "Double wide wavy line segment (2em)"
   },
+  "wiggleWavyExtraNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63393,
+    "codepoint": "U+F7A1",
+    "description": "Extra narrow wavy line segment"
+  },
   "wiggleWavyNarrow": {
     "block": "E000",
     "classes": [],
@@ -34571,6 +34809,15 @@
     "code": 63270,
     "codepoint": "U+F726",
     "description": "Triple wide wavy line segment (3em)"
+  },
+  "wiggleWavyVeryNarrow": {
+    "block": "F400",
+    "classes": [
+      "multiGlyphForms"
+    ],
+    "code": 63392,
+    "codepoint": "U+F7A0",
+    "description": "Very narrow wavy line segment"
   },
   "wiggleWavyVeryWide": {
     "block": "F400",

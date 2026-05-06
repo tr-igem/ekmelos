@@ -133,7 +133,7 @@ for g in font.selection.byGlyphs:
         if not c.isClockwise(): continue
 
         # countContours += 1
-        # if countContours == 2: continue
+        # if countContours != 2: continue
 
         SE.reset()
         SW.reset()

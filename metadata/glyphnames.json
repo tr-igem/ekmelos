@@ -1387,6 +1387,14 @@
     "codepoint": "U+E445",
     "description": "Bakiye (sharp)"
   },
+  "accidentalBlackwoodDown": {
+    "codepoint": "U+F610",
+    "description": "Arrow down with ring (Blackwood)"
+  },
+  "accidentalBlackwoodUp": {
+    "codepoint": "U+F611",
+    "description": "Arrow up with ring (Blackwood)"
+  },
   "accidentalBraceLeft": {
     "codepoint": "U+F6D4",
     "description": "Accidental curly bracket, left"
@@ -1711,9 +1719,21 @@
     "codepoint": "U+E298",
     "description": "Filled reversed flat and flat with arrow down"
   },
+  "accidentalFilledReversedFlatAndFlatArrowDownZim": {
+    "codepoint": "U+F793",
+    "description": "Filled reversed flat and flat with arrow down (Zimmermann)"
+  },
   "accidentalFilledReversedFlatAndFlatArrowUp": {
     "codepoint": "U+E297",
     "description": "Filled reversed flat and flat with arrow up"
+  },
+  "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+    "codepoint": "U+F792",
+    "description": "Filled reversed flat and flat with arrow up (Zimmermann)"
+  },
+  "accidentalFilledReversedFlatAndFlatZim": {
+    "codepoint": "U+E29F",
+    "description": "Filled reversed flat and flat (Zimmermann)"
   },
   "accidentalFilledReversedFlatArrowDown": {
     "codepoint": "U+E293",
@@ -2171,6 +2191,30 @@
     "codepoint": "U+ED51",
     "description": "Lowered (Stockhausen)"
   },
+  "accidentalNarrowFilledReversedFlat": {
+    "codepoint": "U+F798",
+    "description": "Narrow filled reversed flat"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlat": {
+    "codepoint": "U+F79B",
+    "description": "Narrow filled reversed flat and flat"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+    "codepoint": "U+F79D",
+    "description": "Narrow filled reversed flat and flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+    "codepoint": "U+F79C",
+    "description": "Narrow filled reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowFilledReversedFlatArrowDown": {
+    "codepoint": "U+F79A",
+    "description": "Narrow filled reversed flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlatArrowUp": {
+    "codepoint": "U+F799",
+    "description": "Narrow filled reversed flat with arrow up"
+  },
   "accidentalNarrowReversedFlat": {
     "codepoint": "U+E284",
     "description": "Narrow reversed flat(quarter-tone flat)"
@@ -2178,6 +2222,22 @@
   "accidentalNarrowReversedFlatAndFlat": {
     "codepoint": "U+E285",
     "description": "Narrow reversed flat and flat(three-quarter-tones flat)"
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowDown": {
+    "codepoint": "U+F797",
+    "description": "Narrow reversed flat and flat with arrow down"
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowUp": {
+    "codepoint": "U+F796",
+    "description": "Narrow reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowReversedFlatArrowDown": {
+    "codepoint": "U+F795",
+    "description": "Narrow reversed flat with arrow down"
+  },
+  "accidentalNarrowReversedFlatArrowUp": {
+    "codepoint": "U+F794",
+    "description": "Narrow reversed flat with arrow up"
   },
   "accidentalNarrowReversedFlatSlash": {
     "codepoint": "U+F61A",
@@ -2551,9 +2611,17 @@
     "codepoint": "U+E295",
     "description": "Reversed flat and flat with arrow down"
   },
+  "accidentalReversedFlatAndFlatArrowDownZim": {
+    "codepoint": "U+E29E",
+    "description": "Reversed flat and flat with arrow down (Zimmermann)"
+  },
   "accidentalReversedFlatAndFlatArrowUp": {
     "codepoint": "U+E294",
     "description": "Reversed flat and flat with arrow up"
+  },
+  "accidentalReversedFlatAndFlatArrowUpZim": {
+    "codepoint": "U+E29D",
+    "description": "Reversed flat and flat with arrow up (Zimmermann)"
   },
   "accidentalReversedFlatArrowDown": {
     "codepoint": "U+E291",
@@ -2566,14 +2634,6 @@
   "accidentalReversedFlatSlash": {
     "codepoint": "U+F619",
     "description": "Reversed flat with slash"
-  },
-  "accidentalRingArrowDown": {
-    "codepoint": "U+F610",
-    "description": "Arrow down with ring (lower for 15-edo and 21-edo)"
-  },
-  "accidentalRingArrowUp": {
-    "codepoint": "U+F611",
-    "description": "Arrow up with ring (raise for 15-edo and 21-edo)"
   },
   "accidentalSharp": {
     "codepoint": "U+E262",
@@ -6192,6 +6252,10 @@
     "codepoint": "U+E65F",
     "description": "Middle pedal pictogram"
   },
+  "keyboardPedalConPed": {
+    "codepoint": "U+F79E",
+    "description": "Con Pedale pedal mark"
+  },
   "keyboardPedalD": {
     "codepoint": "U+E653",
     "description": "Pedal d"
@@ -6282,7 +6346,7 @@
   },
   "keyboardPedalPedNoDot": {
     "codepoint": "U+F434",
-    "description": "Pedal mark (no dot) "
+    "description": "Pedal mark (no dot)"
   },
   "keyboardPedalPosFull": {
     "codepoint": "U+F6BD",
@@ -6303,6 +6367,10 @@
   "keyboardPedalS": {
     "codepoint": "U+E65A",
     "description": "Pedal S"
+  },
+  "keyboardPedalSenzaPed": {
+    "codepoint": "U+F79F",
+    "description": "Senza Pedale pedal mark"
   },
   "keyboardPedalSos": {
     "codepoint": "U+F6D0",
@@ -11680,6 +11748,10 @@
     "codepoint": "U+F72D",
     "description": "Double wide sawtooth line segment (2em)"
   },
+  "wiggleSawtoothExtraNarrow": {
+    "codepoint": "U+F7A5",
+    "description": "Extra narrow sawtooth line segment"
+  },
   "wiggleSawtoothNarrow": {
     "codepoint": "U+EABA",
     "description": "Narrow sawtooth line segment"
@@ -11695,6 +11767,10 @@
   "wiggleSawtoothTripleWide": {
     "codepoint": "U+F72E",
     "description": "Triple wide sawtooth line segment (3em)"
+  },
+  "wiggleSawtoothVeryNarrow": {
+    "codepoint": "U+F7A4",
+    "description": "Very narrow sawtooth line segment"
   },
   "wiggleSawtoothVeryWide": {
     "codepoint": "U+F72C",
@@ -11716,6 +11792,10 @@
     "codepoint": "U+F729",
     "description": "Double wide square wave line segment (2em)"
   },
+  "wiggleSquareWaveExtraNarrow": {
+    "codepoint": "U+F7A3",
+    "description": "Extra narrow square wave line segment"
+  },
   "wiggleSquareWaveNarrow": {
     "codepoint": "U+EAB7",
     "description": "Narrow square wave line segment"
@@ -11731,6 +11811,10 @@
   "wiggleSquareWaveTripleWide": {
     "codepoint": "U+F72A",
     "description": "Triple wide square wave line segment (3em)"
+  },
+  "wiggleSquareWaveVeryNarrow": {
+    "codepoint": "U+F7A2",
+    "description": "Very narrow square wave line segment"
   },
   "wiggleSquareWaveVeryWide": {
     "codepoint": "U+F728",
@@ -11940,6 +12024,10 @@
     "codepoint": "U+F725",
     "description": "Double wide wavy line segment (2em)"
   },
+  "wiggleWavyExtraNarrow": {
+    "codepoint": "U+F7A1",
+    "description": "Extra narrow wavy line segment"
+  },
   "wiggleWavyNarrow": {
     "codepoint": "U+EAB4",
     "description": "Narrow wavy line segment"
@@ -11955,6 +12043,10 @@
   "wiggleWavyTripleWide": {
     "codepoint": "U+F726",
     "description": "Triple wide wavy line segment (3em)"
+  },
+  "wiggleWavyVeryNarrow": {
+    "codepoint": "U+F7A0",
+    "description": "Very narrow wavy line segment"
   },
   "wiggleWavyVeryWide": {
     "codepoint": "U+F724",

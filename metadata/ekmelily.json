@@ -67,11 +67,11 @@
       "accidentalSharp": 2
     },
     "bl": {
+      "accidentalBlackwoodUp": 1,
       "accidentalDoubleFlat": -4,
       "accidentalDoubleSharp": 4,
       "accidentalFlat": -2,
       "accidentalNatural": 0,
-      "accidentalRingArrowUp": 1,
       "accidentalSharp": 2
     },
     "four": {

@@ -15,8 +15,8 @@
     "accidentalsTunisian",
     "accidentalsOpenMusic",
 
-    "accidentalRingArrowDown",
-    "accidentalRingArrowUp",
+    "accidentalBlackwoodDown",
+    "accidentalBlackwoodUp",
     "accidentalHalfFlat",
     "accidentalHalfDoubleFlat",
     "accidentalFlatArrowBoth",
@@ -46,7 +46,22 @@
   "accidentalsSteinZimmermann": [
     "accidentalQuarterToneSharpZimmermann",
     "accidentalThreeQuarterToneSharpZimmermann",
-    "accidentalQuarterToneSharpZimmermannAndSharp"
+    "accidentalQuarterToneSharpZimmermannAndSharp",
+    "accidentalReversedFlatAndFlatArrowUpZim",
+    "accidentalReversedFlatAndFlatArrowDownZim",
+    "accidentalFilledReversedFlatAndFlatZim",
+    "accidentalFilledReversedFlatAndFlatArrowUpZim",
+    "accidentalFilledReversedFlatAndFlatArrowDownZim",
+    "accidentalNarrowReversedFlatArrowUp",
+    "accidentalNarrowReversedFlatArrowDown",
+    "accidentalNarrowReversedFlatAndFlatArrowUp",
+    "accidentalNarrowReversedFlatAndFlatArrowDown",
+    "accidentalNarrowFilledReversedFlat",
+    "accidentalNarrowFilledReversedFlatArrowUp",
+    "accidentalNarrowFilledReversedFlatArrowDown",
+    "accidentalNarrowFilledReversedFlatAndFlat",
+    "accidentalNarrowFilledReversedFlatAndFlatArrowUp",
+    "accidentalNarrowFilledReversedFlatAndFlatArrowDown"
   ],
 
   "accidentalsParenthesised": [
@@ -484,6 +499,8 @@
     "wiggleWavyDoubleWide",
     "wiggleWavyTripleWide",
     "wiggleWavyQuadrupleWide",
+    "wiggleWavyVeryNarrow",
+    "wiggleWavyExtraNarrow",
 
     "wiggleSquareWaveNarrower",
     "wiggleSquareWaveWider",
@@ -491,13 +508,17 @@
     "wiggleSquareWaveDoubleWide",
     "wiggleSquareWaveTripleWide",
     "wiggleSquareWaveQuadrupleWide",
+    "wiggleSquareWaveVeryNarrow",
+    "wiggleSquareWaveExtraNarrow",
 
     "wiggleSawtoothNarrower",
     "wiggleSawtoothWider",
     "wiggleSawtoothVeryWide",
     "wiggleSawtoothDoubleWide",
     "wiggleSawtoothTripleWide",
-    "wiggleSawtoothQuadrupleWide"
+    "wiggleSawtoothQuadrupleWide",
+    "wiggleSawtoothVeryNarrow",
+    "wiggleSawtoothExtraNarrow"
   ],
 
 
@@ -654,7 +675,9 @@
     "keyboardPedalUC",
     "keyboardPedalTC",
     "keyboardPedalSos",
-    "keyboardPedalSos2"
+    "keyboardPedalSos2",
+    "keyboardPedalConPed",
+    "keyboardPedalSenzaPed"
   ],
 
 

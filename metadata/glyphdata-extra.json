@@ -13,6 +13,16 @@
     "description": "Quarter tone sharp and sharp (Zimmermann)"
   },
 
+  "accidentalReversedFlatAndFlatArrowUpZim": {
+    "description": "Reversed flat and flat with arrow up (Zimmermann)"
+  },
+  "accidentalReversedFlatAndFlatArrowDownZim": {
+    "description": "Reversed flat and flat with arrow down (Zimmermann)"
+  },
+  "accidentalFilledReversedFlatAndFlatZim": {
+    "description": "Filled reversed flat and flat (Zimmermann)"
+  },
+
   "generalPause": {
     "description": "General pause"
   },
@@ -198,7 +208,7 @@
   },
 
   "keyboardPedalPedNoDot": {
-    "description": "Pedal mark (no dot) "
+    "description": "Pedal mark (no dot)"
   },
   "keyboardPedalSostNoDot": {
     "description": "Sostenuto pedal mark (no dot)"
@@ -548,11 +558,11 @@
     "description": "1/4 tone high"
   },
 
-  "accidentalRingArrowDown": {
-    "description": "Arrow down with ring (lower for 15-edo and 21-edo)"
+  "accidentalBlackwoodDown": {
+    "description": "Arrow down with ring (Blackwood)"
   },
-  "accidentalRingArrowUp": {
-    "description": "Arrow up with ring (raise for 15-edo and 21-edo)"
+  "accidentalBlackwoodUp": {
+    "description": "Arrow up with ring (Blackwood)"
   },
   "accidentalHalfFlat": {
     "description": "Half flat (lower by 6/31)"
@@ -764,7 +774,7 @@
 
   "graceNoteStemUp": {
     "description": "Grace note stem down"
-	},
+  },
   "graceNoteStemDown": {
     "description": "Grace note stem up"
   },
@@ -1759,5 +1769,69 @@
   },
   "reversedBraceFlat": {
     "description": "Reversed brace flat"
+  },
+
+  "accidentalFilledReversedFlatAndFlatArrowUpZim": {
+    "description": "Filled reversed flat and flat with arrow up (Zimmermann)"
+  },
+  "accidentalFilledReversedFlatAndFlatArrowDownZim": {
+    "description": "Filled reversed flat and flat with arrow down (Zimmermann)"
+  },
+
+  "accidentalNarrowReversedFlatArrowUp": {
+    "description": "Narrow reversed flat with arrow up"
+  },
+  "accidentalNarrowReversedFlatArrowDown": {
+    "description": "Narrow reversed flat with arrow down"
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowUp": {
+    "description": "Narrow reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowReversedFlatAndFlatArrowDown": {
+    "description": "Narrow reversed flat and flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlat": {
+    "description": "Narrow filled reversed flat"
+  },
+  "accidentalNarrowFilledReversedFlatArrowUp": {
+    "description": "Narrow filled reversed flat with arrow up"
+  },
+  "accidentalNarrowFilledReversedFlatArrowDown": {
+    "description": "Narrow filled reversed flat with arrow down"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlat": {
+    "description": "Narrow filled reversed flat and flat"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowUp": {
+    "description": "Narrow filled reversed flat and flat with arrow up"
+  },
+  "accidentalNarrowFilledReversedFlatAndFlatArrowDown": {
+    "description": "Narrow filled reversed flat and flat with arrow down"
+  },
+
+  "keyboardPedalConPed": {
+    "description": "Con Pedale pedal mark"
+  },
+  "keyboardPedalSenzaPed": {
+    "description": "Senza Pedale pedal mark"
+  },
+
+  "wiggleWavyVeryNarrow": {
+    "description": "Very narrow wavy line segment"
+  },
+  "wiggleWavyExtraNarrow": {
+    "description": "Extra narrow wavy line segment"
+  },
+  "wiggleSquareWaveVeryNarrow": {
+    "description": "Very narrow square wave line segment"
+  },
+  "wiggleSquareWaveExtraNarrow": {
+    "description": "Extra narrow square wave line segment"
+  },
+  "wiggleSawtoothVeryNarrow": {
+    "description": "Very narrow sawtooth line segment"
+  },
+  "wiggleSawtoothExtraNarrow": {
+    "description": "Extra narrow sawtooth line segment"
   }
 }
